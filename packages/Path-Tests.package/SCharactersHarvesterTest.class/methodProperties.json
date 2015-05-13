@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"test01DefaultRangePropertyInitialization" : "mp 5/3/2013 11:51:22.208",
+		"test02Equality" : "mp 5/7/2013 17:45:28.488",
+		"test03CharactersRange" : "mp 5/7/2013 17:31:14.28",
+		"test04IncludesLetters" : "mp 5/7/2013 17:31:16.001",
+		"test05IncludesDigits" : "mp 5/7/2013 17:31:17.836",
+		"test06IncludesSeparators" : "mp 5/7/2013 17:31:19.663",
+		"test07IncludesSpecials" : "mp 5/7/2013 17:31:21.226",
+		"test08Lowercase" : "mp 5/7/2013 17:31:22.671",
+		"test09Uppercase" : "mp 5/7/2013 17:31:24.176",
+		"test10HttpSafe" : "mp 5/7/2013 17:31:25.712" } }

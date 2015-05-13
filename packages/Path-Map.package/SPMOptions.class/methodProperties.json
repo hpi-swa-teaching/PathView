@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"on:" : "mp 9/15/2010 13:39:25.852",
+		"transparentForColorLegend" : "mp 9/22/2010 15:01:33.101",
+		"whiteForColorLegend" : "mp 9/21/2010 13:54:18.041" },
+	"instance" : {
+		"colorLegend" : "mp 9/16/2010 18:57:31.39",
+		"colorLegend:" : "mp 9/16/2010 18:57:31.395",
+		"getLabelString:" : "mp 9/17/2010 13:34:51.215",
+		"isFaultLocalizationOptions" : "mp 5/12/2011 10:43:38.956",
+		"isGlobalOptions" : "mp 5/12/2011 10:43:33.953",
+		"isInductiveOptions" : "mp 1/20/2012 09:43:05.447",
+		"isProfilingOptions" : "mp 5/12/2011 10:43:28.532",
+		"isSelectedAnalysisOption" : "mp 9/16/2010 15:12:04.154",
+		"isTestQualityOptions" : "mp 5/12/2011 10:44:13.717",
+		"isTraceabilityOptions" : "mp 5/12/2011 10:44:19.806",
+		"pathMap" : "mp 9/15/2010 13:44:21.861",
+		"pathMap:" : "mp 9/15/2010 13:44:21.865",
+		"redrawPathMapIfPossible" : "mp 3/17/2012 21:15:12.281",
+		"refreshColorLegend" : "mp 9/20/2010 13:48:53.602",
+		"refreshColorLegendHorizontal" : "mp 9/21/2010 13:55:39.793",
+		"refreshColorLegendVertical" : "mp 9/21/2010 13:55:55.958",
+		"visualizeStaticMetric" : "mp 9/16/2010 17:55:24.36" } }

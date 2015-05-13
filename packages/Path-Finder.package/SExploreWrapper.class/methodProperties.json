@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"on:inClass:waitingCalls:exploreWhat:" : "mp 1/25/2010 17:37" },
+	"instance" : {
+		"exploreWhat" : "mp 1/25/2010 17:30",
+		"exploreWhat:" : "mp 1/25/2010 17:30",
+		"found" : "mp 1/25/2010 18:48",
+		"found:" : "mp 1/25/2010 18:48",
+		"getArguments:" : "mp 1/25/2010 17:34",
+		"getReturn:" : "mp 3/5/2010 16:51",
+		"getSelfAfter:" : "bs 7/17/2010 14:32:28.652",
+		"getSelfBefore:" : "mp 1/25/2010 17:35",
+		"getTypeInformation:of:" : "mp 3/4/2010 09:50",
+		"objects" : "mp 1/25/2010 17:30",
+		"objects:" : "mp 1/25/2010 17:30",
+		"valueWithReceiver:arguments:" : "bs 7/17/2010 16:00:15.791" } }

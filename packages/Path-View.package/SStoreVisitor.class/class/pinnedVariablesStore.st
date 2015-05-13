@@ -1,0 +1,4 @@
+stores
+pinnedVariablesStore
+
+	^ #pinnedVariables

@@ -1,0 +1,14 @@
+{
+	"category" : "DicThesaurusRex-Hunspell",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jr 7/18/2013 01:30:12.709",
+	"instvars" : [
+		 ],
+	"name" : "DTRHunspellZombie",
+	"pools" : [
+		 ],
+	"super" : "DTRHunspell",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"classVariableNames" : "tfel 4/30/2011 14:16:31.51",
+		"instanceVariableNames" : "tfel 5/13/2011 18:02:00.322",
+		"isAbstract" : "tfel 4/30/2011 19:03:54.18",
+		"sandboxCategory" : "tfel 3/6/2012 14:04:40.617",
+		"testClassName" : "tfel 4/30/2011 14:16:15.87" },
+	"instance" : {
+		"allSubmorphsRecursiveFor:" : "tfel 4/30/2011 14:10:29.556",
+		"defaultTimeout" : "tfel 4/30/2011 18:56:39.718",
+		"setUp" : "tfel 2/14/2012 10:47:48.448",
+		"setUpAssociatedTestClass" : "tfel 3/6/2012 14:04:49.897",
+		"setUpSProject" : "mp 7/16/2013 17:29:37.204",
+		"setUpTestClass" : "tfel 3/6/2012 14:04:19.236",
+		"tearDown" : "tfel 2/14/2012 10:44:32.968",
+		"tearDownSProject" : "tfel 5/5/2011 15:16:11.567",
+		"thereIsAStringMorphIn:with:" : "tfel 7/12/2011 14:38:04.68" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Tests-CallTree",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"callTree" ],
+	"name" : "SCallTreeTest",
+	"pools" : [
+		 ],
+	"super" : "STracerTest",
+	"type" : "normal" }

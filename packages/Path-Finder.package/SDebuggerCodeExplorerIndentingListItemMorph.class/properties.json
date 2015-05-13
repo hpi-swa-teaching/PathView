@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Finder-Debugger",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SDebuggerCodeExplorerIndentingListItemMorph",
+	"pools" : [
+		 ],
+	"super" : "SCodeExplorerIndentingListItemMorph",
+	"type" : "normal" }

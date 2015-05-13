@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Tests-Harvester-Sandbox",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SHClassSubB",
+	"pools" : [
+		 ],
+	"super" : "SHClassB",
+	"type" : "normal" }

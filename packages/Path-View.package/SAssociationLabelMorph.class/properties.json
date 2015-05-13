@@ -1,0 +1,15 @@
+{
+	"category" : "Path-View-Connector",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"containerType",
+		"keyType" ],
+	"name" : "SAssociationLabelMorph",
+	"pools" : [
+		 ],
+	"super" : "SSmartLabelMorph",
+	"type" : "normal" }

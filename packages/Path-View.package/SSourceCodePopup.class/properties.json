@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"sourceCodeMorph" ],
+	"name" : "SSourceCodePopup",
+	"pools" : [
+		 ],
+	"super" : "SPopupMorph",
+	"type" : "normal" }

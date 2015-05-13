@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"afterMethod" : "or 11/30/2011 19:45:35.702",
+		"afterMethod:" : "mp 5/14/2013 14:57:13.477",
+		"beforeMethod" : "or 11/23/2011 13:47:09.967",
+		"beforeMethod:" : "mp 5/14/2013 14:57:15.122",
+		"containsActiveGroup:policy:" : "ls 1/18/2012 17:40:04.198",
+		"getSourceFor:in:" : "or 1/31/2012 14:11:46.619",
+		"invariantGroups" : "or 1/18/2012 16:33:57.572",
+		"invariantsWithReceiver:policy:" : "or 1/31/2012 14:15:23.587",
+		"isContractWrapper" : "ls 1/6/2012 13:58:06.379",
+		"oldObject" : "ls 1/14/2012 22:45:01.38",
+		"oldObject:" : "ls 1/14/2012 22:44:56.78",
+		"postconditionGroups" : "ls 1/18/2012 17:35:44.002",
+		"postconditionGroups:" : "ls 1/18/2012 17:35:37.369",
+		"postconditionsWithReceiver:arguments:policy:" : "or 1/31/2012 14:15:42.001",
+		"preconditionGroups" : "ls 1/18/2012 17:35:31.382",
+		"preconditionGroups:" : "ls 1/18/2012 17:35:24.524",
+		"preconditionsWithReceiver:arguments:policy:" : "or 1/31/2012 14:15:46.731",
+		"requiresOldObject" : "mp 7/16/2013 11:09:39.701",
+		"requiresOldObject:" : "ls 1/17/2012 19:38:26.819",
+		"result" : "ls 12/6/2011 23:04:46.119",
+		"result:" : "ls 12/6/2011 23:04:51.205",
+		"valueWithReceiver:arguments:" : "or 1/31/2012 14:17:49.292" } }

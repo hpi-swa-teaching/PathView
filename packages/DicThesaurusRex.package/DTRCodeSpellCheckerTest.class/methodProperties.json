@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "jp 7/7/2013 11:27:59.359",
+		"testCheckSpellingOf" : "mp 10/18/2013 10:46:49.18",
+		"testCheckSpellingOfAtEnd" : "jp 7/7/2013 11:49:26.968",
+		"testCheckSpellingOfRegression1" : "jp 7/7/2013 11:32:36.347",
+		"testCheckSpellingOfRegression2" : "jr 7/16/2013 11:16:47.838",
+		"testCheckSpellingOfWithCamelCase" : "jp 7/7/2013 12:35:26.648" } }

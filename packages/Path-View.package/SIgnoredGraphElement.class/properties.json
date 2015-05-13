@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-GraphLayout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SIgnoredGraphElement",
+	"pools" : [
+		 ],
+	"super" : "SGraphElement",
+	"type" : "normal" }

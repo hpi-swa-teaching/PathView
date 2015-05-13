@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testShouldAllowOpeningABrowserOnDoubleClick" : "tfel 6/9/2011 14:05:12.048",
+		"testShouldAllowRefreshingTheClass" : "tfel 4/30/2011 18:27:04.694",
+		"testShouldAutomaticallyRefreshTheClass" : "tfel 4/30/2011 18:27:39.005",
+		"testShouldBeExpandedByDefault" : "tfel 4/30/2011 18:11:03.415",
+		"testShouldShowAClassName" : "tfel 4/30/2011 18:29:29.951",
+		"testShouldShowASuperclass" : "tfel 4/30/2011 18:29:20.685" } }

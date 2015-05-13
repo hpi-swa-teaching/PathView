@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-ClassMorph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"toolbar" ],
+	"name" : "SMorphWithToolbar",
+	"pools" : [
+		 ],
+	"super" : "SClassDiagramMorph",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"defaultTransferType" : "tfel 4/28/2011 16:40:32.028",
+		"dropEventFor:" : "tfel 4/28/2011 16:46:39.646",
+		"omniBrowserTransferType" : "tfel 4/28/2011 16:40:41.757",
+		"setUp" : "tfel 4/28/2011 16:01:39.696",
+		"testAcceptsClassDropsFromBrowser" : "tfel 7/14/2011 15:03:04.021",
+		"testAcceptsClassDropsFromOmniBrowser" : "tfel 7/14/2011 15:03:57.303",
+		"testFailsSilentlyForRandomlyDroppedMorphs" : "tfel 7/14/2011 15:03:19.449",
+		"testTransferredMorphHasDropPosition" : "mp 7/16/2013 13:17:20.994",
+		"transferEventFor:" : "tfel 4/28/2011 16:47:10.507",
+		"transferEventFor:withType:" : "tfel 4/28/2011 16:47:16.837" } }

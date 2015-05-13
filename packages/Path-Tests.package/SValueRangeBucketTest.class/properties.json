@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Tests-Harvester-ValueRanges",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SValueRangeBucketTest",
+	"pools" : [
+		 ],
+	"super" : "SValueRangeHarvesterTest",
+	"type" : "normal" }

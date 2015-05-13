@@ -1,0 +1,15 @@
+{
+	"category" : "Path-Core-Tools-View",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"startClass",
+		"classDiagramMorph" ],
+	"name" : "SPathView",
+	"pools" : [
+		 ],
+	"super" : "STool",
+	"type" : "normal" }

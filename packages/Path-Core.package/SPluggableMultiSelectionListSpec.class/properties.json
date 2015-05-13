@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Core-Specs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"itemColor" ],
+	"name" : "SPluggableMultiSelectionListSpec",
+	"pools" : [
+		 ],
+	"super" : "PluggableMultiSelectionListSpec",
+	"type" : "normal" }

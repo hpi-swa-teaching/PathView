@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Finder-CallTree",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SRootCallNode",
+	"pools" : [
+		 ],
+	"super" : "SCallNode",
+	"type" : "normal" }

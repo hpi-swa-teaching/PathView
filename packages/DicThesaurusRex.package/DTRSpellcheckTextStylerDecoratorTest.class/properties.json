@@ -1,0 +1,16 @@
+{
+	"category" : "DicThesaurusRex-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jp 7/1/2013 17:56:01.489",
+	"instvars" : [
+		"sut",
+		"stubView",
+		"stubParentStyler" ],
+	"name" : "DTRSpellcheckTextStylerDecoratorTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

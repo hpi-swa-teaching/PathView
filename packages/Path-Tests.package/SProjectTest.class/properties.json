@@ -1,0 +1,15 @@
+{
+	"category" : "Path-Tests-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"oldRegistry",
+		"oldCurrentProject" ],
+	"name" : "SProjectTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

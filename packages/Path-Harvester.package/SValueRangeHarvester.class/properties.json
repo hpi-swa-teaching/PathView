@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Harvester",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ColorPropertiesMapping" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SValueRangeHarvester",
+	"pools" : [
+		 ],
+	"super" : "SHarvester",
+	"type" : "normal" }

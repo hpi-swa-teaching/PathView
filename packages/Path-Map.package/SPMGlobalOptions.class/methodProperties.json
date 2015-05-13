@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"ignoreTracingOfSetUpAndTearDownMethods" : "mp 9/16/2010 10:58:57.745",
+		"ignoreTracingOfSetUpAndTearDownMethods:" : "mp 9/16/2010 10:58:57.749",
+		"initialize" : "mp 5/10/2013 16:48:50.379",
+		"isGlobalOptions" : "mp 5/12/2011 10:45:17.084",
+		"showAllMethods" : "mp 5/10/2013 16:50:07.935",
+		"showAllMethods:" : "mp 5/10/2013 16:49:32.664",
+		"showEmptyCategoriesAndClasses" : "mp 9/28/2010 11:44:27.012",
+		"showEmptyCategoriesAndClasses:" : "mp 9/28/2010 11:44:27.017",
+		"showMethodCategories" : "mp 9/16/2010 10:58:57.727",
+		"showMethodCategories:" : "mp 9/16/2010 10:58:57.732",
+		"showTestResults" : "mp 5/10/2012 12:51:19.927",
+		"showTestResults:" : "mp 5/10/2012 12:51:19.94",
+		"switchIgnoreTracingOfSetUpAndTearDownMethods" : "mp 5/10/2012 13:10:25.805",
+		"switchShowAllMethods" : "mp 5/10/2013 16:52:37.837",
+		"switchShowMethodCategories" : "mp 5/10/2012 13:10:20.899",
+		"switchShowTestResults" : "mp 5/10/2012 13:06:03.438",
+		"switchVisualizeIntermediateSteps" : "mp 5/10/2012 13:10:10.796",
+		"visualizeIntermediateSteps" : "mp 9/16/2010 10:58:57.754",
+		"visualizeIntermediateSteps:" : "mp 9/16/2010 10:58:57.757" } }

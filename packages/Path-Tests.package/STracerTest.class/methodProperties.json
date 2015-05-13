@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"callTreeGetNodesFor:method:" : "mp 7/16/2013 17:04:45.464",
+		"rootNode" : "mp 7/16/2013 16:30:54.216",
+		"setUp" : "mp 7/16/2013 16:24:42.31",
+		"tearDown" : "mp 7/7/2010 16:53:51.492",
+		"tracer" : "mp 3/5/2010 17:48",
+		"tracer:" : "mp 3/5/2010 17:48" } }

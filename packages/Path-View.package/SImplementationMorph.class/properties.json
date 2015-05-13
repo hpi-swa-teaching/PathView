@@ -1,0 +1,17 @@
+{
+	"category" : "Path-View-ClassMorph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"instanceBehaviorMorph",
+		"classBehaviorMorph",
+		"instanceStateMorph",
+		"classStateMorph" ],
+	"name" : "SImplementationMorph",
+	"pools" : [
+		 ],
+	"super" : "SExpandableEntryMorph",
+	"type" : "normal" }

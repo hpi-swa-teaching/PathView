@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Contracts-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SContract",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

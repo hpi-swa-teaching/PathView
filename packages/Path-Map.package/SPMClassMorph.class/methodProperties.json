@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"on:categoryMorph:class:" : "mp 3/30/2010 11:16" },
+	"instance" : {
+		"browse" : "mp 5/23/2013 16:05:02.299",
+		"children" : "mp 7/16/2013 15:03:27.696",
+		"childrenMorphClass" : "mp 9/28/2010 19:17:22.392",
+		"dimension" : "mp 5/27/2010 13:18",
+		"isClassMorph" : "mp 8/11/2010 14:50:04.196",
+		"labelMorphMinWidth" : "mp 5/14/2010 17:29",
+		"mouseEnter:" : "mp 7/16/2013 11:51:54.468",
+		"mouseLeave:" : "mp 5/16/2010 19:41",
+		"oppositeDimension" : "mp 5/27/2010 13:19",
+		"segmentationDirection" : "mp 5/16/2010 15:47",
+		"setWeight" : "mp 7/16/2013 15:01:17.547" } }

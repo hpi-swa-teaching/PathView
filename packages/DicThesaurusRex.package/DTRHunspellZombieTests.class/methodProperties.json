@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"expectedFailures" : "mp 7/31/2013 09:46:07.591",
+		"setUp" : "mp 7/31/2013 09:36:08.744",
+		"testDenyInstanceCreation" : "mp 7/29/2013 17:09:44.89",
+		"testFreeHandle" : "jr 6/28/2013 11:29:55.471",
+		"testGetGuesses" : "mp 8/7/2013 11:27:05.885",
+		"testInvalidate" : "jr 6/28/2013 10:44:03.482",
+		"testRevive" : "jr 7/18/2013 01:13:49.018",
+		"testReviveOnDifferentPlatforms" : "mp 8/7/2013 11:32:47.088",
+		"testSetIgnoredWord" : "jr 6/28/2013 11:43:33.182",
+		"testSpell" : "mp 8/7/2013 11:27:18.127" } }

@@ -1,0 +1,21 @@
+{
+	"category" : "Path-Finder-Tracer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"project",
+		"selectedCategories",
+		"callTreeModel",
+		"profilingMode",
+		"viewMode",
+		"active",
+		"currentId",
+		"withContracts" ],
+	"name" : "SCallTreeTracer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

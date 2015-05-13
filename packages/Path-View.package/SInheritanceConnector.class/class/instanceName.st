@@ -1,0 +1,4 @@
+arrows
+instanceName
+	
+	^ 'Generalization'

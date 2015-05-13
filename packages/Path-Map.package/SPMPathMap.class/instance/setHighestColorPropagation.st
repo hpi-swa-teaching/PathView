@@ -1,0 +1,4 @@
+visualization
+setHighestColorPropagation
+
+	self setColorPropagation: SPMHighestColorStrategy.

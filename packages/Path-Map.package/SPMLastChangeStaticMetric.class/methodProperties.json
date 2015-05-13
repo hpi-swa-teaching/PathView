@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"isLogarithmic" : "mp 9/20/2010 17:52:23.532" },
+	"instance" : {
+		"addMetricInfo:to:" : "mp 7/12/2013 12:49:34.55",
+		"getMetricValue:" : "mp 10/25/2010 22:27:12.708",
+		"getMinMetricValueFrom:" : "mp 9/20/2010 16:12:54.48",
+		"linearLabelFor:" : "mp 9/20/2010 17:28:41.289",
+		"metricName" : "mp 9/20/2010 16:09:43.906" } }

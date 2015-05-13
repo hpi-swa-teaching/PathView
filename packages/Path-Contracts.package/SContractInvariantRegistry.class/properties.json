@@ -1,0 +1,15 @@
+{
+	"category" : "Path-Contracts-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"InvariantGroups",
+		"InvariantMethods" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SContractInvariantRegistry",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

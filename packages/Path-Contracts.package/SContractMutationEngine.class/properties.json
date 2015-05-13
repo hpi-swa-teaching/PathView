@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Contracts-Evaluation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"coveredMethods" ],
+	"name" : "SContractMutationEngine",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

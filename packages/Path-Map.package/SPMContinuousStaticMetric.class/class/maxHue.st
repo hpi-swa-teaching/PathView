@@ -1,0 +1,3 @@
+constants
+maxHue
+	^ 240

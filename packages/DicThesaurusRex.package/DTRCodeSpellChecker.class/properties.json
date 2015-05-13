@@ -1,0 +1,16 @@
+{
+	"category" : "DicThesaurusRex-Dictionary",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jr 7/18/2013 01:32:35.153",
+	"instvars" : [
+		"spellChecker",
+		"camelCaseParser",
+		"currentPosition" ],
+	"name" : "DTRCodeSpellChecker",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

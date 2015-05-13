@@ -1,0 +1,4 @@
+projects
+allProjects
+
+	^ ProjectRegistry values

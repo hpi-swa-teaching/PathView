@@ -1,0 +1,14 @@
+{
+	"category" : "DicThesaurusRex-Hunspell",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sn 7/16/2013 12:05:16.468",
+	"instvars" : [
+		"listSize" ],
+	"name" : "DTRHunspellSuggestList",
+	"pools" : [
+		 ],
+	"super" : "ExternalStructure",
+	"type" : "normal" }

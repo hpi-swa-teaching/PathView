@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"new" : "mp 8/7/2013 11:29:58.309" },
+	"instance" : {
+		"apiAdd:word:" : "jr 5/30/2013 14:25:33.356",
+		"apiFreeList:list:size:" : "jr 5/30/2013 14:25:08.167",
+		"apiRemove:word:" : "jr 5/30/2013 14:25:03.405",
+		"apiSpell:word:" : "jr 5/30/2013 14:24:57.8",
+		"apiSuggest:sList:word:" : "jr 5/30/2013 14:24:52.609",
+		"freeHandle" : "jr 5/30/2013 14:09:35.024",
+		"initialize" : "jr 6/28/2013 12:55:51.744",
+		"invalidate" : "jr 5/30/2013 15:49:20.042",
+		"privateAddIgnoredWord:" : "jr 7/16/2013 21:10:05.332",
+		"privateRemoveIgnoredWord:" : "jr 7/16/2013 21:10:14.452",
+		"revive" : "mp 10/18/2013 11:44:09.14" } }

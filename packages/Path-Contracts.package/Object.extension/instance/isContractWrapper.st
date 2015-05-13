@@ -1,0 +1,4 @@
+*Path-Contracts
+isContractWrapper
+	
+	^ false

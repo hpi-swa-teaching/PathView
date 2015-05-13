@@ -1,0 +1,20 @@
+{
+	"category" : "Path-Contracts-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"beforeMethod",
+		"afterMethod",
+		"result",
+		"oldObject",
+		"requiresOldObject",
+		"preconditionGroups",
+		"postconditionGroups" ],
+	"name" : "SContractWrapper",
+	"pools" : [
+		 ],
+	"super" : "MwMethodWrapper",
+	"type" : "normal" }

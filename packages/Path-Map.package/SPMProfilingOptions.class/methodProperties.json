@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"getLabelString:" : "mp 9/23/2010 15:37:02.574",
+		"initialize" : "mp 5/10/2011 15:33:59.061",
+		"isProfilingOptions" : "mp 5/12/2011 10:45:03.16",
+		"isRuntimeProfilingSelected" : "mp 9/23/2010 10:39:18.642",
+		"kindOfProfiling" : "mp 9/23/2010 10:31:30.398",
+		"kindOfProfiling:" : "mp 9/23/2010 10:31:30.402",
+		"leafProfiling" : "mp 5/10/2011 15:33:41.881",
+		"leafProfiling:" : "mp 5/10/2011 15:33:41.896",
+		"refreshColorLegendHorizontal" : "mp 9/23/2010 14:34:08.119",
+		"refreshColorLegendVertical" : "mp 9/23/2010 14:32:26.988",
+		"setKindOfProfiling:" : "mp 9/23/2010 10:42:52.704",
+		"showHighscore" : "mp 5/21/2013 10:27:34.657",
+		"switchLeafProfilingRuntime" : "mp 5/10/2011 15:35:24.754" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "Path-Harvester-Types",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"typeOfContainer",
+		"typeOfElements",
+		"typeOfKeys" ],
+	"name" : "SContainerType",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

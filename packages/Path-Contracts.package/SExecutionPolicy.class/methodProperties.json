@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"default" : "mp 5/14/2013 14:57:58.055",
+		"executionDisabled" : "ls 1/18/2012 11:49:26.422",
+		"executionEnabled" : "ls 1/18/2012 11:49:44.272",
+		"nuke" : "or 1/31/2012 14:54:49.04" },
+	"instance" : {
+		"activeGroups" : "ls 12/28/2011 17:07:49.928",
+		"activeGroups:" : "or 1/13/2012 14:33:59.346",
+		"ifNotActive:" : "ls 12/25/2011 18:49:07.367",
+		"invariantsActive" : "ls 1/18/2012 11:48:35.084",
+		"invariantsActive:" : "ls 1/18/2012 11:48:35.133",
+		"isActive" : "ls 12/25/2011 18:29:59.661",
+		"isNotActive" : "ls 12/25/2011 18:46:56.668",
+		"postconditionsActive" : "ls 1/18/2012 11:48:34.986",
+		"postconditionsActive:" : "ls 1/18/2012 11:48:35.034",
+		"preconditionsActive" : "ls 1/18/2012 11:48:34.878",
+		"preconditionsActive:" : "ls 1/18/2012 11:48:34.934" } }

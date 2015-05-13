@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Finder-Debugger",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"InstalledNodes" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SBreakpointManager",
+	"pools" : [
+		 ],
+	"super" : "BreakpointManager",
+	"type" : "normal" }

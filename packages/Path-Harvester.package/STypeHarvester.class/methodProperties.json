@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"bucketFrom:" : "mp 2/9/2012 16:14:20.885",
+		"getLabelString:" : "mp 2/2/2012 17:42:34.395",
+		"getLegendColors" : "mp 2/2/2012 17:36:10.513",
+		"label" : "mp 2/6/2012 16:09:14.958",
+		"visualizeMembersOn:" : "mp 5/7/2013 18:25:58.542",
+		"visualizeResultsOn:" : "mp 1/31/2012 18:06:48.719",
+		"visualizeReturnOn:" : "mp 7/12/2013 11:06:43.308",
+		"visualizeTemporariesOn:" : "mp 5/7/2013 18:27:05.524" },
+	"instance" : {
+		"allTypes" : "mp 4/30/2013 12:01:51.038",
+		"createCollector" : "mp 5/2/2013 14:12:24.123",
+		"harvestAllTypes" : "mp 4/30/2013 12:01:30.838",
+		"harvestAllTypes:" : "mp 4/30/2013 11:59:34.278",
+		"isTypeHarvester" : "mp 1/24/2012 16:37:07.275" } }

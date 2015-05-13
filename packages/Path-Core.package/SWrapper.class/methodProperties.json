@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"canWrap:inClass:" : "mp 5/28/2013 11:04:23.997",
+		"initialize" : "mp 7/12/2010 12:38:44.486",
+		"on:inClass:with:" : "mp 11/19/2010 16:28:44.67" },
+	"instance" : {
+		"asMethodReference" : "mp 7/12/2010 15:45:00.131",
+		"tracer" : "mp 7/12/2010 12:38:18.786",
+		"tracer:" : "mp 7/12/2010 12:38:18.79" } }

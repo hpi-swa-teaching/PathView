@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Finder-Tracer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SDebugWrapper",
+	"pools" : [
+		 ],
+	"super" : "SSpecificWrapper",
+	"type" : "normal" }

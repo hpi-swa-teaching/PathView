@@ -1,0 +1,3 @@
+harvesting-hooks
+createCollector
+	self subclassResponsibility.

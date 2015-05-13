@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Tests-PathMap",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SPathMapTestRunnerTest",
+	"pools" : [
+		 ],
+	"super" : "SPathMapTest",
+	"type" : "normal" }

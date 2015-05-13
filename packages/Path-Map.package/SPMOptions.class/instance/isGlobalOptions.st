@@ -1,0 +1,3 @@
+testing
+isGlobalOptions
+	^ false

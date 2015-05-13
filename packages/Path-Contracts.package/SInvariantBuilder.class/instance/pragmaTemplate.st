@@ -1,0 +1,4 @@
+accessing
+pragmaTemplate
+
+	^ '<invariants: #(<GROUPS>)>'

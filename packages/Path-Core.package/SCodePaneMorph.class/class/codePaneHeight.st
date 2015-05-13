@@ -1,0 +1,4 @@
+constants
+codePaneHeight
+
+	^ 135

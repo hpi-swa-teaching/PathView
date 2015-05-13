@@ -1,0 +1,21 @@
+{
+	"category" : "Path-Harvester-ValueRanges",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"range",
+		"includesLetters",
+		"includesDigits",
+		"includesSeparators",
+		"includesSpecials",
+		"lowercase",
+		"uppercase",
+		"httpSafe" ],
+	"name" : "SCharactersRangeProperties",
+	"pools" : [
+		 ],
+	"super" : "SDefaultRangeProperties",
+	"type" : "normal" }

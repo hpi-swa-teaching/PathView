@@ -1,0 +1,4 @@
+initialization
+defaultBorderColor
+
+	^ SCodeExplorerIndentingListItemMorph borderColor

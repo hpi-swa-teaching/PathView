@@ -1,0 +1,5 @@
+accessing
+ignoreTracingOfSetUpAndTearDownMethods
+	"Answer the value of ignoreTracingOfSetUpAndTearDownMethods"
+
+	^ ignoreTracingOfSetUpAndTearDownMethods

@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"cache" : "mp 5/18/2010 11:48",
+		"cache:" : "mp 5/18/2010 11:48",
+		"setUp" : "mp 7/7/2010 16:58:36.095",
+		"tearDown" : "mp 7/7/2010 16:57:54.603",
+		"testRecordDateAndTimeNow" : "mp 7/7/2010 16:57:51.617",
+		"testRecordDateAndTimeNowUninstallWrapper" : "mp 7/7/2010 16:57:58.805",
+		"testRecordMultipleRandoms" : "mp 7/7/2010 16:58:05.997",
+		"testRecordRandom" : "mp 7/7/2010 16:58:02.317" } }

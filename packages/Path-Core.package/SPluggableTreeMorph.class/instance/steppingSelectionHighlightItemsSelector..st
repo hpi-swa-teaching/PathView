@@ -1,0 +1,4 @@
+accessing
+steppingSelectionHighlightItemsSelector: anObject
+
+	steppingSelectionHighlightItemsSelector := anObject

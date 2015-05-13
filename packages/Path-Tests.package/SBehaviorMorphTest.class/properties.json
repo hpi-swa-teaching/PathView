@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Tests-PathView",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SBehaviorMorphTest",
+	"pools" : [
+		 ],
+	"super" : "STestBehaviorMorphs",
+	"type" : "normal" }

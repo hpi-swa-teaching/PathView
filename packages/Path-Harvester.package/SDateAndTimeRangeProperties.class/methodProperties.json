@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"label" : "mp 2/10/2012 11:36:16.041" },
+	"instance" : {
+		"=" : "mp 6/7/2013 10:56:53.589",
+		"dayOfWeekNames" : "mp 2/10/2012 11:21:40.674",
+		"dayOfWeekNames:" : "mp 2/10/2012 11:21:40.689",
+		"hash" : "mp 5/3/2013 13:29:11.76",
+		"initialize" : "mp 2/10/2012 11:30:38.707",
+		"isLeapYear" : "mp 2/10/2012 11:21:40.705",
+		"isLeapYear:" : "mp 2/10/2012 11:21:40.72",
+		"maxDate" : "mp 2/10/2012 11:30:18.547",
+		"maxDate:" : "mp 2/10/2012 11:30:18.563",
+		"minDate" : "mp 2/10/2012 11:30:18.516",
+		"minDate:" : "mp 2/10/2012 11:30:18.532",
+		"printContractFor:with:" : "mp 3/21/2012 15:00:24.939",
+		"printRangeFrom:to:for:ofType:with:" : "mp 6/7/2013 13:01:19.255",
+		"process:" : "mp 2/10/2012 11:31:06.234",
+		"processDayOfWeekNamesProperty" : "mp 2/10/2012 11:27:25.233",
+		"processLeapYearProperty" : "mp 2/10/2012 11:28:05.866",
+		"processRangeProperty" : "mp 6/7/2013 12:45:56.201",
+		"processTimeZoneProperty" : "mp 2/10/2012 11:37:59.228",
+		"timeZones" : "mp 2/10/2012 11:21:40.735",
+		"timeZones:" : "mp 2/10/2012 11:21:40.751" } }

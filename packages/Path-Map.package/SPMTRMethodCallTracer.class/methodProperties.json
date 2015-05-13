@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addMethodCallsInfo:to:" : "mp 7/12/2013 11:10:12.054",
+		"collectAllCalls" : "mp 8/12/2010 11:58:09.84",
+		"getProfilingData" : "mp 8/12/2010 14:09:50.283",
+		"getProfilingHighscore" : "mp 9/23/2010 13:12:34.922",
+		"getWrapperClass" : "mp 8/11/2010 10:08:52.434",
+		"maxCallCountFrom:" : "mp 7/16/2013 13:08:15.215",
+		"unitForLegend" : "mp 9/23/2010 15:21:33.935",
+		"visualizeEndExecutionOf:" : "mp 7/16/2013 13:08:26.924" } }

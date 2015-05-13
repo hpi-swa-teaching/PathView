@@ -1,0 +1,5 @@
+spec commands
+switchIgnoreTracingOfSetUpAndTearDownMethods
+	self ignoreTracingOfSetUpAndTearDownMethods: 
+			self ignoreTracingOfSetUpAndTearDownMethods not.
+	self changed: #ignoreTracingOfSetUpAndTearDownMethods.

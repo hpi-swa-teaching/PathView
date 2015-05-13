@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Tests-Harvester",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"tracer" ],
+	"name" : "SHarvesterTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "Path-Core-Tools-Map",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"options",
+		"project",
+		"selectedConcernItem",
+		"selectedTestItem" ],
+	"name" : "SConcernChooser",
+	"pools" : [
+		 ],
+	"super" : "STool",
+	"type" : "normal" }

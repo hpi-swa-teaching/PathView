@@ -1,0 +1,14 @@
+{
+	"category" : "DicThesaurusRex-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"suggestionWindow" ],
+	"name" : "DTRSuggestionWindowTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

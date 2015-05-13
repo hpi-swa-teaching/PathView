@@ -1,0 +1,17 @@
+{
+	"category" : "DicThesaurusRex-Hunspell",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"IgnoredWords",
+		"Instance" ],
+	"commentStamp" : "jr 7/18/2013 01:32:16.732",
+	"instvars" : [
+		"handle",
+		"affixFilePath",
+		"dictionaryFilePath" ],
+	"name" : "DTRHunspell",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

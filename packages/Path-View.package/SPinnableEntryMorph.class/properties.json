@@ -1,0 +1,15 @@
+{
+	"category" : "Path-View-ClassMorph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"pinned",
+		"pinStateVisible" ],
+	"name" : "SPinnableEntryMorph",
+	"pools" : [
+		 ],
+	"super" : "SEntryMorph",
+	"type" : "normal" }

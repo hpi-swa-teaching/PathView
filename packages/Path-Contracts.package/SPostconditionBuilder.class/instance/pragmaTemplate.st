@@ -1,0 +1,4 @@
+templates
+pragmaTemplate
+
+	^ '<postconditions: #(<GROUPS>)>'

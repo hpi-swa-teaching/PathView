@@ -1,0 +1,3 @@
+testing
+testReturnTypeSpecialConstants
+	SHClassA new returnTrue

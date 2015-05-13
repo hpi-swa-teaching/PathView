@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"test01DefaultRangePropertyInitialization" : "mp 5/6/2013 11:16:42.436",
+		"test02Equality" : "mp 5/7/2013 17:45:33.5",
+		"test03SecondsRange" : "mp 5/7/2013 17:31:43.204",
+		"test04NanoSecondsRange" : "mp 5/7/2013 17:31:44.65",
+		"test05PositiveValue" : "mp 5/7/2013 17:31:46.296",
+		"test06NegativeValue" : "mp 5/7/2013 17:31:47.786",
+		"test07isZero" : "mp 5/7/2013 17:31:49.45" } }

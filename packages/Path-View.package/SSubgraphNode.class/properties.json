@@ -1,0 +1,15 @@
+{
+	"category" : "Path-View-GraphLayout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"graph",
+		"debugHighlightColor" ],
+	"name" : "SSubgraphNode",
+	"pools" : [
+		 ],
+	"super" : "SGraphNode",
+	"type" : "normal" }

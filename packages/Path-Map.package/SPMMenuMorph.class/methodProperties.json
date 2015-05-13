@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"backgroundColor" : "mp 6/30/2010 11:32",
+		"labelBorderColor" : "mp 6/30/2010 11:32",
+		"labelBorderWidth" : "mp 6/30/2010 11:32",
+		"on:" : "mp 6/30/2010 13:54" },
+	"instance" : {
+		"createMenu" : "mp 8/12/2013 17:21:18.475",
+		"handlesMouseOver:" : "mp 7/1/2010 17:32",
+		"initialize" : "mp 8/12/2013 17:16:27.917",
+		"mouseLeave:" : "mp 7/1/2010 17:33",
+		"targetMorph" : "mp 6/30/2010 11:48",
+		"targetMorph:" : "mp 6/30/2010 11:48" } }

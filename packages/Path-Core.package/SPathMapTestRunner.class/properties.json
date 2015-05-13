@@ -1,0 +1,15 @@
+{
+	"category" : "Path-Core-Tools-Map",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"windowMorph",
+		"pathMap" ],
+	"name" : "SPathMapTestRunner",
+	"pools" : [
+		 ],
+	"super" : "TestRunner",
+	"type" : "normal" }

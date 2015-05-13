@@ -1,0 +1,3 @@
+*DicThesaurusRex
+view
+	^ view

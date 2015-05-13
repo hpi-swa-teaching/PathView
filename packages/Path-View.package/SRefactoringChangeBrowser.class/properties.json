@@ -1,0 +1,18 @@
+{
+	"category" : "Path-View-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"selectedRefactoring",
+		"change",
+		"undos",
+		"codePane",
+		"onClose" ],
+	"name" : "SRefactoringChangeBrowser",
+	"pools" : [
+		 ],
+	"super" : "SystemWindow",
+	"type" : "normal" }

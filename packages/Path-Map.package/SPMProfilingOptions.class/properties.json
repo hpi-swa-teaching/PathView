@@ -1,0 +1,15 @@
+{
+	"category" : "Path-Map-Options",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"kindOfProfiling",
+		"leafProfiling" ],
+	"name" : "SPMProfilingOptions",
+	"pools" : [
+		 ],
+	"super" : "SPMOptions",
+	"type" : "normal" }

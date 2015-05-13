@@ -1,0 +1,4 @@
+accessing
+smoothing
+	
+	^ thumbnailMorph smoothing

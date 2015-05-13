@@ -1,0 +1,16 @@
+{
+	"category" : "Path-Contracts-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"methodReference",
+		"kindOf",
+		"variableName" ],
+	"name" : "SContractViolation",
+	"pools" : [
+		 ],
+	"super" : "Halt",
+	"type" : "normal" }

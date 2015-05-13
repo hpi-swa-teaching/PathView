@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Core-Tools-Finder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SPathDebugger",
+	"pools" : [
+		 ],
+	"super" : "SPathFinder",
+	"type" : "normal" }

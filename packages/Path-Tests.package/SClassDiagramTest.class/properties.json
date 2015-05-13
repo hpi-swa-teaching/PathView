@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Tests-PathView",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SClassDiagramTest",
+	"pools" : [
+		 ],
+	"super" : "SPVMorphTest",
+	"type" : "normal" }

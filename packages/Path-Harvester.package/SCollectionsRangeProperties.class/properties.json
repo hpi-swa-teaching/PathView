@@ -1,0 +1,16 @@
+{
+	"category" : "Path-Harvester-ValueRanges",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"maxNumberOfElements",
+		"fixedSize",
+		"emptyAllowed" ],
+	"name" : "SCollectionsRangeProperties",
+	"pools" : [
+		 ],
+	"super" : "SDefaultRangeProperties",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+constants
+labelBorderColor
+
+	^ Color gray

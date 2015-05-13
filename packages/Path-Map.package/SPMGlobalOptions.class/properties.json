@@ -1,0 +1,19 @@
+{
+	"category" : "Path-Map-Options",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"showMethodCategories",
+		"ignoreTracingOfSetUpAndTearDownMethods",
+		"visualizeIntermediateSteps",
+		"showEmptyCategoriesAndClasses",
+		"showTestResults",
+		"showAllMethods" ],
+	"name" : "SPMGlobalOptions",
+	"pools" : [
+		 ],
+	"super" : "SPMOptions",
+	"type" : "normal" }

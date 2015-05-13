@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"smoothing" ],
+	"name" : "SSmoothableThumbnailMorph",
+	"pools" : [
+		 ],
+	"super" : "ThumbnailMorph",
+	"type" : "normal" }

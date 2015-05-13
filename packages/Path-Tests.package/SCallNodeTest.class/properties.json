@@ -1,0 +1,15 @@
+{
+	"category" : "Path-Tests-CallTree",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"rootNode",
+		"calledNode" ],
+	"name" : "SCallNodeTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

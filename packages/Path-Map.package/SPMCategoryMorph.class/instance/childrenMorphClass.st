@@ -1,0 +1,4 @@
+building
+childrenMorphClass
+
+	^ SPMClassMorph

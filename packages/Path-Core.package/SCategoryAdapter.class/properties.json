@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Core-Models",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"category" ],
+	"name" : "SCategoryAdapter",
+	"pools" : [
+		 ],
+	"super" : "SSourceCodeEntityAdapter",
+	"type" : "normal" }

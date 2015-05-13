@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"=" : "mp 3/30/2012 15:01:45.519",
+		"description" : "mp 5/14/2013 14:57:20.77",
+		"expectedCollection" : "mp 3/30/2012 14:54:28.993",
+		"expectedCollection:" : "mp 3/30/2012 14:54:29.005",
+		"givenObject" : "mp 3/30/2012 14:54:29.016",
+		"givenObject:" : "mp 3/30/2012 14:54:29.028",
+		"hash" : "mp 3/30/2012 15:01:05.453",
+		"initialize" : "mp 3/30/2012 14:55:37.922",
+		"isIncludesContractViolation" : "mp 3/30/2012 15:02:39.115",
+		"property" : "mp 3/30/2012 14:54:29.039",
+		"property:" : "mp 3/30/2012 14:54:29.05",
+		"shortDescription" : "mp 5/14/2013 14:57:24.007" } }

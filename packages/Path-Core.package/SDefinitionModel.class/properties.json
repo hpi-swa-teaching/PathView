@@ -1,0 +1,15 @@
+{
+	"category" : "Path-Core-Models",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"defClass",
+		"defSelector" ],
+	"name" : "SDefinitionModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

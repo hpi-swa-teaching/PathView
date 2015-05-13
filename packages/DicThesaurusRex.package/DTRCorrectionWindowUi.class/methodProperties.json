@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addToDictionaryButton" : "DNR 7/16/2013 14:01:00.41",
+		"dictionaryLabel" : "DNR 7/16/2013 14:01:00.31",
+		"ignoreButton" : "DNR 7/16/2013 14:01:00.376",
+		"initializePanel" : "DNR 7/16/2013 14:01:00.566",
+		"methodEdit" : "DNR 7/16/2013 14:01:00.343",
+		"methodLabel" : "DNR 7/16/2013 14:01:00.271",
+		"replaceAllButton" : "DNR 7/16/2013 14:01:00.508",
+		"replaceButton" : "DNR 7/16/2013 14:01:00.476",
+		"suggestionWidget" : "DNR 7/16/2013 14:01:00.442" } }

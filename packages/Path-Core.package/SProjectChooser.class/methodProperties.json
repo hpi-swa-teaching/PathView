@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"initialize" : "mp 3/7/2011 21:50:41.281",
+		"windowColorSpecification" : "mp 8/14/2013 15:15:29.619" },
+	"instance" : {
+		"addProject" : "mp 3/25/2013 17:35:33.466",
+		"allRegisteredProjects" : "mp 7/7/2010 16:55:20.267",
+		"buildProjectListOn:frame:" : "mp 6/15/2010 22:33",
+		"buildSelectedCategoriesListOn:frame:" : "mp 6/16/2010 14:23",
+		"buildWith:" : "mp 2/3/2012 11:28:57.791",
+		"chooseCategories" : "mp 3/25/2013 17:41:04.19",
+		"enableTestMode" : "mp 3/25/2013 17:34:02.811",
+		"initialExtent" : "mp 2/3/2012 11:30:25.696",
+		"initialize" : "mp 3/25/2013 17:34:09.817",
+		"isProjectSelected" : "mp 6/16/2010 09:46",
+		"label" : "mp 3/7/2011 21:43:07.163",
+		"projectControlButtons" : "mp 3/8/2011 20:29:02.126",
+		"removeSelectedProject" : "mp 7/7/2010 16:55:29.145",
+		"resetCacheOfSelectedProject" : "mp 6/16/2010 11:09",
+		"selectCurrentProject" : "mp 8/15/2013 11:34:16.27",
+		"selectedCategoriesOfProject" : "mp 1/2/2012 14:17:07.161",
+		"selectedProject" : "mp 6/16/2010 09:47",
+		"selectedProject:" : "mp 6/16/2010 14:25",
+		"update:" : "mp 3/8/2011 18:11:56.975" } }

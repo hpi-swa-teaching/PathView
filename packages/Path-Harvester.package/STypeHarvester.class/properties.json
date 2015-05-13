@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Harvester",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"harvestAllTypes" ],
+	"name" : "STypeHarvester",
+	"pools" : [
+		 ],
+	"super" : "SHarvester",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+execution
+isContractWrapper
+
+	^ true

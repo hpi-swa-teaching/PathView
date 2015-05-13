@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"model:reparentClass:from:to:" : "tfel 6/26/2012 18:08:02.594",
+		"reparentClass:from:to:" : "tfel 6/26/2012 18:08:06.843" },
+	"instance" : {
+		"preconditions" : "tfel 6/26/2012 18:14:12.549",
+		"reparentClass:from:to:" : "tfel 6/26/2012 18:06:51.624",
+		"transform" : "tfel 6/26/2012 18:05:12.204" } }

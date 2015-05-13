@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Tests-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"pathMap" ],
+	"name" : "SProjectBucketTest",
+	"pools" : [
+		 ],
+	"super" : "SProjectTest",
+	"type" : "normal" }

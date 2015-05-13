@@ -1,0 +1,15 @@
+{
+	"category" : "Path-View-Connector",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"variableName",
+		"variableType" ],
+	"name" : "SAssociationConnector",
+	"pools" : [
+		 ],
+	"super" : "SConnector",
+	"type" : "normal" }

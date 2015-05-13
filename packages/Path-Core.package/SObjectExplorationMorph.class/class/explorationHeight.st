@@ -1,0 +1,4 @@
+constants
+explorationHeight
+
+	^ SCodePaneMorph codePaneHeight

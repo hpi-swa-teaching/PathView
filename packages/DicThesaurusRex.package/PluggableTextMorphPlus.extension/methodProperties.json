@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addDictionaryMenuItems:word:" : "jp 7/7/2013 13:02:46.823",
+		"addSelectedWordToDictionary" : "jr 6/19/2013 02:28:43.376",
+		"addThesaurusMenuItems:word:" : "jr 6/30/2013 02:22:03.649",
+		"addToDictionaryMenuItemText" : "jr 6/26/2013 15:53:01.732",
+		"getMenu:" : "sn 7/8/2013 14:16:45.877",
+		"getMenuExtendedWithDicThesaurusItems:originalMenu:" : "jr 6/7/2013 16:08:26.539",
+		"moreSuggestionsMenuItemText" : "jr 6/26/2013 16:31:09.348",
+		"moreSynonymsMenuItemText" : "jr 6/26/2013 15:56:51.244",
+		"okToSpellcheck" : "jr 5/27/2013 17:08:11.909",
+		"replaceSelectionWithCamelCased:" : "jr 7/17/2013 23:01:27.487",
+		"selectionIsInCamelCasedWord" : "jr 6/30/2013 02:31:24.439",
+		"setText:" : "jr 5/27/2013 15:46:37.768",
+		"showSuggestionWindowFor:withSuggestions:withTitle:" : "sn 6/26/2013 16:11:47.06",
+		"updateStyling" : "jr 7/18/2013 00:50:20.764",
+		"useDefaultStyler" : "jr 5/27/2013 15:29:41.051" } }

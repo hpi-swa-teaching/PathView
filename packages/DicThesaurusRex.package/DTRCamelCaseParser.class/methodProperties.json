@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"currentWord" : "jr 5/15/2013 17:12:42.731",
+		"endAcronym" : "jr 7/16/2013 11:59:45.315",
+		"endAcronymAtEnd" : "jr 7/16/2013 11:59:36.498",
+		"endWord" : "jr 7/16/2013 12:13:48.119",
+		"foundAcronym" : "jr 7/16/2013 11:59:12.844",
+		"foundWord" : "jr 7/16/2013 11:59:07.49",
+		"foundWord:" : "jr 7/16/2013 11:57:26.37",
+		"foundWordCallback:" : "jr 7/16/2013 11:49:15.075",
+		"haveLowercase" : "jr 5/15/2013 17:12:42.768",
+		"initialize" : "jr 5/15/2013 17:14:28.561",
+		"readChar:" : "sn 7/16/2013 10:19:57.64",
+		"readString:" : "jr 7/17/2013 22:19:34.067",
+		"resetCurrentWord" : "jr 5/15/2013 17:25:39.201",
+		"words" : "jr 5/15/2013 16:42:16.523" } }

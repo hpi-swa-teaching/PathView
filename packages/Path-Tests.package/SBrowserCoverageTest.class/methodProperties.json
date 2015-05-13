@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"resources" : "mp 5/2/2013 17:52:11.759" },
+	"instance" : {
+		"test01ShowAllCoveredTests" : "mp 3/26/2013 14:15:15.239",
+		"test02aStartNewBrowserFromCoveredTest" : "mp 3/27/2013 15:03:56.484",
+		"test02bStartDebuggerFromCoveredTest" : "mp 3/27/2013 15:06:28.371",
+		"test02cStartPathFinderFromCoveredTest" : "mp 7/16/2013 16:54:44.286",
+		"test03RefineCoverageAtStatements" : "mp 5/24/2013 13:52:30.606",
+		"test04aStateViewTracerInstanceVariable" : "mp 8/16/2013 09:59:02.625",
+		"test04bStateViewTracerReceiver" : "mp 8/16/2013 09:59:08.305",
+		"test05GetArgumentsFromMethodReference" : "mp 8/16/2013 09:41:59.531",
+		"test06aStateViewTracerMethodArgumentEmpty" : "mp 8/16/2013 09:50:03.302",
+		"test06bStateViewTracerMethodArgumentWithValue" : "mp 8/16/2013 09:54:25.835",
+		"test06cStateViewTracerReturnValueOfMethod" : "mp 8/16/2013 09:52:36.266" } }

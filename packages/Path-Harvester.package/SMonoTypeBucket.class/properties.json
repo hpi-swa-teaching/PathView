@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Harvester-Types",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SMonoTypeBucket",
+	"pools" : [
+		 ],
+	"super" : "STypeBucket",
+	"type" : "normal" }

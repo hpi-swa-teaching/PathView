@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"on:inClass:waitingCalls:" : "mp 1/25/2010 16:40" },
+	"instance" : {
+		"decrementCallCount" : "mp 1/25/2010 16:39",
+		"incrementCallCount" : "mp 1/25/2010 19:07",
+		"isSpecificCall" : "mp 1/25/2010 16:40",
+		"numberOfCallsBefore" : "mp 1/25/2010 16:39",
+		"numberOfCallsBefore:" : "mp 1/25/2010 16:39" } }

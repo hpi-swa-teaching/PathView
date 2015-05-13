@@ -1,0 +1,4 @@
+constants
+embeddedBorderWidth
+	
+	^ 5

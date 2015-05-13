@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"clearHighlightedItems" : "mp 12/11/2009 13:56",
+		"getChildren:" : "mp 12/11/2009 14:07",
+		"getIcon:" : "mp 12/11/2009 13:57",
+		"getIconWithColor:" : "mp 12/11/2009 13:58",
+		"hasChildren:" : "mp 12/11/2009 14:07",
+		"hasSelectedItem" : "mp 1/13/2010 19:06",
+		"highlightItem:" : "mp 12/11/2009 13:59",
+		"highlightedItems" : "mp 12/11/2009 13:52",
+		"highlightedItems:" : "mp 12/11/2009 13:52",
+		"newSelectedItem:" : "mp 1/21/2010 11:15",
+		"selectedItem" : "mp 12/11/2009 13:52",
+		"selectedItem:" : "mp 12/11/2009 13:52" } }

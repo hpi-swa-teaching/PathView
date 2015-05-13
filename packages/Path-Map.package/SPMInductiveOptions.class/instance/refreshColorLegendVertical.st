@@ -1,0 +1,3 @@
+visualization
+refreshColorLegendVertical
+	self colorLegend verticalColors: self kindOfAnalysis getLegendColors.

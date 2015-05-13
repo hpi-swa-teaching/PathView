@@ -1,0 +1,4 @@
+test configuration
+testClassName
+
+	^ #SPVTestClass

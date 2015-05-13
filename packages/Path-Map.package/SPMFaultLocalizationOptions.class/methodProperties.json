@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"maxHue" : "mp 9/22/2010 17:48:32.305" },
+	"instance" : {
+		"authorRanking" : "mp 11/15/2010 13:41:44.273",
+		"formula" : "mp 9/22/2010 16:50:25.157",
+		"formula:" : "mp 9/22/2010 16:34:46.024",
+		"getLabelString:" : "mp 9/12/2011 18:02:27.563",
+		"informAuthorRanking:" : "mp 9/9/2011 15:20:54.993",
+		"initialize" : "mp 9/22/2010 18:19:12.714",
+		"isFaultLocalizationOptions" : "mp 5/12/2011 10:45:30.008",
+		"refreshColorLegendHorizontal" : "mp 9/22/2010 17:49:49.9",
+		"refreshColorLegendVertical" : "mp 9/22/2010 18:19:46.306",
+		"setFormula:" : "mp 9/22/2010 16:50:09.643",
+		"showHighscore" : "mp 5/21/2013 14:10:17.632",
+		"singlePointOfFault" : "mp 9/22/2010 18:19:02.917",
+		"singlePointOfFault:" : "mp 9/22/2010 18:19:02.921",
+		"switchSinglePointOfFault" : "mp 9/22/2010 18:20:28.518" } }

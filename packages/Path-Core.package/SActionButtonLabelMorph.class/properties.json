@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Core-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"labelMorph" ],
+	"name" : "SActionButtonLabelMorph",
+	"pools" : [
+		 ],
+	"super" : "SActionButtonMorph",
+	"type" : "normal" }

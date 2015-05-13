@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Finder-Tracer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"numberOfCallsBefore" ],
+	"name" : "SSpecificWrapper",
+	"pools" : [
+		 ],
+	"super" : "MwMethodWrapper",
+	"type" : "normal" }

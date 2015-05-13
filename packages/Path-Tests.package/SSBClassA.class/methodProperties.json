@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"+" : "mp 3/8/2010 14:13",
+		"complexMethod:" : "mp 5/8/2012 12:34:04.516",
+		"delayedMethod" : "mp 3/8/2010 14:52",
+		"doNothing" : "mp 3/8/2010 14:36",
+		"failingMethod:" : "mp 11/5/2010 13:57:23.076",
+		"initialize" : "mp 5/28/2013 17:09:20.782",
+		"manyParameters:b:d:f:long:" : "mp 11/8/2010 16:56:15.457",
+		"methodChain:" : "mp 3/8/2010 14:48",
+		"myValue" : "mp 3/8/2010 14:12",
+		"myValue:" : "mp 3/8/2010 14:26",
+		"param:method:" : "mp 8/14/2013 15:34:05.787",
+		"printString" : "mp 3/8/2010 14:45",
+		"recursionMethod:" : "mp 3/8/2010 14:33",
+		"unaryMethod" : "mp 3/9/2010 18:11" } }

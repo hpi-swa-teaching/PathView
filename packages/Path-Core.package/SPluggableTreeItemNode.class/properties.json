@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Core-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SPluggableTreeItemNode",
+	"pools" : [
+		 ],
+	"super" : "PluggableTreeItemNode",
+	"type" : "normal" }

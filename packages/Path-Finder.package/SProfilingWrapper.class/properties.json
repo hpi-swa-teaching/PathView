@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Finder-Tracer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"stopwatches" ],
+	"name" : "SProfilingWrapper",
+	"pools" : [
+		 ],
+	"super" : "SViewWrapper",
+	"type" : "normal" }

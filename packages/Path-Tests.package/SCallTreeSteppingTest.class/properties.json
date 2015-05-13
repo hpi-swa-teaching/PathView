@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Tests-CallTree",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mp 12/9/2013 13:57:45.477",
+	"instvars" : [
+		 ],
+	"name" : "SCallTreeSteppingTest",
+	"pools" : [
+		 ],
+	"super" : "SCallTreeTest",
+	"type" : "normal" }

@@ -1,0 +1,20 @@
+{
+	"category" : "Path-View-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"scalingFactor",
+		"viewedMorph",
+		"scrollPane",
+		"viewportMorph",
+		"thumbnailMorph",
+		"viewportGrabbingOffset",
+		"hideByDefault" ],
+	"name" : "SMiniMap",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }

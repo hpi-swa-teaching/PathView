@@ -1,0 +1,3 @@
+path-hooks
+defaultAffixPath
+	^ ''

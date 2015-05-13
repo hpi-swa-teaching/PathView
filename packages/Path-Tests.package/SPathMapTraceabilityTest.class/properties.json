@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Tests-PathMap",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"chooser" ],
+	"name" : "SPathMapTraceabilityTest",
+	"pools" : [
+		 ],
+	"super" : "SPathMapFlapTest",
+	"type" : "normal" }

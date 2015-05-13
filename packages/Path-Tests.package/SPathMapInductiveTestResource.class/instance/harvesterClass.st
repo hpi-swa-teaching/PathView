@@ -1,0 +1,3 @@
+accessing
+harvesterClass
+	self subclassResponsibility.

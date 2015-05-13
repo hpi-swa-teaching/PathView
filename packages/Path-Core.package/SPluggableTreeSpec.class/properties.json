@@ -1,0 +1,17 @@
+{
+	"category" : "Path-Core-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"highlightItem",
+		"indentingListItemMorph",
+		"steppingSelectionHighlightItems",
+		"steppingSelectionItem" ],
+	"name" : "SPluggableTreeSpec",
+	"pools" : [
+		 ],
+	"super" : "PluggableTreeSpec",
+	"type" : "normal" }

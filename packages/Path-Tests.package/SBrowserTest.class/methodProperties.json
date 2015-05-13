@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"resources" : "mp 5/2/2013 17:52:21.902" },
+	"instance" : {
+		"browser" : "mp 3/26/2013 13:22:42.334",
+		"browser:" : "mp 3/26/2013 13:22:42.358",
+		"browserMorph" : "mp 3/26/2013 13:24:56.738",
+		"browserMorph:" : "mp 3/26/2013 13:24:56.758",
+		"existMorphOf:named:" : "mp 3/26/2013 13:48:43.705",
+		"expectedFailures" : "mp 8/19/2013 15:26:38.263",
+		"morphOf:named:" : "mp 3/26/2013 13:48:27.098",
+		"setUp" : "mp 3/26/2013 13:25:03.254",
+		"tearDown" : "mp 3/26/2013 13:25:17.323",
+		"test01BrowserLabel" : "mp 3/26/2013 13:29:09.765",
+		"test02BrowserCoverageAndConcernPane" : "mp 3/26/2013 14:01:17.181",
+		"test03BrowserAdditionalButtons" : "mp 3/26/2013 13:45:44.257",
+		"test04aBrowserContractButtonsInvariants" : "mp 3/26/2013 13:57:45.221",
+		"test04bBrowserContractButtonsPreconditions" : "mp 3/26/2013 13:57:42.388",
+		"test04cBrowserContractButtonsPostconditions" : "mp 3/26/2013 13:57:36.484",
+		"test05BrowserExtendedCodePane" : "mp 3/26/2013 14:01:34.924" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "Path-Map-Metrics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"maxValue",
+		"minValue",
+		"thresholdSelected" ],
+	"name" : "SPMContinuousStaticMetric",
+	"pools" : [
+		 ],
+	"super" : "SPMStaticMetric",
+	"type" : "normal" }

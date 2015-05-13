@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "tfel 5/13/2011 15:35:22.869",
+		"testShouldAutomaticallyChangeItsNumberOnClassChange" : "tfel 4/30/2011 18:28:12.399",
+		"testShouldChangeItsNumberOnRefresh" : "tfel 4/30/2011 18:25:43.031",
+		"testShouldShowCategoriesOnExpand" : "tfel 4/30/2011 19:09:54.87",
+		"testShouldShowTheNumberOfMethods" : "tfel 4/30/2011 18:21:10.675" } }

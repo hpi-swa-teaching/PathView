@@ -1,0 +1,3 @@
+testing
+isSpellingContractViolation
+	^ false

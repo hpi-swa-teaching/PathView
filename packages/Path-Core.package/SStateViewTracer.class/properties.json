@@ -1,0 +1,15 @@
+{
+	"category" : "Path-Core-Tools-Browser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"valueDict",
+		"gatheredValues" ],
+	"name" : "SStateViewTracer",
+	"pools" : [
+		 ],
+	"super" : "STracer",
+	"type" : "normal" }

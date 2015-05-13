@@ -1,0 +1,22 @@
+{
+	"category" : "Path-Finder-CallTree",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"rootNode",
+		"currentNode",
+		"steppingNode",
+		"steppingPosition",
+		"history",
+		"currentHistoryNode",
+		"tracer",
+		"searchQuery",
+		"pathFinder" ],
+	"name" : "SCallTreeModel",
+	"pools" : [
+		 ],
+	"super" : "STreeModel",
+	"type" : "normal" }

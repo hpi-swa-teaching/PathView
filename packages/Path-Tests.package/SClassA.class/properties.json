@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Tests-MethodWrappers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SClassA",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

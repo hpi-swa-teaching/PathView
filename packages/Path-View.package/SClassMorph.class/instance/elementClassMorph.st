@@ -1,0 +1,4 @@
+accessing
+elementClassMorph
+	
+	^ self

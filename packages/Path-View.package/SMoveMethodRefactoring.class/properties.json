@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Refactorings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"targetClass" ],
+	"name" : "SMoveMethodRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBMoveMethodRefactoring",
+	"type" : "normal" }

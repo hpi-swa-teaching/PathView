@@ -1,0 +1,15 @@
+{
+	"category" : "Path-Contracts-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"givenSize",
+		"expectedSize" ],
+	"name" : "SSizeContractViolation",
+	"pools" : [
+		 ],
+	"super" : "SContractViolation",
+	"type" : "normal" }

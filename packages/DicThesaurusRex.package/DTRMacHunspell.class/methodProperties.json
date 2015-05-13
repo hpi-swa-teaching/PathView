@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"apiAdd:word:" : "mp 7/29/2013 15:49:52.836",
+		"apiCreate:dPath:" : "mp 7/29/2013 15:49:22.351",
+		"apiDestroy:" : "mp 7/29/2013 15:50:14.147",
+		"apiFreeList:list:size:" : "mp 7/29/2013 15:50:20.835",
+		"apiRemove:word:" : "mp 7/29/2013 15:50:30.888",
+		"apiSpell:word:" : "mp 7/29/2013 15:50:40.809",
+		"apiSuggest:sList:word:" : "mp 7/31/2013 09:41:39.993",
+		"defaultAffixPath" : "mp 7/29/2013 15:48:08.634",
+		"defaultDictionaryPath" : "mp 7/29/2013 15:48:15.27",
+		"getGuesses:" : "mp 7/29/2013 15:48:27.205" } }

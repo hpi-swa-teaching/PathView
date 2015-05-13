@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Tests-PathBrowser-Coverage",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SBrowserCoverageTest",
+	"pools" : [
+		 ],
+	"super" : "SBrowserTest",
+	"type" : "normal" }

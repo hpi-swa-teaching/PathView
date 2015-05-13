@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Core-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"checkBoxMorph" ],
+	"name" : "SPluggableCheckBoxMorph",
+	"pools" : [
+		 ],
+	"super" : "PluggableButtonMorphPlus",
+	"type" : "normal" }

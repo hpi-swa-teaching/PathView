@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Tests-Tracer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "STracerViewTraceTest",
+	"pools" : [
+		 ],
+	"super" : "STracerTest",
+	"type" : "normal" }

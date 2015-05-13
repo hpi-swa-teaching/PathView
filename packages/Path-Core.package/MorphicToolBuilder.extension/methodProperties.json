@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"buildPluggableCheckBox:" : "mp 9/15/2010 14:40:10.3",
+		"buildPluggableFlap:" : "mp 9/13/2010 19:02:48.438",
+		"buildPluggableTree:" : "mp 1/25/2010 11:28",
+		"buildSPluggableMultiSelectionList:" : "mp 9/23/2010 17:46:34.678",
+		"codePaneClass" : "mp 3/24/2011 12:15:07.882",
+		"flapClass" : "mp 9/13/2010 15:05:41.639",
+		"pluggableTreeMorphClass:" : "mp 7/7/2010 16:41:03.577",
+		"setAdditionalTreeSpecs:on:" : "esec 11/21/2013 11:52:48.986" } }

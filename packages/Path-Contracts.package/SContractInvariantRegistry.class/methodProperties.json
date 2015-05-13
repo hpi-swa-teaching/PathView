@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"initialize" : "mp 5/15/2013 10:50:49.856",
+		"invariantGroupAt:" : "mp 5/15/2013 10:58:03.401",
+		"invariantGroupAt:put:" : "mp 5/15/2013 11:01:12.946",
+		"invariantMethodAt:" : "mp 5/15/2013 11:00:33.794",
+		"invariantMethodAt:put:" : "mp 5/15/2013 11:03:04.337" },
+	"instance" : {
+		 } }

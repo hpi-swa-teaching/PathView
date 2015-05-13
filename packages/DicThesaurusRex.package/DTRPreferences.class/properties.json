@@ -1,0 +1,15 @@
+{
+	"category" : "DicThesaurusRex-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LiveSpellCheckEnabled",
+		"SynonymSearchEnabled" ],
+	"commentStamp" : "sn 7/16/2013 12:02:39.36",
+	"instvars" : [
+		 ],
+	"name" : "DTRPreferences",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

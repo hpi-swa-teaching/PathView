@@ -1,0 +1,19 @@
+{
+	"category" : "Path-Core-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"actionModel",
+		"actionSelector",
+		"actionArgs",
+		"enabledSelector",
+		"normalColor",
+		"enabled" ],
+	"name" : "SActionButtonMorph",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

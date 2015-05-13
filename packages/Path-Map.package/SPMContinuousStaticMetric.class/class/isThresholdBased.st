@@ -1,0 +1,4 @@
+constants
+isThresholdBased
+
+	^ false

@@ -1,0 +1,14 @@
+{
+	"category" : "DicThesaurusRex-TestExample",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"randmVarible" ],
+	"name" : "DTRExmple1",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

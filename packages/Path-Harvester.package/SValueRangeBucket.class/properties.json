@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Harvester-ValueRanges",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SValueRangeBucket",
+	"pools" : [
+		 ],
+	"super" : "SBucket",
+	"type" : "normal" }

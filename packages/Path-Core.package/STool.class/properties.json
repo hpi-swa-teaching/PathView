@@ -1,0 +1,15 @@
+{
+	"category" : "Path-Core-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"windowMorph",
+		"windowSpec" ],
+	"name" : "STool",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

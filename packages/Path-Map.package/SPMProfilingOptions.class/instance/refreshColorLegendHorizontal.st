@@ -1,0 +1,5 @@
+visualization
+refreshColorLegendHorizontal
+	self colorLegend 
+		horizontalColors: {1.0 -> ((Interval from: SPMTRProfilingTracer maxHue to: 0 by: -10) 
+					collect: [:each | Color h: each s: 1.0 v: 1.0])}

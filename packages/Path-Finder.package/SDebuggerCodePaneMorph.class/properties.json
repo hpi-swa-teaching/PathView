@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Finder-Debugger",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"suspiciousColor" ],
+	"name" : "SDebuggerCodePaneMorph",
+	"pools" : [
+		 ],
+	"super" : "SCodePaneMorph",
+	"type" : "normal" }

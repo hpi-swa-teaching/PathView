@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"on:" : "mp 9/20/2010 19:12:38.894",
+		"saturation" : "mp 9/20/2010 19:02:43.395" },
+	"instance" : {
+		"addCodeMetricAt:toColorLegendLabel:" : "mp 9/20/2010 13:58:09.709",
+		"getLegendColors" : "mp 9/20/2010 12:59:30.641",
+		"getMetricValue:" : "mp 10/25/2010 22:32:48.428",
+		"options" : "mp 9/20/2010 19:12:05.509",
+		"options:" : "mp 9/20/2010 19:12:05.514",
+		"visualizeMorphs:" : "mp 9/20/2010 13:04:52.303" } }

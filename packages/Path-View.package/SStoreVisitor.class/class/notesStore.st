@@ -1,0 +1,4 @@
+stores
+notesStore
+
+	^ #notes

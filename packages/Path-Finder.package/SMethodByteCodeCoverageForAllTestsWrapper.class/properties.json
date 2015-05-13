@@ -1,0 +1,15 @@
+{
+	"category" : "Path-Finder-Debugger",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"currentTest",
+		"coveredByteCodes" ],
+	"name" : "SMethodByteCodeCoverageForAllTestsWrapper",
+	"pools" : [
+		 ],
+	"super" : "MwMethodWrapper",
+	"type" : "normal" }

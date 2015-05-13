@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"addInfo:to:withLabel:" : "mp 7/12/2013 12:48:41.112",
+		"bucketFrom:" : "mp 2/9/2012 16:14:32.802",
+		"createAListOfAllHarvester" : "mp 2/3/2012 13:55:55.163",
+		"forCategories:" : "mp 1/24/2012 16:29:59.198",
+		"getClassMorph:with:from:" : "mp 2/9/2012 16:04:13.327",
+		"getLabelString:" : "mp 2/2/2012 17:38:03.446",
+		"getLegendColors" : "mp 2/2/2012 17:35:29.369",
+		"getMorph:with:from:" : "mp 2/9/2012 15:59:48.551",
+		"identifier" : "mp 2/3/2012 14:20:47.332",
+		"label" : "mp 2/3/2012 13:53:02.639",
+		"visualizeResultsOn:" : "mp 1/31/2012 18:12:20.028" },
+	"instance" : {
+		"arguments:from:" : "mp 5/7/2013 17:42:11.468",
+		"bucket" : "mp 1/24/2012 16:30:07.133",
+		"bucket:" : "mp 5/2/2012 17:44:56.786",
+		"categories" : "mp 5/2/2012 17:44:56.773",
+		"categories:" : "mp 1/24/2012 16:30:07.118",
+		"createCollector" : "mp 2/3/2012 14:10:21.731",
+		"instVarsFor:" : "mp 5/2/2012 17:47:07.439",
+		"isActive" : "mp 5/2/2012 17:48:50.294",
+		"isActive:" : "mp 5/2/2012 17:44:56.878",
+		"isTypeHarvester" : "mp 1/24/2012 16:36:57.562",
+		"isValueRangeHarvester" : "mp 2/3/2012 14:29:31.785",
+		"return:from:" : "mp 5/2/2012 17:48:13.736" } }

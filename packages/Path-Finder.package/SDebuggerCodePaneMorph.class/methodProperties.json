@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"on:color:" : "mp 8/13/2013 13:49:51.143",
+		"on:color:suspiciousColor:" : "mp 3/29/2012 17:09:50.336" },
+	"instance" : {
+		"buttonSpec" : "mp 8/13/2013 09:59:20.696",
+		"computeOchiaiFor:" : "mp 9/21/2011 12:19:44.05",
+		"displayTest:from:" : "mp 9/21/2011 12:08:41.012",
+		"faultLocalizationForMethod" : "mp 9/21/2011 12:06:20.914",
+		"faultTracer" : "mp 7/16/2013 16:22:09.525",
+		"getCoveredByteCodes" : "mp 9/21/2011 12:10:42.082",
+		"highlightAnomaliesAtStatements:" : "mp 7/16/2013 11:35:32.909",
+		"ochiaiForByteCode:from:" : "mp 9/21/2011 12:25:14.785",
+		"runTests:forAnalyzing:" : "mp 9/21/2011 12:10:33.958",
+		"suspiciousColor" : "mp 11/8/2010 16:14:28.07",
+		"suspiciousColor:" : "mp 11/8/2010 16:14:28.075" } }

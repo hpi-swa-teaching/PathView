@@ -1,0 +1,15 @@
+{
+	"category" : "Path-Finder-Tracer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mp 12/9/2013 13:57:57.014",
+	"instvars" : [
+		"coverageWrapper",
+		"parentPc" ],
+	"name" : "SSteppingChildWrapper",
+	"pools" : [
+		 ],
+	"super" : "SSpecificWrapper",
+	"type" : "normal" }

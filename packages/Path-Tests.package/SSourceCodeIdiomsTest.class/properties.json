@@ -1,0 +1,15 @@
+{
+	"category" : "Path-Tests-Idioms",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"pathCategories",
+		"pathClasses" ],
+	"name" : "SSourceCodeIdiomsTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+testing
+isNotExpanded
+
+	^ expandedFlap = false

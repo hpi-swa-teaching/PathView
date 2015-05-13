@@ -1,0 +1,16 @@
+{
+	"category" : "Path-Core-Tools-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"selectedCategoriesList",
+		"userOk",
+		"project" ],
+	"name" : "SCategoryChooser",
+	"pools" : [
+		 ],
+	"super" : "STool",
+	"type" : "normal" }

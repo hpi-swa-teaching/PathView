@@ -1,0 +1,4 @@
+hooks
+projectSymbol
+
+	self subclassResponsibility.

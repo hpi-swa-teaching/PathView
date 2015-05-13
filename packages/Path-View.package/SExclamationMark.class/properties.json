@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-ClassMorph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"exclamation" ],
+	"name" : "SExclamationMark",
+	"pools" : [
+		 ],
+	"super" : "SNoteMorph",
+	"type" : "normal" }

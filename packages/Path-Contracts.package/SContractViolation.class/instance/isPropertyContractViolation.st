@@ -1,0 +1,3 @@
+testing
+isPropertyContractViolation
+	^ false

@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"labelOffset" : "mp 9/16/2010 10:27:11.875",
+		"on:" : "mp 9/16/2010 18:55:06.251" },
+	"instance" : {
+		"convertToRelativePosition:" : "mp 9/17/2010 13:43:32.438",
+		"defaultBorderColor" : "mp 9/15/2010 22:32:04.587",
+		"defaultBorderWidth" : "mp 9/15/2010 22:31:58.354",
+		"drawBordersOn:" : "mp 9/16/2010 09:42:34.501",
+		"drawColorHorizontalOn:" : "mp 7/16/2013 17:17:04.522",
+		"drawColorVerticalOn:" : "mp 9/20/2010 18:29:27.279",
+		"drawOn:" : "mp 9/17/2010 17:03:16.045",
+		"handleMouseMove:" : "mp 9/16/2010 09:56:16.082",
+		"handlesMouseOver:" : "mp 7/16/2013 17:17:11.462",
+		"horizontalColors" : "mp 9/17/2010 17:03:45.694",
+		"horizontalColors:" : "mp 9/17/2010 17:03:45.699",
+		"initialize" : "mp 9/16/2010 10:01:13.69",
+		"labelMorph" : "mp 9/16/2010 10:00:46.979",
+		"labelMorph:" : "mp 9/16/2010 10:00:46.984",
+		"mouseEnter:" : "mp 9/17/2010 14:54:55.868",
+		"mouseLeave:" : "mp 9/17/2010 14:53:39.978",
+		"mouseMove:" : "mp 9/17/2010 14:26:12.973",
+		"optionsModel" : "mp 9/16/2010 18:54:45.479",
+		"optionsModel:" : "mp 9/16/2010 18:54:45.483",
+		"verticalColors" : "mp 9/16/2010 19:03:38.679",
+		"verticalColors:" : "mp 9/16/2010 19:03:38.685" } }

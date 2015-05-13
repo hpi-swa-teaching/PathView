@@ -1,0 +1,4 @@
+*Path-Core
+stringRectangle
+
+	^ bounds 

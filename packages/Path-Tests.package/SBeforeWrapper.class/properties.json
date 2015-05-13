@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Tests-MethodWrappers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"touched" ],
+	"name" : "SBeforeWrapper",
+	"pools" : [
+		 ],
+	"super" : "MwMethodWrapper",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "Path-View-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"klass",
+		"selector",
+		"definitionPanel",
+		"model" ],
+	"name" : "SSourceCodeMorph",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

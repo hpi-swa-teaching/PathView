@@ -1,0 +1,14 @@
+{
+	"category" : "DicThesaurusRex-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jp 7/1/2013 17:55:43.312",
+	"instvars" : [
+		"sut" ],
+	"name" : "DTRHunspellZombieTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

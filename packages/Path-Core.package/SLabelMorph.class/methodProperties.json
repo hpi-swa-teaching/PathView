@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"defaultColor" : "mp 9/15/2010 17:45:00.918",
+		"defaultExtensionFactor" : "mp 9/15/2010 18:44:58.329",
+		"label:" : "mp 9/15/2010 17:41:34.967" },
+	"instance" : {
+		"createLabelMorph:" : "mp 9/8/2011 18:09:33.29",
+		"defaultBorderColor" : "mp 9/15/2010 17:44:35.443",
+		"defaultBorderWidth" : "mp 9/15/2010 17:44:41.885",
+		"extent:" : "mp 9/9/2011 09:37:03.35",
+		"initialize" : "mp 9/15/2010 17:44:51.141",
+		"labelMorphs" : "mp 9/8/2011 16:57:08.097",
+		"labelMorphs:" : "mp 9/8/2011 16:56:29.288" } }

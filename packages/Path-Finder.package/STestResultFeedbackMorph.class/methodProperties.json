@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"defaultColor" : "mp 4/15/2010 16:08",
+		"errorColor" : "mp 4/15/2010 16:08",
+		"failureColor" : "mp 4/15/2010 16:08",
+		"passedColor" : "mp 4/15/2010 16:09" },
+	"instance" : {
+		"initialize" : "mp 4/15/2010 16:15",
+		"update:" : "mp 5/2/2010 12:52" } }

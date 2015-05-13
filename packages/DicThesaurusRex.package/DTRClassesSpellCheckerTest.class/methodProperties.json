@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"officalLicense" : "mp 7/29/2013 16:03:43.657" },
+	"instance" : {
+		"setUp" : "jr 6/28/2013 13:30:10.851",
+		"testCheckSpellingInMethodsOfClassesWithErrors" : "mp 7/29/2013 16:03:25.158",
+		"testCheckSpellingInMethodsOfClassesWithoutErrors" : "jr 6/28/2013 13:37:55.242",
+		"testErroneousMethodsInCategory" : "jr 7/18/2013 01:41:00.996",
+		"testErroneousMethodsInMethodListOfClass" : "mp 7/30/2013 11:28:19.357" } }

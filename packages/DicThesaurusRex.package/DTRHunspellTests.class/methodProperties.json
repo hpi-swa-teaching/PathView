@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "mp 8/7/2013 11:26:55.999",
+		"tearDown" : "jr 6/17/2013 14:01:10.27",
+		"testApiAdd" : "DNR 7/7/2013 14:45:44.304",
+		"testApiSpell" : "jr 5/14/2013 01:27:03.406",
+		"testApiSuggest" : "mp 7/29/2013 16:06:23.697",
+		"testCheckSpellingOfStartingAt" : "jr 5/26/2013 14:14:40.27",
+		"testCreateWithCustomAffixFileAndDictionary" : "mp 10/18/2013 11:20:37.525",
+		"testDoNotIgnoreEmptyWord" : "jr 6/28/2013 11:06:34.615",
+		"testGuesses" : "mp 7/30/2013 11:03:55.702",
+		"testIgnoreWord" : "jp 7/7/2013 12:48:22.993",
+		"testIgnoreWords" : "DNR 7/7/2013 14:46:14.114",
+		"testInvalidation" : "jr 7/18/2013 01:14:19.123",
+		"testInvalidationUponStartUp" : "jr 7/18/2013 01:13:17.206",
+		"testPersistentIgnoredWords" : "mp 8/7/2013 11:28:05.341",
+		"testRemoveIgnoredWord" : "mp 8/7/2013 11:28:50.521",
+		"testRevive" : "jr 7/18/2013 01:13:37.034",
+		"testReviveWithIgnoredWords" : "jp 7/7/2013 12:49:02.164",
+		"testSharedGlobalIgnoredWords" : "mp 8/7/2013 11:28:59.431",
+		"testSpellcheck" : "jr 5/14/2013 01:22:31.58" } }

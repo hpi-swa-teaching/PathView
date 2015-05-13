@@ -1,0 +1,15 @@
+{
+	"category" : "DicThesaurusRex-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sut",
+		"ignoredWords" ],
+	"name" : "DTRCorrectionWindowTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

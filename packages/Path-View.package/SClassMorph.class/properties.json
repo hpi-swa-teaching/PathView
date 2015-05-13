@@ -1,0 +1,23 @@
+{
+	"category" : "Path-View-ClassMorph",
+	"classinstvars" : [
+		"keyMap" ],
+	"classvars" : [
+		"AutoAncestorDepth",
+		"AutoBuildConnections",
+		"AutoBuildDynamicConnections",
+		"AutoBuildStaticConnections" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"menuMorph",
+		"classSideMorph",
+		"highlightColor",
+		"oldHighlightColor",
+		"layoutMovementVector",
+		"nameMorph",
+		"implementationMorph" ],
+	"name" : "SClassMorph",
+	"pools" : [
+		 ],
+	"super" : "SMorphWithToolbar",
+	"type" : "normal" }

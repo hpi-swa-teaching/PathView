@@ -1,0 +1,14 @@
+{
+	"category" : "DicThesaurusRex-Tests-Stubs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"styledText" ],
+	"name" : "DTRSpellcheckTestStub",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

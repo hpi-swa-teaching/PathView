@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"class:selector:" : "bs 7/17/2010 12:43:32.121",
+		"convertTestSuite:" : "mp 4/4/2011 17:12:55.425",
+		"onTestCase:" : "bs 7/17/2010 12:42:12.429",
+		"onTestMethodReference:" : "bs 7/20/2010 14:52:04.177",
+		"testMethod:" : "bs 7/20/2010 14:52:07.313" },
+	"instance" : {
+		"=" : "mp 7/14/2010 09:29:14.346",
+		"asCompiledMethod" : "tfel 7/8/2011 09:42:46.062",
+		"asMethodReference" : "bs 7/20/2010 14:54:47.724",
+		"compiledMethod" : "mp 12/8/2011 13:33:08.421",
+		"debug" : "mp 6/26/2011 18:51:15.326",
+		"disableTimeout" : "mp 5/9/2011 09:53:02.273",
+		"execute" : "mp 4/19/2013 10:44:29.229",
+		"hash" : "mp 7/14/2010 09:28:50.007",
+		"isInheritedTest" : "mp 9/29/2010 13:49:43.777",
+		"isTestCase" : "mp 4/1/2011 13:27:47.667",
+		"lastResult" : "mp 7/13/2010 14:52:00.283",
+		"lastResult:" : "mp 7/13/2010 14:52:00.287",
+		"printString" : "mp 9/29/2010 13:48:34.75",
+		"selector" : "bs 7/17/2010 12:38:02.943",
+		"selector:" : "bs 7/17/2010 12:38:02.95",
+		"testClass" : "bs 7/17/2010 12:38:18.191",
+		"testClass:" : "bs 7/17/2010 12:38:18.197",
+		"withoutTimeout" : "mp 5/9/2011 09:53:19.674",
+		"withoutTimeout:" : "mp 5/9/2011 09:52:39.289" } }

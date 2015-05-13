@@ -1,0 +1,17 @@
+{
+	"category" : "Path-Core-Tools-Finder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"callTreeTracer",
+		"callTreeModel",
+		"testChooserModel",
+		"coverageTracer" ],
+	"name" : "SPathFinder",
+	"pools" : [
+		 ],
+	"super" : "STool",
+	"type" : "normal" }

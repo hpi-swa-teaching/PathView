@@ -1,0 +1,15 @@
+{
+	"category" : "Path-View-GraphLayout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"root",
+		"treeRuleBlock" ],
+	"name" : "STreeOrientedGraph",
+	"pools" : [
+		 ],
+	"super" : "SGraph",
+	"type" : "normal" }

@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"on:kindOf:" : "mp 1/18/2013 13:32:08.644",
+		"signalOn:" : "mp 3/15/2012 12:21:16.646",
+		"signalOn:kindOf:" : "mp 3/30/2012 11:53:23.97" },
+	"instance" : {
+		"<" : "mp 3/21/2012 15:57:14.037",
+		"=" : "mp 3/15/2012 14:19:53.704",
+		"description" : "mp 1/18/2013 15:54:37.36",
+		"hash" : "mp 3/15/2012 14:22:57.59",
+		"initialize" : "mp 3/30/2012 11:48:50.127",
+		"isContractViolation" : "mp 3/15/2012 09:49:51.836",
+		"isIncludesContractViolation" : "mp 3/30/2012 15:02:25.908",
+		"isNilContractViolation" : "mp 3/30/2012 11:58:01.477",
+		"isPropertyContractViolation" : "mp 3/30/2012 13:12:47.231",
+		"isRangeContractViolation" : "mp 3/30/2012 14:25:53.979",
+		"isSizeContractViolation" : "mp 3/30/2012 12:12:52.716",
+		"isSpellingContractViolation" : "mp 3/30/2012 12:54:03.302",
+		"isTypeContractViolation" : "mp 3/15/2012 12:31:48.772",
+		"kindOf" : "mp 3/15/2012 12:20:49.46",
+		"kindOf:" : "mp 3/15/2012 12:20:49.473",
+		"methodReference" : "mp 3/15/2012 09:51:58.039",
+		"methodReference:" : "mp 3/15/2012 09:51:58.051",
+		"shortDescription" : "mp 1/18/2013 14:39:39.968",
+		"shortKindOf" : "mp 3/30/2012 12:09:55.089",
+		"variableName" : "mp 1/18/2013 13:31:34.289",
+		"variableName:" : "mp 1/18/2013 13:31:34.298" } }

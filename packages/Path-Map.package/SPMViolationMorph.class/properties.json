@@ -1,0 +1,15 @@
+{
+	"category" : "Path-Map-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"labelMorph",
+		"violations" ],
+	"name" : "SPMViolationMorph",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

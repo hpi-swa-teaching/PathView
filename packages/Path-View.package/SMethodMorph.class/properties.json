@@ -1,0 +1,16 @@
+{
+	"category" : "Path-View-ClassMorph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"methodName",
+		"sourceCodePopup",
+		"highlightedColor" ],
+	"name" : "SMethodMorph",
+	"pools" : [
+		 ],
+	"super" : "SPinnableEntryMorph",
+	"type" : "normal" }

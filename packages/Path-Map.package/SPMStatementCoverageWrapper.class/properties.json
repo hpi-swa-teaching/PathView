@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Map-Wrapper",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"allByteCodesCovered" ],
+	"name" : "SPMStatementCoverageWrapper",
+	"pools" : [
+		 ],
+	"super" : "SPMCoverageWrapper",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "Path-Contracts-Builder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"methodsInScope",
+		"typesBucket",
+		"valueRangeBucket",
+		"groupName" ],
+	"name" : "SContractInjector",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

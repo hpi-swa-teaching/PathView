@@ -1,0 +1,16 @@
+{
+	"category" : "DicThesaurusRex-Thesaurus",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sn 7/16/2013 11:58:07.118",
+	"instvars" : [
+		"ui",
+		"window",
+		"textMorph" ],
+	"name" : "DTRSuggestionWindow",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

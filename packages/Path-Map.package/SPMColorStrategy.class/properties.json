@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Map-Coloring",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SPMColorStrategy",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

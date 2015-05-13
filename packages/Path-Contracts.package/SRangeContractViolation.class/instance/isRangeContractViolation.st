@@ -1,0 +1,3 @@
+testing
+isRangeContractViolation
+	^ true

@@ -1,0 +1,3 @@
+as yet unclassified
+testSynonymsOf
+self assert: #('plain' 'easy' 'unsubdivided' 'uncomplicated' 'naif' 'mere' 'naive' 'smooth' 'retarded' 'dewy-eyed' 'wide-eyed' 'half-witted' 'simple-minded' 'unproblematic' 'soul' 'human' 'mortal' 'person' 'someone' 'unlobed' 'simplex' 'somebody' 'ultimate' 'elemental' 'individual' 'simplified' 'simplistic' 'unanalyzable' 'undecomposable' 'oversimplified' 'unsophisticated' 'herbaceous plant') asOrderedCollection equals: (DTRThesaurus synonymsOf: 'simple') 

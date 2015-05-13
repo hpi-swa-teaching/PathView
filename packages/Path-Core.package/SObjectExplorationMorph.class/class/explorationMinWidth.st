@@ -1,0 +1,4 @@
+constants
+explorationMinWidth
+
+	^ 225

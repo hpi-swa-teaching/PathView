@@ -1,0 +1,4 @@
+private
+doSomething
+
+	^ true

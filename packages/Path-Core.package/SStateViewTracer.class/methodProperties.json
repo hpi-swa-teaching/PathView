@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addValue:" : "mp 9/29/2010 22:41:40.35",
+		"endExecutionOf:withResult:" : "mp 9/29/2010 22:45:30.73",
+		"gatheredValues" : "mp 9/29/2010 22:39:10.161",
+		"gatheredValues:" : "mp 9/29/2010 22:39:10.166",
+		"getWrapperClass" : "mp 8/16/2013 10:01:05.213",
+		"initialize" : "mp 9/29/2010 22:39:31.28",
+		"reset" : "mp 9/29/2010 22:39:47.398",
+		"valueDict" : "mp 9/29/2010 22:27:24.472",
+		"valueDict:" : "mp 9/29/2010 22:27:24.476",
+		"valuesAsSet" : "mp 8/16/2013 10:02:59.302" } }

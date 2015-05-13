@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Tests-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SProjectAccessTest",
+	"pools" : [
+		 ],
+	"super" : "SProjectTest",
+	"type" : "normal" }

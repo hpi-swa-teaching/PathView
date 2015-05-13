@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"requiredSpaceForTwoCodeDigits" : "mp 3/10/2010 11:52",
+		"scaleFactorLeftMargin" : "mp 3/10/2010 11:48" },
+	"instance" : {
+		"drawLineNumber:on:" : "mp 3/10/2010 12:48",
+		"drawLineNumbersBorderOn:" : "mp 3/10/2010 11:58",
+		"drawLineNumbersOn:" : "mp 3/10/2010 12:19",
+		"drawOn:" : "mp 3/10/2010 14:37",
+		"getStringFor:" : "mp 3/10/2010 12:08",
+		"handlesMouseOver:" : "mp 3/18/2011 21:52:07.713",
+		"initialize" : "mp 3/10/2010 11:50",
+		"labelMorph" : "mp 3/18/2011 21:38:23.288",
+		"labelMorph:" : "mp 3/18/2011 21:34:16.236",
+		"mouseLeave:" : "mp 7/16/2013 11:14:12.977",
+		"mouseMove:" : "mp 7/16/2013 11:14:20.805",
+		"trimWord:" : "mp 3/18/2011 21:33:08.326",
+		"wordAt:" : "mp 3/18/2011 21:22:47.069" } }

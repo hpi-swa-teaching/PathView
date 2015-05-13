@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Map-Tracer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SPMTRInstancesCountTracer",
+	"pools" : [
+		 ],
+	"super" : "SPMTRMethodCallTracer",
+	"type" : "normal" }

@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"expandedByDefault" : "ag 12/9/2011 13:48:13.836",
+		"indentationInset" : "ag 12/10/2011 14:56:09.371" },
+	"instance" : {
+		"addEntry:" : "ag 12/9/2011 12:57:51.591",
+		"clicked" : "ag 12/10/2011 15:35:19.417",
+		"collapseMorphs" : "ag 4/18/2012 14:56:52.256",
+		"createEntries" : "tfel 4/28/2011 21:47:19.256",
+		"entries" : "mp 7/16/2013 13:49:46.274",
+		"expandMorphs" : "tfel 2/14/2012 11:07:24.004",
+		"expanded" : "omg 5/24/2011 11:43:42.789",
+		"indentation:" : "ag 12/10/2011 14:38:40.883",
+		"initialize" : "ag 3/8/2012 12:08:03.246",
+		"isEquivalentTo:" : "pt 6/27/2012 09:03:53.076",
+		"isExpandable" : "ag 12/9/2011 15:03:47.742",
+		"needsToBeShown" : "ag 12/9/2011 12:33:28.018",
+		"recursivelyExpandMorphs" : "ag 3/8/2012 13:25:34.102",
+		"recursivelyUpdateExpansion" : "ag 12/29/2011 10:41:11.398",
+		"recursivelyUpdateExpansion:" : "mp 7/16/2013 13:50:10.031",
+		"reexpandIfNecessary" : "mp 7/16/2013 13:50:22.687",
+		"reexpandLater" : "ag 12/10/2011 15:54:45.031",
+		"showLabel:" : "ag 12/27/2011 17:14:26.777",
+		"showSubmorph:if:doing:" : "ag 12/9/2011 17:37:00.11",
+		"toggleExpansion" : "ag 12/27/2011 17:02:26.904",
+		"updateAll" : "sp 6/28/2012 09:22:27.935",
+		"updateEntries" : "sp 6/27/2012 21:25:46.56",
+		"updateExpansion" : "ag 12/9/2011 13:53:42.579" } }

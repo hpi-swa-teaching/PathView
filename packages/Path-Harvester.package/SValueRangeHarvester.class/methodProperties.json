@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"bucketFrom:" : "mp 2/9/2012 16:17:54.732",
+		"colorMapping" : "mp 2/9/2012 14:28:21.779",
+		"createColorMapping" : "mp 2/9/2012 14:47:22.401",
+		"getHarvestedMethodReferencesFrom:" : "mp 5/7/2013 17:44:24.378",
+		"getLabelString:" : "mp 2/9/2012 15:02:20.273",
+		"getLegendColors" : "mp 2/9/2012 14:48:30.546",
+		"getReturnTypesFrom:and:" : "mp 5/7/2013 17:15:22.645",
+		"getTemporaryTypesFrom:and:" : "mp 5/7/2013 17:44:26.694",
+		"label" : "mp 2/9/2012 15:11:23.507",
+		"setAdditionalColorsTo:basedOn:" : "mp 2/9/2012 16:58:11.374",
+		"setAdditionalInfosFrom:to:on:" : "mp 5/7/2013 17:44:31.805",
+		"visualizeClassLevelOn:" : "mp 2/9/2012 17:41:20.955",
+		"visualizeMethodLevelOn:" : "mp 2/9/2012 17:36:35.038",
+		"visualizeResultsOn:" : "mp 2/9/2012 14:27:41.359" },
+	"instance" : {
+		"createCollector" : "mp 2/6/2012 16:13:53.804",
+		"isValueRangeHarvester" : "mp 2/3/2012 14:29:42.918" } }

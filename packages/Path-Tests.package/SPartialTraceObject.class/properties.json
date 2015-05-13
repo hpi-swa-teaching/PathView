@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Tests-Tracer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SPartialTraceObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

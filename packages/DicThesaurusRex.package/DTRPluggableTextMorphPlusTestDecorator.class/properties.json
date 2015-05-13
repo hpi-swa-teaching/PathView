@@ -1,0 +1,15 @@
+{
+	"category" : "DicThesaurusRex-Tests-Stubs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"original",
+		"showSuggestionWindowCall" ],
+	"name" : "DTRPluggableTextMorphPlusTestDecorator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

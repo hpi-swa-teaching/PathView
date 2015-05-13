@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"checkTestResult:" : "mp 4/30/2013 14:39:44.908",
+		"setUp" : "mp 4/30/2013 14:34:08.03",
+		"testGetAccessor" : "mp 5/2/2013 13:40:40.567",
+		"testLoopBlock" : "mp 5/2/2013 13:40:42.667",
+		"testReturn" : "mp 5/2/2013 13:40:44.588",
+		"testTraceMethodExecution" : "mp 5/2/2013 13:40:50.805",
+		"testTraceMethodExecutionWithBlock" : "mp 5/2/2013 13:40:53.664",
+		"testTraceMethodExecutionWithCondition" : "mp 5/2/2013 13:40:55.191" } }

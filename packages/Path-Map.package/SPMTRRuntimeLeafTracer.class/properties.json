@@ -1,0 +1,15 @@
+{
+	"category" : "Path-Map-Tracer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"stopwatches",
+		"runtimes" ],
+	"name" : "SPMTRRuntimeLeafTracer",
+	"pools" : [
+		 ],
+	"super" : "SPMTRRuntimeTracer",
+	"type" : "normal" }

@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"test01DefaultRangePropertyInitialization" : "mp 5/3/2013 11:51:42.826",
+		"test02Equality" : "mp 5/7/2013 17:45:26.372",
+		"test03ConstantValue" : "mp 5/7/2013 17:31:10.719",
+		"test04NilAllowed" : "mp 5/7/2013 17:31:12.704" } }

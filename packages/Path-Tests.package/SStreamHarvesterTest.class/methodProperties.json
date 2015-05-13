@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"test01DefaultRangePropertyInitialization" : "mp 5/6/2013 11:27:26.596",
+		"test02Equality" : "mp 5/7/2013 17:45:37.495",
+		"test03IsClosed" : "mp 5/7/2013 17:31:59.762",
+		"test04ContentsOfStream" : "mp 5/7/2013 17:32:01.43" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Tests-Harvester-ValueRanges",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SStringHarvesterTest",
+	"pools" : [
+		 ],
+	"super" : "SValueRangeHarvesterTest",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "Path-Finder-TestChooser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"tracer",
+		"test",
+		"result" ],
+	"name" : "STestChooserModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

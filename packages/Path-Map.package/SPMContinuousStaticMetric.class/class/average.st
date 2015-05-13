@@ -1,0 +1,3 @@
+thresholds
+average
+	^ 2

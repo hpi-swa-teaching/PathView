@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"isAbstract" : "tfel 5/13/2011 17:57:28.548" },
+	"instance" : {
+		"aboutToCreateClassMorphFor:" : "tfel 2/14/2012 11:23:26.583",
+		"aboutToSearchInstanceIn:" : "tfel 5/5/2011 14:32:03.79",
+		"detectInstanceIn:" : "mp 7/16/2013 13:17:37.547",
+		"expandMorphsIn:" : "tfel 5/24/2011 13:59:31.954",
+		"setUp" : "tfel 2/14/2012 11:22:26.5" } }

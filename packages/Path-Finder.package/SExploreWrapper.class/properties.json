@@ -1,0 +1,16 @@
+{
+	"category" : "Path-Finder-Tracer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"objects",
+		"exploreWhat",
+		"found" ],
+	"name" : "SExploreWrapper",
+	"pools" : [
+		 ],
+	"super" : "SSpecificWrapper",
+	"type" : "normal" }

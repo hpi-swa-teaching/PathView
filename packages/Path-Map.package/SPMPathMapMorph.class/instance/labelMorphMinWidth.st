@@ -1,0 +1,4 @@
+building
+labelMorphMinWidth
+	
+	^ self width

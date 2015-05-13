@@ -1,0 +1,4 @@
+constants
+isLogarithmic
+
+	^ true

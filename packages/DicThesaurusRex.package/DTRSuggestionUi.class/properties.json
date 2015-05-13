@@ -1,0 +1,16 @@
+{
+	"category" : "DicThesaurusRex-Thesaurus",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sn 7/16/2013 12:01:15.373",
+	"instvars" : [
+		"listWidget",
+		"cancelButton",
+		"replaceButton" ],
+	"name" : "DTRSuggestionUi",
+	"pools" : [
+		 ],
+	"super" : "UserInterface",
+	"type" : "normal" }

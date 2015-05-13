@@ -1,0 +1,4 @@
+accessing
+enableTestMode
+
+	testMode := true.

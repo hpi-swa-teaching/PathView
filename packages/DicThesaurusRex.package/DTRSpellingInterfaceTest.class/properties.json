@@ -1,0 +1,14 @@
+{
+	"category" : "DicThesaurusRex-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jp 7/1/2013 17:56:07.237",
+	"instvars" : [
+		 ],
+	"name" : "DTRSpellingInterfaceTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

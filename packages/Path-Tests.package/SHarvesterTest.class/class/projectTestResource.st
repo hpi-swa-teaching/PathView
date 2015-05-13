@@ -1,0 +1,3 @@
+accessing
+projectTestResource
+	self subclassResponsibility.

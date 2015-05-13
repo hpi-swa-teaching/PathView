@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"for:" : "sn 7/16/2013 12:00:28.829" },
+	"instance" : {
+		"classOrMetaClass:" : "DNR 7/16/2013 13:03:33.847",
+		"environment:" : "DNR 7/16/2013 13:40:02.558",
+		"font:" : "DNR 7/16/2013 13:48:19.538",
+		"parentStyler" : "jr 5/22/2013 18:07:06.742",
+		"parentStyler:" : "sn 7/16/2013 11:52:02.884",
+		"privateFormat:" : "jr 5/22/2013 18:13:36.227",
+		"privateStyle:" : "jr 5/22/2013 18:13:51.108",
+		"sourceMap:" : "DNR 7/16/2013 13:38:24.497",
+		"stylerStyled:" : "jr 5/23/2013 14:51:03.476",
+		"stylerStyledInBackground:" : "jr 5/22/2013 23:01:05.962",
+		"terminateBackgroundStylingProcess" : "jr 5/22/2013 22:39:11.502",
+		"unstyledTextFrom:" : "jr 5/22/2013 18:13:12.945",
+		"workspace:" : "DNR 7/16/2013 13:40:53.858" } }

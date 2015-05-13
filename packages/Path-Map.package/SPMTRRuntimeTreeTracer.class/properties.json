@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Map-Tracer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SPMTRRuntimeTreeTracer",
+	"pools" : [
+		 ],
+	"super" : "SPMTRRuntimeTracer",
+	"type" : "normal" }

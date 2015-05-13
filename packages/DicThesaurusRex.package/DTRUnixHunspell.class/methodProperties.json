@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"apiAdd:word:" : "jr 7/8/2013 15:17:36.702",
+		"apiCreate:dPath:" : "jr 7/8/2013 15:17:05.05",
+		"apiDestroy:" : "jr 7/8/2013 15:17:41.778",
+		"apiFreeList:list:size:" : "jr 7/8/2013 15:17:46.257",
+		"apiRemove:word:" : "jr 7/8/2013 15:17:50.846",
+		"apiSpell:word:" : "jr 7/8/2013 15:17:54.424",
+		"apiSuggest:sList:word:" : "jr 7/8/2013 15:17:59.322",
+		"defaultAffixPath" : "jr 7/8/2013 15:45:29.27",
+		"defaultDictionaryPath" : "jr 7/8/2013 15:45:10.854" } }

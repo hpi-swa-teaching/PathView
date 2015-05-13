@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"on:inClass:waitingCalls:coverageWrapper:" : "vkirilichev 11/7/2013 15:26:07.792" },
+	"instance" : {
+		"beforeMethod" : "mp 12/9/2013 13:35:52.227",
+		"coverageWrapper" : "vkirilichev 11/7/2013 15:26:48.729",
+		"coverageWrapper:" : "vkirilichev 11/7/2013 15:26:48.743",
+		"parentPc" : "vkirilichev 11/7/2013 15:33:04.834",
+		"parentPc:" : "vkirilichev 11/7/2013 15:33:04.845" } }

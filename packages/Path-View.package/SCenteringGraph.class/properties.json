@@ -1,0 +1,15 @@
+{
+	"category" : "Path-View-GraphLayout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"parentMorph",
+		"areaExtension" ],
+	"name" : "SCenteringGraph",
+	"pools" : [
+		 ],
+	"super" : "SOffsettingGraph",
+	"type" : "normal" }

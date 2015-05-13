@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"mapping" ],
+	"name" : "SColorMappingCanvas",
+	"pools" : [
+		 ],
+	"super" : "ColorMappingCanvas",
+	"type" : "normal" }

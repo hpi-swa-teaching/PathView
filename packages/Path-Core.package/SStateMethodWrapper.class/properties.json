@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Core-Tools-Browser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SStateMethodWrapper",
+	"pools" : [
+		 ],
+	"super" : "SWrapper",
+	"type" : "normal" }

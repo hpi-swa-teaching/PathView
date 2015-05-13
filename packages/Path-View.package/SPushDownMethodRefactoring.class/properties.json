@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Refactorings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SPushDownMethodRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBPushDownMethodRefactoring",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Path-View-GraphLayout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"nodesToPositions",
+		"positionsToNodes" ],
+	"name" : "SMatrixGraph",
+	"pools" : [
+		 ],
+	"super" : "SGraph",
+	"type" : "normal" }

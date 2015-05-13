@@ -1,0 +1,4 @@
+hooks
+projectSymbol
+	
+	^ #observerExample

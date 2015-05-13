@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"=" : "mp 3/30/2012 12:04:50.213",
+		"description" : "mp 1/18/2013 15:56:48.942",
+		"expectedSize" : "mp 3/30/2012 11:59:44.251",
+		"expectedSize:" : "mp 3/30/2012 11:59:44.262",
+		"givenSize" : "mp 3/30/2012 11:59:44.228",
+		"givenSize:" : "mp 3/30/2012 11:59:44.24",
+		"hash" : "mp 3/30/2012 12:05:07.849",
+		"initialize" : "mp 3/30/2012 12:01:10.648",
+		"isSizeContractViolation" : "mp 3/30/2012 12:13:00.926",
+		"shortDescription" : "mp 3/30/2012 12:11:27.659" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Core-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"itemColorSelector" ],
+	"name" : "SPluggableListMorphOfMany",
+	"pools" : [
+		 ],
+	"super" : "PluggableListMorphOfMany",
+	"type" : "normal" }

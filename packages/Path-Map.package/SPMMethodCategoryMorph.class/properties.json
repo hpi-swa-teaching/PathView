@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Map-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SPMMethodCategoryMorph",
+	"pools" : [
+		 ],
+	"super" : "SPMPathMapMorph",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Contracts-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Processes" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SContractExecutionPolicyRegistry",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

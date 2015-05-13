@@ -1,0 +1,14 @@
+{
+	"category" : "DicThesaurusRex-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sn 7/16/2013 11:37:16.346",
+	"instvars" : [
+		"browser" ],
+	"name" : "DTRBrowserTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

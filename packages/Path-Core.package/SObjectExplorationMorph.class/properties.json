@@ -1,0 +1,19 @@
+{
+	"category" : "Path-Core-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"codePane",
+		"title",
+		"callNode",
+		"kindOfObject",
+		"objectIndex",
+		"objectToExplore" ],
+	"name" : "SObjectExplorationMorph",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

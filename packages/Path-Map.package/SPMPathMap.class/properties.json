@@ -1,0 +1,23 @@
+{
+	"category" : "Path-Map-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"HarvesterWithWrappers",
+		"LightContainerTypes" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"testRunner",
+		"tracer",
+		"rootMorph",
+		"project",
+		"selectedAnalysis",
+		"options",
+		"sortMorphsByStaticMetric",
+		"isDirty",
+		"violations" ],
+	"name" : "SPMPathMap",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

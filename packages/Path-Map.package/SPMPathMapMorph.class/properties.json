@@ -1,0 +1,23 @@
+{
+	"category" : "Path-Map-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"labelMorph",
+		"parentMorph",
+		"childrenMorphs",
+		"sourceCodeEntity",
+		"pathMap",
+		"weight",
+		"expandMorph",
+		"menuMorph",
+		"colorPropagation",
+		"additionalInfo" ],
+	"name" : "SPMPathMapMorph",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+*Path-Core
+item
+
+	^ item

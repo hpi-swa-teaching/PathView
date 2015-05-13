@@ -1,0 +1,15 @@
+{
+	"category" : "Path-Core-Tools-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"selectedProject",
+		"testMode" ],
+	"name" : "SProjectChooser",
+	"pools" : [
+		 ],
+	"super" : "STool",
+	"type" : "normal" }

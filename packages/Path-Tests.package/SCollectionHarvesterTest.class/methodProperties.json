@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"test01DefaultRangePropertyInitialization" : "mp 5/3/2013 13:05:11.232",
+		"test02Equality" : "mp 5/7/2013 17:45:30.191",
+		"test03MaximalNumbersOfElements" : "mp 5/7/2013 17:31:27.224",
+		"test04FixedSizeOfCollection" : "mp 5/7/2013 17:31:29.085",
+		"test05EmptyCollectionsAllowed" : "mp 5/7/2013 17:31:30.744",
+		"test06MultipleCollectionTypes" : "mp 5/7/2013 17:31:32.163" } }

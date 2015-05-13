@@ -1,0 +1,3 @@
+*dicthesaurusrex
+isNull
+	^ false

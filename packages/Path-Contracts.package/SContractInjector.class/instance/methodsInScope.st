@@ -1,0 +1,4 @@
+accessing
+methodsInScope
+
+	^ methodsInScope

@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"after:process:" : "mp 8/12/2010 16:26:40.328",
+		"before:process:" : "mp 8/12/2010 14:34:58.491",
+		"endExecutionOf:withResult:" : "mp 8/12/2010 14:23:01.647",
+		"getProfilingData" : "mp 8/12/2010 15:34:51.28",
+		"getWrapperClass" : "mp 5/10/2011 15:36:20.712",
+		"reset" : "mp 8/12/2010 14:53:40.497",
+		"runtimes" : "mp 8/12/2010 14:25:05.467",
+		"runtimes:" : "mp 8/12/2010 14:21:29.423",
+		"stopwatches" : "mp 8/12/2010 14:25:17.999",
+		"stopwatches:" : "mp 8/12/2010 14:21:29.415" } }

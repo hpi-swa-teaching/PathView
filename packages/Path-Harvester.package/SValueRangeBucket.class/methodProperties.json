@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"argumentPropertiesFor:at:index:" : "mp 5/7/2013 17:57:41.942",
+		"memberPropertiesFor:at:index:" : "mp 5/7/2013 17:57:02.402",
+		"noteArgument:index:in:" : "mp 5/7/2013 17:57:51.793",
+		"noteMember:for:in:" : "mp 5/7/2013 17:57:10.703",
+		"noteReturn:in:" : "mp 5/7/2013 17:56:02.116",
+		"postProcessing" : "mp 5/7/2013 17:44:22.451",
+		"propertyClassOf:" : "mp 5/2/2012 17:32:32.755",
+		"removeLastObject:" : "mp 5/4/2012 14:54:21.058",
+		"removeLastObjectsFrom:" : "mp 5/4/2012 14:53:41.69",
+		"returnPropertiesFor:at:" : "mp 5/7/2013 17:55:50.311" } }

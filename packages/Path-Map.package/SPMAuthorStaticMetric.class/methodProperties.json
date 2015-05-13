@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"chooseAuthorMetric" : "mp 9/9/2011 16:01:57.366" },
+	"instance" : {
+		"addCodeMetricAt:toColorLegendLabel:" : "mp 7/16/2013 17:25:51.227",
+		"addMetricInfo:to:" : "mp 7/12/2013 12:48:59.128",
+		"authors" : "mp 9/20/2010 18:00:20.265",
+		"authors:" : "mp 9/20/2010 18:00:20.27",
+		"colorMapping" : "mp 9/20/2010 18:22:09.642",
+		"colorMapping:" : "mp 9/20/2010 18:22:09.647",
+		"createColorMapping" : "mp 9/9/2011 14:45:06.668",
+		"getLegendColors" : "mp 9/9/2011 14:45:18.628",
+		"getMetricValue:" : "mp 7/16/2013 17:25:55.587",
+		"initialize" : "mp 9/9/2011 16:15:12.599",
+		"metric" : "mp 9/9/2011 16:11:06.383",
+		"metric:" : "mp 9/9/2011 16:11:06.398",
+		"visualizeMorphs:" : "mp 9/9/2011 14:52:57.982" } }

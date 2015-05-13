@@ -1,0 +1,3 @@
+thresholds
+low
+	^ 7

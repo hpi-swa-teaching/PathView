@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfDicThesaurusRex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfDicThesaurusRex",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"=" : "mp 3/30/2012 14:29:28.518",
+		"description" : "mp 1/18/2013 15:58:17.505",
+		"expectedMax" : "mp 3/30/2012 14:28:24.053",
+		"expectedMax:" : "mp 3/30/2012 14:28:24.064",
+		"expectedMin" : "mp 3/30/2012 14:28:24.029",
+		"expectedMin:" : "mp 3/30/2012 14:28:24.041",
+		"givenObject" : "mp 3/30/2012 14:24:11.481",
+		"givenObject:" : "mp 3/30/2012 14:24:11.492",
+		"hash" : "mp 3/30/2012 14:29:57.412",
+		"initialize" : "mp 3/30/2012 14:24:25.559",
+		"isRangeContractViolation" : "mp 3/30/2012 14:26:01.53",
+		"property" : "mp 3/30/2012 14:24:11.504",
+		"property:" : "mp 3/30/2012 14:24:11.515",
+		"shortDescription" : "mp 3/30/2012 14:51:18.262" } }

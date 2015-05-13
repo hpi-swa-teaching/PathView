@@ -1,0 +1,15 @@
+{
+	"category" : "DicThesaurusRex-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jp 7/1/2013 17:55:34.736",
+	"instvars" : [
+		"sut",
+		"ignoredWords" ],
+	"name" : "DTRHunspellTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

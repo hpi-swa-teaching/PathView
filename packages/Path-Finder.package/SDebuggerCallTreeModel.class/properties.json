@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Finder-Debugger",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"suspiciousMethods" ],
+	"name" : "SDebuggerCallTreeModel",
+	"pools" : [
+		 ],
+	"super" : "SCallTreeModel",
+	"type" : "normal" }

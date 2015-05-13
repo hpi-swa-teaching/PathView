@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Map-Wrapper",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"calls" ],
+	"name" : "SPMCallCountWrapper",
+	"pools" : [
+		 ],
+	"super" : "SWrapper",
+	"type" : "normal" }

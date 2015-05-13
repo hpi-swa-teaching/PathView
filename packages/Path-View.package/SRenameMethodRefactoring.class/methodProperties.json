@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"renameMethod:in:to:permutation:withSenders:" : "sp 6/27/2012 08:47:20.098" },
+	"instance" : {
+		"convertReferencesTo:inClass:using:" : "sp 6/27/2012 21:49:29.012",
+		"convertReferencesTo:inPackage:using:" : "sp 6/27/2012 21:48:46.373",
+		"implementors" : "sp 6/26/2012 18:05:22.305",
+		"privateReferencesTo:" : "sp 6/27/2012 21:36:49.419",
+		"renameMessageSends" : "sp 6/27/2012 19:43:51.301",
+		"senders" : "sp 6/27/2012 08:21:29.191",
+		"senders:" : "sp 6/27/2012 08:47:38.331" } }

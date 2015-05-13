@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"analysisSymbol" : "mp 5/22/2013 11:23:19.834",
+		"test01RunAllTestsWithOpenFlap" : "mp 5/21/2013 10:21:06.15",
+		"test02MethodCallsOfAllTests" : "mp 7/12/2013 11:55:49.858",
+		"test03InstanceCountOfAllTests" : "mp 7/12/2013 11:56:09.534",
+		"test04aRunTimeFromAllTests" : "mp 5/22/2013 14:56:18.794",
+		"test04bRunTimeLeafsFromAllTests" : "mp 5/22/2013 14:56:08.233",
+		"test05aRunTimePerCallFromAllTests" : "mp 5/22/2013 14:54:59.544",
+		"test05bRunTimePerCallLeafsFromAllTests" : "mp 5/22/2013 14:55:09.63" } }

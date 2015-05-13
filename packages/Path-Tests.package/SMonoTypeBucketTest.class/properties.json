@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Tests-Harvester-Types",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SMonoTypeBucketTest",
+	"pools" : [
+		 ],
+	"super" : "STypeHarvesterTest",
+	"type" : "normal" }

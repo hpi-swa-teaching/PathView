@@ -1,0 +1,3 @@
+pathMap-hooks
+label
+	^ 'Strings'

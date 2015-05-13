@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Contracts-Builder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"instVars" ],
+	"name" : "SInvariantBuilder",
+	"pools" : [
+		 ],
+	"super" : "SContractBuilder",
+	"type" : "normal" }

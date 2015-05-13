@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Tests-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"events" ],
+	"name" : "SProjectEventRecorder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

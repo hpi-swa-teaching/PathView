@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Core-Specs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"icon" ],
+	"name" : "SPluggableFlapSpec",
+	"pools" : [
+		 ],
+	"super" : "PluggablePanelSpec",
+	"type" : "normal" }

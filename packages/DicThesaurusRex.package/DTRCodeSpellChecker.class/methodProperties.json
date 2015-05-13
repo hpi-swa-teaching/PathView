@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"checkSpellingOf:" : "jr 7/16/2013 12:21:09.683",
+		"checkWord:asAcronym:ifMisspelledPutInto:" : "jr 7/16/2013 12:20:17.107",
+		"getGuesses:" : "jp 7/7/2013 13:06:51.016",
+		"getIgnoredWords" : "jp 7/7/2013 13:12:52.293",
+		"initialize" : "mp 8/7/2013 11:26:49.372",
+		"isSpelledCorrectly:" : "jr 7/16/2013 11:23:01.758",
+		"removeIgnoredWord:" : "jp 7/7/2013 13:16:35.086",
+		"setIgnoredWord:" : "jp 7/7/2013 13:05:50.671",
+		"spell:" : "jp 7/7/2013 13:17:52.055" } }

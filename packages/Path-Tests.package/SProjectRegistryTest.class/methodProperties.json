@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"test01EmptyProjectRegistry" : "mp 7/7/2010 16:53:13.09",
+		"test02ProjectRegistryInitializeWithStandardProjects" : "mp 7/16/2013 13:20:16.484",
+		"test03aProjectRegistryAtMonticelloProject" : "mp 7/7/2010 16:52:32.351",
+		"test03bProjectRegistryAtSUnitProject" : "mp 7/7/2010 16:52:57.294",
+		"test03cProjectRegistryAtSystemBrowserProject" : "mp 7/7/2010 16:53:01.969",
+		"test04AddNewProject" : "mp 7/7/2010 16:52:23.366",
+		"test05RemoveProject" : "mp 3/22/2013 11:58:36.951",
+		"test06ResetProjectRegistry" : "mp 7/7/2010 16:53:18.927",
+		"test07ProjectRegistryAllProjects" : "mp 3/25/2013 15:35:05.228" } }

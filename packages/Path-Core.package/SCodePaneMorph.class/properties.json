@@ -1,0 +1,34 @@
+{
+	"category" : "Path-Core-Morphic",
+	"classinstvars" : [
+		"loupeIcon",
+		"documentIcon",
+		"bugIcon",
+		"treeIcon",
+		"beforeIcon",
+		"afterIcon",
+		"pathfinderIcon",
+		"closeIcon",
+		"replayIcon",
+		"infoIcon",
+		"spiderIcon",
+		"leftRightIcon",
+		"worldIconLarge",
+		"qualityIconLarge",
+		"traceabilityIconLarge",
+		"ladybugIconLarge",
+		"stopwatchIconLarge" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"callNode",
+		"definition",
+		"objectExplorationMorphs",
+		"objectExplorationMorphsStack",
+		"nodeNameStringMorph" ],
+	"name" : "SCodePaneMorph",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+constants
+labelBorderWidth
+
+	^ 1

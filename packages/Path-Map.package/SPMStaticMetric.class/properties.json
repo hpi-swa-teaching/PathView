@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Map-Metrics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"options" ],
+	"name" : "SPMStaticMetric",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

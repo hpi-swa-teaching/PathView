@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Core-Tracer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"code" ],
+	"name" : "SSourceCodeEntryPoint",
+	"pools" : [
+		 ],
+	"super" : "SEntryPoint",
+	"type" : "normal" }

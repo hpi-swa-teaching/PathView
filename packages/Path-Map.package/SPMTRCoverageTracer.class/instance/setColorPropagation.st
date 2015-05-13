@@ -1,0 +1,3 @@
+color propagation
+setColorPropagation
+	self pathMap setPercentageColorPropagation.

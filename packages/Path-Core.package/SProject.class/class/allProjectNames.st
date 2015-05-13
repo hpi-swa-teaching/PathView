@@ -1,0 +1,4 @@
+projects
+allProjectNames
+
+	^ ProjectRegistry keys

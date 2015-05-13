@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"label" : "mp 2/9/2012 15:01:51.813" },
+	"instance" : {
+		"=" : "mp 7/11/2012 15:24:06.288",
+		"hash" : "mp 5/3/2013 13:31:08.065",
+		"includesZero" : "mp 2/6/2012 17:29:29.059",
+		"includesZero:" : "mp 2/6/2012 17:29:29.073",
+		"initialize" : "mp 2/7/2012 17:51:41.236",
+		"negative" : "mp 2/6/2012 17:29:29.116",
+		"negative:" : "mp 2/6/2012 17:29:29.131",
+		"positive" : "mp 2/6/2012 17:29:29.087",
+		"positive:" : "mp 2/6/2012 17:29:29.102",
+		"printContractFor:with:" : "mp 3/21/2012 11:27:58.103",
+		"process:" : "mp 2/7/2012 17:51:11.513",
+		"processNegativeProperty" : "mp 2/7/2012 17:47:02.848",
+		"processPositiveProperty" : "mp 2/7/2012 17:46:39.249",
+		"processRangeProperty" : "mp 2/7/2012 17:50:24.324",
+		"processZeroProperty" : "mp 2/7/2012 17:46:07.466",
+		"range" : "mp 2/6/2012 17:29:29.029",
+		"range:" : "mp 2/6/2012 17:29:29.044" } }

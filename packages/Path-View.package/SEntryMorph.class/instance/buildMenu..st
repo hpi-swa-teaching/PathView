@@ -1,0 +1,4 @@
+menu
+buildMenu: aMenu
+	
+	^ self

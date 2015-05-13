@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Tests-PathBrowser-Contracts",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SBrowserContractsTest",
+	"pools" : [
+		 ],
+	"super" : "SBrowserTest",
+	"type" : "normal" }

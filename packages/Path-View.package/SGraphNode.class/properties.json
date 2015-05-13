@@ -1,0 +1,17 @@
+{
+	"category" : "Path-View-GraphLayout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"edges",
+		"neighborNodes",
+		"position",
+		"corneringNodes" ],
+	"name" : "SGraphNode",
+	"pools" : [
+		 ],
+	"super" : "SGraphElement",
+	"type" : "normal" }

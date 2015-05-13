@@ -1,0 +1,4 @@
+wrapper instrumentation
+getWrapperClass
+
+	^ SStateMethodWrapper

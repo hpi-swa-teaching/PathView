@@ -1,0 +1,15 @@
+{
+	"category" : "Path-Map-Options",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"formula",
+		"singlePointOfFault" ],
+	"name" : "SPMFaultLocalizationOptions",
+	"pools" : [
+		 ],
+	"super" : "SPMOptions",
+	"type" : "normal" }

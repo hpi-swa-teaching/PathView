@@ -1,0 +1,17 @@
+{
+	"category" : "Path-Map-Options",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"specificConcernMethodsOnly",
+		"multipleColorsPerMethod",
+		"concernGroup",
+		"selectedConcerns" ],
+	"name" : "SPMTraceabilityOptions",
+	"pools" : [
+		 ],
+	"super" : "SPMOptions",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Contracts-Evaluation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mp 11/15/2013 14:45:53.81",
+	"instvars" : [
+		 ],
+	"name" : "SContractMutationWrapper",
+	"pools" : [
+		 ],
+	"super" : "MwMethodWrapper",
+	"type" : "normal" }

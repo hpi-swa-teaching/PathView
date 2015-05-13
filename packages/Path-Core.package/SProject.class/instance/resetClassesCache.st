@@ -1,0 +1,4 @@
+classes
+resetClassesCache
+
+	classesCache := nil.

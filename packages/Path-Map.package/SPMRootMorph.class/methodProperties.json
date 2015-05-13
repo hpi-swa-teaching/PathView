@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"minimumSize" : "mp 9/30/2010 11:12:35.289",
+		"on:" : "mp 7/13/2010 15:00:06.384",
+		"size" : "mp 7/9/2010 15:11:59.792" },
+	"instance" : {
+		"adjustMorphs" : "mp 7/16/2013 17:26:35.436",
+		"arrangeChildrenMorphs:and:" : "mp 7/16/2013 17:26:40.358",
+		"buildChildren" : "mp 8/5/2013 16:16:06.387",
+		"children" : "mp 7/16/2013 14:57:24.348",
+		"childrenMorphClass" : "mp 7/7/2010 17:55:38.452",
+		"createChildren:" : "mp 8/5/2013 17:13:13.219",
+		"extent:" : "mp 5/8/2012 13:22:43.791",
+		"initialize" : "mp 5/14/2010 16:30",
+		"lineMorph" : "mp 3/23/2011 18:31:06.456",
+		"lineMorph:" : "mp 3/23/2011 18:31:06.462",
+		"mouseEnter:" : "mp 5/16/2010 19:35",
+		"mouseLeave:" : "mp 5/16/2010 19:35",
+		"reset" : "mp 3/23/2011 18:32:19.255",
+		"segmentationDirection" : "mp 5/16/2010 15:39" } }

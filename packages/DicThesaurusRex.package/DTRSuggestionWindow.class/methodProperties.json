@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"cancel" : "sn 7/16/2013 12:00:07.169",
+		"initialize" : "sn 7/16/2013 11:59:15.387",
+		"initializeButton" : "DNR 7/16/2013 13:06:03.014",
+		"initializeWindow" : "DNR 7/16/2013 13:09:48.524",
+		"replace" : "sn 6/17/2013 16:18:41.28",
+		"showSuggestions:" : "DNR 7/1/2013 11:12:09.39",
+		"showWindow" : "sn 7/16/2013 11:59:33.833",
+		"textMorph:" : "DNR 7/16/2013 13:05:22.32",
+		"title:" : "DNR 7/16/2013 13:05:29.298",
+		"ui" : "sn 7/8/2013 14:59:48.205" } }

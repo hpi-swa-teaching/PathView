@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "jp 7/8/2013 17:24:05.724",
+		"tearDown" : "DNR 7/8/2013 14:51:54.65",
+		"testAddToDictionary" : "DNR 7/8/2013 14:49:59.438",
+		"testNext" : "DNR 7/8/2013 15:48:06.115" } }

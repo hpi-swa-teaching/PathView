@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"on:inClass:withTracer:" : "mp 1/25/2010 14:25" },
+	"instance" : {
+		"afterMethod" : "mp 1/25/2010 18:10",
+		"beforeMethod:" : "mp 6/15/2010 16:09",
+		"callsBefore" : "mp 6/15/2010 16:08",
+		"callsBefore:" : "mp 6/15/2010 16:08",
+		"ids" : "mp 1/25/2010 18:09",
+		"ids:" : "mp 1/25/2010 18:09",
+		"initialize" : "mp 6/15/2010 16:09",
+		"selectedView:" : "mp 1/25/2010 15:22",
+		"tracer" : "mp 1/25/2010 14:24",
+		"tracer:" : "mp 1/25/2010 14:24",
+		"valueWithReceiver:arguments:" : "mp 5/5/2010 12:18" } }

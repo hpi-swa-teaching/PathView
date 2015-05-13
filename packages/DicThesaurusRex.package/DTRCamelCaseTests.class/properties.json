@@ -1,0 +1,14 @@
+{
+	"category" : "DicThesaurusRex-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jp 7/1/2013 17:55:16.989",
+	"instvars" : [
+		"sut" ],
+	"name" : "DTRCamelCaseTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

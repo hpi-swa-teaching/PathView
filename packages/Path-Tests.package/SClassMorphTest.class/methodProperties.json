@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"expectedFailures" : "tfel 5/17/2011 15:46:25.872",
+		"setUp" : "tfel 4/30/2011 14:16:59.558",
+		"testOpenCloseAncestors" : "mp 4/30/2013 16:43:49.154",
+		"testOpenDirectAssociations" : "mp 3/26/2013 11:49:53.606",
+		"testShouldAllowChangingTheSuperclass" : "tfel 5/13/2011 15:49:42.945",
+		"testShouldReturnItselfAsClassMorph" : "ag 9/22/2011 14:19:04.636" } }

@@ -1,0 +1,17 @@
+{
+	"category" : "Path-Harvester-ValueRanges",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"range",
+		"includesZero",
+		"positive",
+		"negative" ],
+	"name" : "SNumbersRangeProperties",
+	"pools" : [
+		 ],
+	"super" : "SDefaultRangeProperties",
+	"type" : "normal" }

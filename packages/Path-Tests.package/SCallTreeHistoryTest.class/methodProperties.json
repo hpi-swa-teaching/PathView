@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testAddToHistory" : "mp 7/16/2013 16:04:16.692",
+		"testAddToHistorySameItemTwice" : "mp 7/16/2013 16:04:22.434",
+		"testAddToHistoryTwoItems" : "mp 7/16/2013 16:04:32.588",
+		"testHistoryBack" : "mp 7/16/2013 16:04:37.023",
+		"testHistoryBackAndForth" : "mp 7/16/2013 16:04:41.279",
+		"testHistoryBackAndNewSelectedItem" : "mp 7/16/2013 16:05:06.336",
+		"testHistoryBackButtonEnabled" : "mp 7/16/2013 16:05:10.424",
+		"testHistoryPreviousButtonEnabled" : "mp 7/16/2013 16:05:14.36" } }

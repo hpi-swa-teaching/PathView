@@ -1,0 +1,14 @@
+{
+	"category" : "DicThesaurusRex-Thesaurus",
+	"classinstvars" : [
+		"offset" ],
+	"classvars" : [
+		"Thesaurus" ],
+	"commentStamp" : "sn 7/16/2013 11:48:18.555",
+	"instvars" : [
+		 ],
+	"name" : "DTRThesaurus",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

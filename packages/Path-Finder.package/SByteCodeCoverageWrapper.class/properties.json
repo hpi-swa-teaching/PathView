@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Finder-Tracer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"coveredByteCodes" ],
+	"name" : "SByteCodeCoverageWrapper",
+	"pools" : [
+		 ],
+	"super" : "SSpecificWrapper",
+	"type" : "normal" }

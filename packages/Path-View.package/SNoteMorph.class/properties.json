@@ -1,0 +1,15 @@
+{
+	"category" : "Path-View-ClassMorph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"contentText",
+		"textMorph" ],
+	"name" : "SNoteMorph",
+	"pools" : [
+		 ],
+	"super" : "SMorphWithToolbar",
+	"type" : "normal" }

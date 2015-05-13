@@ -1,0 +1,3 @@
+building
+buildTypeContracts
+	self subclassResponsibility.

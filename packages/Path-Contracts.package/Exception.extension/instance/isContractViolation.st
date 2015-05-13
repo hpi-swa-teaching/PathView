@@ -1,0 +1,3 @@
+*Path-Contracts
+isContractViolation
+	^ false

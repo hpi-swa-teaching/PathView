@@ -1,0 +1,18 @@
+{
+	"category" : "Path-Contracts-Evaluation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"numberOfMutations",
+		"mutationFactory",
+		"pathMap",
+		"results",
+		"current" ],
+	"name" : "SStateAnomaliesEvaluator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

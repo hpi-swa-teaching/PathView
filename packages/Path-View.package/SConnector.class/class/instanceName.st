@@ -1,0 +1,4 @@
+arrows
+instanceName
+	
+	self subclassResponsibility

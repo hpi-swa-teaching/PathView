@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Core-Tracer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SNullWrapper",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

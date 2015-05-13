@@ -1,0 +1,14 @@
+{
+	"category" : "DicThesaurusRex-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jp 7/1/2013 17:56:12.686",
+	"instvars" : [
+		 ],
+	"name" : "DTRStringTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

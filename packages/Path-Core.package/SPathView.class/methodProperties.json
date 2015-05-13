@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"initialize" : "ag 12/27/2011 13:55:49.452",
+		"new" : "ag 12/27/2011 13:55:35.02",
+		"open" : "ag 2/19/2012 12:58:27.838",
+		"openOn:" : "tfel 6/7/2011 14:08:15.132",
+		"openSaved:" : "tfel 6/28/2012 12:16:34.13",
+		"windowColorSpecification" : "mp 8/14/2013 15:16:37.042" },
+	"instance" : {
+		"buildButtonsWith:" : "ag 9/2/2011 16:39:09.985",
+		"buildWindowWith:" : "tfel 6/28/2012 10:03:22.888",
+		"buildWith:" : "tfel 6/28/2012 07:46:57.193",
+		"classDiagramMorph" : "ag 12/29/2011 12:22:50.595",
+		"classDiagramMorph:" : "tfel 6/23/2011 12:06:09.366",
+		"initialDiagramMorph" : "ag 12/27/2011 14:03:17.149",
+		"initialExtent" : "ag 12/31/2011 09:39:00.604",
+		"label" : "mp 1/26/2011 11:20:37.433",
+		"menuButtons" : "tfel 6/28/2012 10:09:22.054",
+		"startWithClass:" : "ag 12/27/2011 13:58:38.446",
+		"toolbarButtons" : "mp 7/16/2013 11:28:25.049" } }

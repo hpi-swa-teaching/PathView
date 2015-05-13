@@ -1,0 +1,4 @@
+templates
+pragmaTemplate
+
+	^ '<preconditions: #(<GROUPS>)>'

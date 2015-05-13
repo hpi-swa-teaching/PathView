@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Contracts-Builder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SPreconditionBuilder",
+	"pools" : [
+		 ],
+	"super" : "SContractBuilder",
+	"type" : "normal" }

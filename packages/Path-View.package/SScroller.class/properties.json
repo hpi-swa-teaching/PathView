@@ -1,0 +1,15 @@
+{
+	"category" : "Path-View-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"offsetChangeBlock",
+		"scaleChangeBlock" ],
+	"name" : "SScroller",
+	"pools" : [
+		 ],
+	"super" : "TransformMorph",
+	"type" : "normal" }

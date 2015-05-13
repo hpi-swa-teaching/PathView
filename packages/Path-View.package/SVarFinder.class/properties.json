@@ -1,0 +1,16 @@
+{
+	"category" : "Path-View-Visitors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"varName",
+		"type",
+		"foundMorph" ],
+	"name" : "SVarFinder",
+	"pools" : [
+		 ],
+	"super" : "SClassMorphVisitor",
+	"type" : "normal" }

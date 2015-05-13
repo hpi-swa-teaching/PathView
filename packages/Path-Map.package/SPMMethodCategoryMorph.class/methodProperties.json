@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"inheritedTestSelectorId" : "mp 9/29/2010 13:25:05.566" },
+	"instance" : {
+		"adjustMorphsInDimension:" : "mp 9/28/2010 10:48:29.404",
+		"adjustOppositeDimensionOfLastMorphs:matrixDimension:" : "mp 7/16/2013 17:26:22.341",
+		"arrangeChildren" : "mp 9/29/2010 10:20:08.865",
+		"arrangeChildrenInMatrix:" : "mp 7/9/2010 17:25:15.213",
+		"arrangeMorphsInMatrixLayout:matrixDimension:" : "mp 9/28/2010 11:16:15.08",
+		"browse" : "mp 5/23/2013 16:05:09.582",
+		"children" : "mp 5/10/2013 16:51:14.259",
+		"childrenMorphClass" : "mp 7/7/2010 17:54:07.515",
+		"enoughSpaceForCollection:matrixDimension:" : "mp 6/30/2010 10:10",
+		"inheritedTestSelectors" : "mp 9/29/2010 13:32:28.941",
+		"isClassCategory" : "mp 10/26/2010 12:19:43.913",
+		"isInheritedTestSelectorsMethodCategory" : "mp 9/29/2010 13:34:04.634",
+		"isMethodCategoryMorph" : "mp 8/11/2010 14:50:17.559",
+		"mouseEnter:" : "mp 7/16/2013 11:53:07.827",
+		"segmentationDirection" : "mp 5/16/2010 15:58",
+		"setMorphsInMatrixLayout:matrixDimension:" : "mp 9/28/2010 11:08:12.163",
+		"setWeight" : "mp 7/16/2013 14:59:49.836",
+		"sortChildrenByStaticMetric:" : "mp 10/26/2010 12:20:23.832" } }

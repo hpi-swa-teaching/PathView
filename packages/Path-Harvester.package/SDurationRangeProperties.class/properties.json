@@ -1,0 +1,18 @@
+{
+	"category" : "Path-Harvester-ValueRanges",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"secondsRange",
+		"nanoRange",
+		"positive",
+		"negative",
+		"isZero" ],
+	"name" : "SDurationRangeProperties",
+	"pools" : [
+		 ],
+	"super" : "SDefaultRangeProperties",
+	"type" : "normal" }

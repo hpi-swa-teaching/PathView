@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Monticello",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SPVVersionMerger",
+	"pools" : [
+		 ],
+	"super" : "MCVersionMerger",
+	"type" : "normal" }

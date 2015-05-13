@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"on:in:" : "ag 8/26/2011 16:33:55.844" },
+	"instance" : {
+		"accept:" : "tfel 6/12/2012 12:25:26.598",
+		"attachConstraint:to:at:" : "ag 9/22/2011 18:58:35.627",
+		"color:" : "ag 3/30/2012 12:02:08.628",
+		"connectTo:" : "ag 12/26/2011 14:11:56.086",
+		"ensureLockSyntaxHighlighting" : "ag 3/30/2012 11:53:50.98",
+		"hasBeenHovered" : "ag 1/15/2012 21:59:56.961",
+		"hasBeenUnhovered" : "ag 1/15/2012 22:00:04.252",
+		"initializeWith:in:" : "ag 3/30/2012 12:08:51.939",
+		"partner" : "tfel 6/12/2012 13:28:21.125",
+		"toggleLockSyntaxHighlighting" : "ag 1/15/2012 21:59:33.387",
+		"toolbarButtons" : "ag 1/16/2012 17:03:28.57" } }

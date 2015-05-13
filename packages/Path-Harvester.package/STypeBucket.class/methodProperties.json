@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"associationToMethod:" : "mp 7/16/2013 11:46:25.377",
+		"containerTypeFrom:" : "mp 5/7/2013 18:12:41.454",
+		"convertToSymbols" : "mp 6/15/2011 11:04:30.18",
+		"convertToTypes" : "mp 6/15/2011 11:04:35.674",
+		"getTypeFromObject:" : "mp 5/3/2012 14:44:45.093",
+		"getTypeFromObject:existing:" : "mp 5/2/2013 14:13:58.606",
+		"harvestedTypeIsEmptyContainer:" : "mp 9/27/2013 15:03:51.819",
+		"methodToAssociation:" : "mp 7/16/2013 11:44:58.754",
+		"postProcessing" : "mp 9/27/2013 15:11:28.766",
+		"simplifyEmptyTypeContainersOf:" : "mp 9/27/2013 15:10:09.695",
+		"symbolToType:" : "mp 5/2/2013 14:14:00.86",
+		"symbolsToTypes:" : "mp 6/26/2011 19:29:08.053",
+		"typeToSymbol:" : "mp 5/2/2013 14:14:03.67",
+		"typesToSymbols:" : "mp 6/15/2011 12:10:22.146" } }

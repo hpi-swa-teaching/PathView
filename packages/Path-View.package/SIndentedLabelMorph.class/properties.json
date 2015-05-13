@@ -1,0 +1,15 @@
+{
+	"category" : "Path-View-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"labelMorph",
+		"indentationMorph" ],
+	"name" : "SIndentedLabelMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

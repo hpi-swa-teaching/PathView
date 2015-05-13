@@ -1,0 +1,4 @@
+morphic
+visibleWidth
+
+	^ self minWidthOfMorph

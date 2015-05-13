@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"openedMethodThreshold" : "mp 7/16/2013 17:23:51.331",
+		"openedMethodsPercentage" : "ag 5/11/2012 11:45:05.946" },
+	"instance" : {
+		"getColor:" : "ag 5/2/2012 11:26:45.727",
+		"getIconColorFor:" : "BS 11/27/2013 13:26:24.154",
+		"getMostSuspicousDescendentFor:" : "BS 11/28/2013 13:30:32.784",
+		"getSubIconColorFor:" : "BS 11/28/2013 12:21:19.451",
+		"getSuspiciousnessAndConfidenceFor:" : "mp 3/25/2011 12:25:43.124",
+		"getSuspiciousnessMapping" : "mp 7/16/2013 17:04:09.433",
+		"preparePathView:with:" : "mp 7/16/2013 17:23:43.943",
+		"printInfosForNode:" : "mp 10/31/2010 13:28:51.743",
+		"searchNode:" : "mp 10/31/2010 12:56:29.143",
+		"searchSuspiciousNodes:operator:" : "mp 7/16/2013 17:04:18.113",
+		"suspiciousMethods" : "mp 3/25/2011 12:47:47.326",
+		"suspiciousMethods:" : "mp 3/25/2011 12:25:31.106" } }

@@ -1,0 +1,3 @@
+accessing
+unitForLegend
+	self subclassResponsibility.

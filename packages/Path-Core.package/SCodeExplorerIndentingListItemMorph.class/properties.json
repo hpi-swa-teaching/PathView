@@ -1,0 +1,17 @@
+{
+	"category" : "Path-Core-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"isCodeExpanded",
+		"codePane",
+		"minWidthOfMorph",
+		"previousSibling" ],
+	"name" : "SCodeExplorerIndentingListItemMorph",
+	"pools" : [
+		 ],
+	"super" : "IndentingListItemMorph",
+	"type" : "normal" }

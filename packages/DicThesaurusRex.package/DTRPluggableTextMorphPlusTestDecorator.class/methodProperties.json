@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"doesNotUnderstand:" : "jr 6/26/2013 16:55:16.18",
+		"original:" : "jr 6/26/2013 16:36:52.928",
+		"showSuggestionWindowCall" : "jr 6/26/2013 16:34:57.252",
+		"showSuggestionWindowFor:withSuggestions:withTitle:" : "jr 6/26/2013 16:35:18.705" } }

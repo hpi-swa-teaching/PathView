@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Map-Metrics",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SPMComplexityStaticMetric",
+	"pools" : [
+		 ],
+	"super" : "SPMContinuousStaticMetric",
+	"type" : "normal" }

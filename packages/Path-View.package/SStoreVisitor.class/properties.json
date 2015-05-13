@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Visitors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"store" ],
+	"name" : "SStoreVisitor",
+	"pools" : [
+		 ],
+	"super" : "SClassMorphVisitor",
+	"type" : "normal" }

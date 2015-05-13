@@ -1,0 +1,15 @@
+{
+	"category" : "Path-Core-Models",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"selectedItem",
+		"highlightedItems" ],
+	"name" : "STreeModel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

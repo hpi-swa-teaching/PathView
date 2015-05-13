@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"on:pathMap:tests:" : "mp 5/8/2012 11:12:53.803" },
+	"instance" : {
+		"endExecutionOf:withResult:" : "mp 9/16/2010 15:57:57.876",
+		"failureDescriptionOf:" : "mp 7/12/2013 10:39:56.771",
+		"getAdditionalInfoFromMapFor:" : "mp 3/25/2011 16:06:59.929",
+		"getColorFromMapFor:" : "mp 3/25/2011 14:35:36.343",
+		"getWrapperClass" : "mp 7/13/2010 16:05:10.168",
+		"globalOptions" : "mp 9/16/2010 14:39:28.651",
+		"initialize" : "mp 8/9/2010 14:47:05.668",
+		"options" : "mp 9/16/2010 15:07:22.25",
+		"pathMap" : "mp 7/12/2010 15:22:07.085",
+		"pathMap:" : "mp 7/12/2010 15:22:07.09",
+		"postProcessing" : "mp 9/17/2010 16:44:22.503",
+		"preProcessing" : "mp 3/17/2012 21:23:12.288",
+		"setAdditionalInfoWith:to:" : "mp 7/12/2013 13:11:23.414",
+		"setColorPropagation" : "mp 7/13/2010 15:50:54.097",
+		"setTestRunnerResult:" : "mp 3/27/2013 16:23:55.332",
+		"storeResultOf:" : "mp 8/9/2010 14:17:15.624",
+		"testResults" : "mp 7/13/2010 15:30:26.307",
+		"testResults:" : "mp 7/13/2010 15:30:26.311",
+		"testRunner" : "mp 7/12/2010 15:25:09.228",
+		"visualizeAllInformation" : "mp 7/12/2013 11:38:48.579",
+		"visualizeAllTestResults" : "mp 5/14/2012 10:06:51.452",
+		"visualizeEndExecutionOf:" : "mp 8/12/2010 11:16:58.731",
+		"visualizeTestResultOf:" : "mp 7/12/2013 13:08:16.58" } }

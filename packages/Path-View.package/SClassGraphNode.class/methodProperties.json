@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"isAbstract" : "ag 2/15/2012 09:29:21.768",
+		"wrapsInstancesOf:" : "ag 2/15/2012 09:31:09.861" },
+	"instance" : {
+		"containsClass" : "ag 3/30/2012 12:56:47.658",
+		"getChildrenBasedOn:" : "ag 2/15/2012 13:13:35.115",
+		"highestSuperclassNodeIn:" : "ag 3/30/2012 12:59:16.574" } }

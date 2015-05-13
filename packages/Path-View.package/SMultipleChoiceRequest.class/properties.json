@@ -1,0 +1,17 @@
+{
+	"category" : "Path-View-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"labels",
+		"values",
+		"lines",
+		"prompt" ],
+	"name" : "SMultipleChoiceRequest",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

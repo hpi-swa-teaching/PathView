@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Refactorings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"targetClass" ],
+	"name" : "SExtractMethodToComponentRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBExtractMethodToComponentRefactoring",
+	"type" : "normal" }

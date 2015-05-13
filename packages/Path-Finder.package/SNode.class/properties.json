@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Finder-CallTree",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"callTreeModel" ],
+	"name" : "SNode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

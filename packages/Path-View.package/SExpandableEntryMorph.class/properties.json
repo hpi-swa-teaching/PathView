@@ -1,0 +1,16 @@
+{
+	"category" : "Path-View-ClassMorph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"expanded",
+		"entries",
+		"needReexpand" ],
+	"name" : "SExpandableEntryMorph",
+	"pools" : [
+		 ],
+	"super" : "SEntryMorph",
+	"type" : "normal" }

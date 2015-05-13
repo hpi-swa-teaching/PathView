@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Connector",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SInheritanceConnector",
+	"pools" : [
+		 ],
+	"super" : "SConnector",
+	"type" : "normal" }

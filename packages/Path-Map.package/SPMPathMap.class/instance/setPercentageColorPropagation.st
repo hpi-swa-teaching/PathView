@@ -1,0 +1,4 @@
+visualization
+setPercentageColorPropagation
+
+	self setColorPropagation: SPMPercentageColorStrategy.

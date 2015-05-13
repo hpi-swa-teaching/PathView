@@ -1,0 +1,20 @@
+{
+	"category" : "Path-Contracts-Builder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"selector",
+		"arguments",
+		"groups",
+		"typeInfo",
+		"valueRangeInfo",
+		"sources",
+		"compiledMethod" ],
+	"name" : "SContractBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"borderWidth" : "mp 7/2/2010 13:29",
+		"frameColor" : "mp 7/2/2010 13:41",
+		"minWidth" : "mp 7/7/2010 10:50:13.889",
+		"on:" : "mp 7/2/2010 17:46" },
+	"instance" : {
+		"addAndArrangeChildrenOf:" : "mp 7/2/2010 14:13",
+		"arrangeTarget" : "mp 7/2/2010 14:31",
+		"buildExpandMorph" : "mp 8/12/2013 17:50:58.759",
+		"buildFrame" : "mp 8/12/2013 17:46:23.549",
+		"buildTargetLabel" : "mp 8/12/2013 17:53:08.231",
+		"children" : "mp 7/1/2010 17:53",
+		"childrenMorphClass" : "mp 7/1/2010 17:53",
+		"childrenMorphs" : "mp 7/1/2010 18:23",
+		"close" : "mp 7/2/2010 14:14",
+		"drawOn:" : "mp 7/2/2010 12:58",
+		"expandSizeOfTarget" : "mp 7/2/2010 14:59",
+		"handlesMouseDown:" : "mp 7/16/2013 11:52:35.659",
+		"handlesMouseOver:" : "mp 7/16/2013 11:52:38.172",
+		"parentMorph" : "mp 5/10/2012 11:34:02.337",
+		"segmentationDirection" : "mp 7/1/2010 17:53",
+		"setWeight" : "mp 7/1/2010 17:53",
+		"sourceCodeEntity" : "mp 7/1/2010 18:28",
+		"targetMorph" : "mp 7/1/2010 17:52",
+		"targetMorph:" : "mp 7/1/2010 17:52" } }

@@ -1,0 +1,17 @@
+{
+	"category" : "Path-View-Refactorings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"class",
+		"newSuperclass",
+		"category",
+		"oldSuperclass" ],
+	"name" : "SChangeSuperclassRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBClassRefactoring",
+	"type" : "normal" }

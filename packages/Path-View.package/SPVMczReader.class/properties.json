@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Monticello",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"version" ],
+	"name" : "SPVMczReader",
+	"pools" : [
+		 ],
+	"super" : "MCMczReader",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+initialization
+indentingItemClass
+	
+	^ self indentingListItemMorphClass

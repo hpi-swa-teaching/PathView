@@ -1,0 +1,4 @@
+constants
+titleBorderWidth
+
+	^ 1

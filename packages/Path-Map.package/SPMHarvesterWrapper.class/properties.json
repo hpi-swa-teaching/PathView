@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Map-Wrapper",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"harvester" ],
+	"name" : "SPMHarvesterWrapper",
+	"pools" : [
+		 ],
+	"super" : "SWrapper",
+	"type" : "normal" }

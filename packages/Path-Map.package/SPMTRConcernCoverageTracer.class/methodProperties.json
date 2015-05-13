@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addConcernInfo:to:" : "mp 7/12/2013 11:08:47.938",
+		"convertTestsToConcerns:" : "mp 9/22/2010 14:24:30.207",
+		"getConcernColor:" : "mp 9/22/2010 15:34:05.099",
+		"run" : "mp 6/1/2011 13:46:43.026",
+		"setAdditionalColorsFrom:to:" : "mp 9/3/2010 17:50:19.495",
+		"visualizeAllInformation" : "mp 5/14/2012 10:19:45.712",
+		"visualizeConcernCoverageOf:" : "mp 9/22/2010 10:10:14.093",
+		"visualizeEndExecutionOf:" : "mp 5/14/2012 10:19:33.988" } }

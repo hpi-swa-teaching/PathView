@@ -1,0 +1,15 @@
+{
+	"category" : "Path-Finder-CallTree",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"clientClass",
+		"clientSelector" ],
+	"name" : "SMethodNode",
+	"pools" : [
+		 ],
+	"super" : "SNode",
+	"type" : "normal" }

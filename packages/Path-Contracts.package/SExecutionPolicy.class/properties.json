@@ -1,0 +1,17 @@
+{
+	"category" : "Path-Contracts-Core",
+	"classinstvars" : [
+		"defaultPolicy" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"activeGroups",
+		"preconditionsActive",
+		"postconditionsActive",
+		"invariantsActive" ],
+	"name" : "SExecutionPolicy",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

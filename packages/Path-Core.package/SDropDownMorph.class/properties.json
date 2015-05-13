@@ -1,0 +1,17 @@
+{
+	"category" : "Path-Core-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"menuEntries",
+		"selectedEntry",
+		"menuMorph",
+		"entriesChangedSelector" ],
+	"name" : "SDropDownMorph",
+	"pools" : [
+		 ],
+	"super" : "SActionButtonLabelMorph",
+	"type" : "normal" }

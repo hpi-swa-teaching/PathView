@@ -1,0 +1,14 @@
+{
+	"category" : "DicThesaurusRex-Hunspell",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DTRMacHunspell",
+	"pools" : [
+		 ],
+	"super" : "DTRHunspell",
+	"type" : "normal" }

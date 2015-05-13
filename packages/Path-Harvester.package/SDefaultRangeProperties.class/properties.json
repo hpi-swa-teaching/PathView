@@ -1,0 +1,16 @@
+{
+	"category" : "Path-Harvester-ValueRanges",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"constantValue",
+		"lastObject",
+		"nilAllowed" ],
+	"name" : "SDefaultRangeProperties",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

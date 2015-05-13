@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"aboutToSearchInstanceIn:" : "tfel 5/5/2011 14:35:13.2",
+		"expectedFailures" : "mp 3/26/2013 11:16:38.865",
+		"testShouldAnswerAnAssociationIfTheClassIsADictionary" : "mp 5/8/2013 11:39:06.8",
+		"testShouldAnswerTheClassIfItKnowsIt" : "tfel 2/14/2012 11:15:33.437",
+		"testShouldAnswerTheCollectionIfTheClassIsACollection" : "mp 5/8/2013 11:39:15.884",
+		"testShouldAskForAClassIfItIsUnknown" : "mp 5/8/2013 11:39:21.493",
+		"testShouldBeConvertibleToAnAssociationArrow" : "mp 7/16/2013 13:18:33.208",
+		"testShouldBeConvertibleToAnAssociationArrowThatHasTheCorrectOwner" : "mp 7/16/2013 13:18:42.581",
+		"testShouldNotBecomePinnedIfDragged" : "mp 3/26/2013 11:06:50.845",
+		"testShouldStayVisibleIfDragged" : "mp 3/26/2013 11:05:59.986" } }

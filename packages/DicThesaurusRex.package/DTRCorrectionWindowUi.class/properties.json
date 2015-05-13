@@ -1,0 +1,21 @@
+{
+	"category" : "DicThesaurusRex-Dictionary",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sn 7/16/2013 13:31:39.278",
+	"instvars" : [
+		"methodLabel",
+		"dictionaryLabel",
+		"methodEdit",
+		"ignoreButton",
+		"addToDictionaryButton",
+		"suggestionWidget",
+		"replaceButton",
+		"replaceAllButton" ],
+	"name" : "DTRCorrectionWindowUi",
+	"pools" : [
+		 ],
+	"super" : "UserInterface",
+	"type" : "normal" }

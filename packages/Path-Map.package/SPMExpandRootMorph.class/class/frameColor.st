@@ -1,0 +1,4 @@
+constants
+frameColor
+
+	^  Color gray

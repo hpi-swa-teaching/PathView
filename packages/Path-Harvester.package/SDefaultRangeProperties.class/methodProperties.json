@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"label" : "mp 2/9/2012 15:01:05.556" },
+	"instance" : {
+		"=" : "mp 7/11/2012 12:27:50.221",
+		"constantValue" : "mp 2/6/2012 17:06:09.643",
+		"constantValue:" : "mp 2/6/2012 17:06:09.659",
+		"hash" : "mp 7/11/2012 12:28:53.049",
+		"initialize" : "mp 2/6/2012 17:09:56.639",
+		"lastObject" : "mp 2/6/2012 17:08:34.476",
+		"lastObject:" : "mp 2/6/2012 17:08:34.493",
+		"nilAllowed" : "mp 2/6/2012 17:06:09.674",
+		"nilAllowed:" : "mp 2/6/2012 17:06:09.688",
+		"printContractFor:with:" : "mp 5/14/2013 15:04:22.293",
+		"printIncluded:for:ofType:with:" : "mp 5/14/2013 15:04:24.015",
+		"printIncludes:for:ofType:with:" : "mp 5/14/2013 15:04:25.735",
+		"printIncludes:for:property:ofType:with:" : "mp 5/14/2013 15:04:28.045",
+		"printIs:for:ofType:with:" : "mp 5/14/2013 15:04:29.884",
+		"printIsNot:for:ofType:with:" : "mp 5/14/2013 15:04:31.553",
+		"printLength:for:ofType:with:" : "mp 5/14/2013 15:04:33.104",
+		"printRange:for:ofType:with:" : "mp 5/14/2013 15:04:35.159",
+		"printRange:for:property:ofType:with:" : "mp 5/14/2013 15:12:32.456",
+		"process:" : "mp 5/2/2012 17:49:22.954" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "Path-Map-Tracer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"coveredMethods",
+		"numberOfTests" ],
+	"name" : "SPMTRCoverageTracer",
+	"pools" : [
+		 ],
+	"super" : "SPMTestRunnerTracer",
+	"type" : "normal" }

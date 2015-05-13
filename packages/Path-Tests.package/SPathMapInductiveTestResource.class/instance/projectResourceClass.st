@@ -1,0 +1,3 @@
+accessing
+projectResourceClass
+	self subclassResponsibility.

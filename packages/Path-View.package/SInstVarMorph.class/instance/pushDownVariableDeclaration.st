@@ -1,0 +1,6 @@
+reengineering
+pushDownVariableDeclaration
+	
+	self
+		refactorClassVariable: PushDownClassVariableRefactoring
+		instanceVariable: PushDownInstanceVariableRefactoring.

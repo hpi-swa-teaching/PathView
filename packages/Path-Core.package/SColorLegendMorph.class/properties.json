@@ -1,0 +1,17 @@
+{
+	"category" : "Path-Core-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"labelMorph",
+		"optionsModel",
+		"verticalColors",
+		"horizontalColors" ],
+	"name" : "SColorLegendMorph",
+	"pools" : [
+		 ],
+	"super" : "RectangleMorph",
+	"type" : "normal" }

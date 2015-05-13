@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"allSubmorphsOfKind:" : "ag 3/6/2012 20:45:50.416",
+		"allSubmorphsSatisfying:" : "ag 3/6/2012 20:45:14.456",
+		"allSubmorphsSatisfying:into:" : "ag 3/6/2012 21:29:36.169",
+		"asClassDiagramMorph" : "ag 9/22/2011 19:34:00.538",
+		"isClassDiagramMorph" : "tfel 7/14/2011 11:52:25.869",
+		"isClassMorph" : "fb 5/31/2011 13:08:32.252",
+		"isError" : "tfel 6/28/2012 13:57:31.489",
+		"releaseSystemEvents" : "ag 7/2/2012 11:25:18.832" } }

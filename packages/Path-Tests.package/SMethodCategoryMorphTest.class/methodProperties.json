@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"aboutToSearchInstanceIn:" : "tfel 5/24/2011 14:09:36.57",
+		"expectedFailures" : "tfel 7/14/2011 14:46:14.386",
+		"setUp" : "tfel 5/5/2011 14:24:53.19",
+		"testShouldAutomaticallyChangeItsNumberOnClassChange" : "tfel 4/30/2011 19:18:34.279",
+		"testShouldChangeItsNumberOnRefresh" : "tfel 4/30/2011 19:18:43.319",
+		"testShouldRemoveItselfIfCategoryIsRemoved" : "tfel 5/26/2011 14:35:50.999",
+		"testShouldShowTheCategory" : "tfel 4/30/2011 19:12:47.556",
+		"testShouldUpdateTheCategoryAutomatically" : "tfel 5/17/2011 16:18:02.705" } }

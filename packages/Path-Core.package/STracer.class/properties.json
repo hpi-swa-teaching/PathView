@@ -1,0 +1,17 @@
+{
+	"category" : "Path-Core-Tracer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"entryPoints",
+		"wrappers",
+		"active",
+		"project" ],
+	"name" : "STracer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

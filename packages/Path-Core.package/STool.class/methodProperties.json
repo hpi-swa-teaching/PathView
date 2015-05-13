@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"open" : "tfel 2/14/2012 13:31:27.413",
+		"setFrame:in:" : "ag 12/27/2011 14:29:37.094",
+		"setFrame:offset:in:" : "BS 11/6/2013 11:21:00.041",
+		"setLayoutFrame:of:" : "ag 12/27/2011 14:29:05.315",
+		"setOffsetFrame:in:" : "ag 12/27/2011 14:30:18.794" },
+	"instance" : {
+		"alwaysDisabled" : "mp 1/20/2010 15:33",
+		"alwaysEnabled" : "mp 1/20/2010 15:33",
+		"buildButtonsPanelWith:from:model:frame:" : "mp 3/8/2011 17:46:44.008",
+		"buildButtonsWith:from:" : "mp 1/20/2010 15:33",
+		"buildButtonsWith:from:model:" : "mp 1/20/2010 16:04",
+		"buildWindowOn:" : "mp 2/3/2012 11:38:49.459",
+		"buildWith:" : "mp 3/4/2010 15:20",
+		"hideAllToolsDuring:" : "mp 1/19/2012 14:37:27.202",
+		"hideToolDuring:" : "mp 1/19/2012 14:37:23.008",
+		"initialExtent" : "mp 1/31/2013 17:40:54.487",
+		"label" : "mp 6/15/2010 21:52",
+		"resizeWindow" : "mp 1/31/2013 17:40:34.737",
+		"setFrame:in:" : "mp 1/22/2011 14:56:58.095",
+		"windowIsClosed" : "mp 7/16/2013 09:58:11.69",
+		"windowMorph" : "mp 1/20/2010 15:33",
+		"windowMorph:" : "mp 1/20/2010 15:33",
+		"windowSpec" : "mp 1/20/2010 15:33",
+		"windowSpec:" : "mp 1/20/2010 15:33" } }

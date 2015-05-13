@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"orientation" ],
+	"name" : "SDiagramMorphToolbarPanel",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

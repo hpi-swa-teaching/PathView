@@ -1,0 +1,18 @@
+{
+	"category" : "Path-Harvester-ValueRanges",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"minDate",
+		"maxDate",
+		"dayOfWeekNames",
+		"isLeapYear",
+		"timeZones" ],
+	"name" : "SDateAndTimeRangeProperties",
+	"pools" : [
+		 ],
+	"super" : "SDefaultRangeProperties",
+	"type" : "normal" }

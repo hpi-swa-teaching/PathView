@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Tests-PathFinder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SPathFinderToolTest",
+	"pools" : [
+		 ],
+	"super" : "SPathFinderTest",
+	"type" : "normal" }

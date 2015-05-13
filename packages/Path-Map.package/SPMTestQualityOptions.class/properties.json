@@ -1,0 +1,15 @@
+{
+	"category" : "Path-Map-Options",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"staticCodeMetric",
+		"typeOfCoverage" ],
+	"name" : "SPMTestQualityOptions",
+	"pools" : [
+		 ],
+	"super" : "SPMOptions",
+	"type" : "normal" }

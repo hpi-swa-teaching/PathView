@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Tests-Record-Replay",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"cache" ],
+	"name" : "SRecordAndReplayTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

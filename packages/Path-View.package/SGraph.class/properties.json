@@ -1,0 +1,17 @@
+{
+	"category" : "Path-View-GraphLayout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CurrentGraph" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"nodes",
+		"edges",
+		"edgeLayouter",
+		"isLayedOut" ],
+	"name" : "SGraph",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

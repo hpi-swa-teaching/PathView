@@ -1,0 +1,3 @@
+visualization
+visualizeExistingInformation
+	self kindOfAnalysis visualizeResultsOn: self pathMap.

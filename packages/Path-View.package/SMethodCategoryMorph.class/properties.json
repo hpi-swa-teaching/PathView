@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-ClassMorph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"category" ],
+	"name" : "SMethodCategoryMorph",
+	"pools" : [
+		 ],
+	"super" : "SExpandableEntryMorphWithSummary",
+	"type" : "normal" }

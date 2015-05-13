@@ -1,0 +1,3 @@
+visualization
+visualizeEndExecutionOf: aTestCaseEntryPoint
+	self visualizeTestResultOf: aTestCaseEntryPoint.

@@ -1,0 +1,17 @@
+{
+	"category" : "Path-Contracts-Evaluation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"coveredProject",
+		"pathMap",
+		"coveredMethods",
+		"testResults" ],
+	"name" : "SContractEvaluator",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

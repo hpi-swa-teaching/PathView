@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Finder-Tracer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"selectedView" ],
+	"name" : "SViewWrapper",
+	"pools" : [
+		 ],
+	"super" : "SCallWrapper",
+	"type" : "normal" }

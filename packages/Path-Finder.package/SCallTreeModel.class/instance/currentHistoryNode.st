@@ -1,0 +1,3 @@
+accessing
+currentHistoryNode
+	^ currentHistoryNode

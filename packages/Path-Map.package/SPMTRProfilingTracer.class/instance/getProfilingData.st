@@ -1,0 +1,4 @@
+results
+getProfilingData
+	
+	self subclassResponsibility.

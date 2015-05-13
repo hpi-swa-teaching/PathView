@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"checkWrapperChain:of:" : "mp 3/5/2010 12:57",
+		"methodRef" : "mp 1/22/2010 16:54",
+		"methodRef:" : "mp 1/22/2010 16:54",
+		"myObject" : "mp 1/22/2010 16:55",
+		"myObject:" : "mp 1/22/2010 16:55",
+		"setUp" : "mp 7/7/2010 17:43:07.462",
+		"tearDown" : "mp 1/22/2010 16:56" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "Path-Map-Tracer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"pathMap",
+		"testResults" ],
+	"name" : "SPMTestRunnerTracer",
+	"pools" : [
+		 ],
+	"super" : "STracer",
+	"type" : "normal" }

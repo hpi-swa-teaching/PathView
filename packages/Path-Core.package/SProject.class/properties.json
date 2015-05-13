@@ -1,0 +1,21 @@
+{
+	"category" : "Path-Core-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CurrentProject",
+		"ProjectRegistry" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"projectName",
+		"categories",
+		"classesCache",
+		"concerns",
+		"coverage",
+		"harvestedBuckets",
+		"hasContracts" ],
+	"name" : "SProject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

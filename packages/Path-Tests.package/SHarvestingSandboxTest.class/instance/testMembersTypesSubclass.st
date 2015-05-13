@@ -1,0 +1,3 @@
+testing
+testMembersTypesSubclass
+	SHClassSubB new.

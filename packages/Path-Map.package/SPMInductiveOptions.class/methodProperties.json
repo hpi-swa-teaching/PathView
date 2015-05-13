@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addContracts" : "mp 5/14/2013 14:56:42.063",
+		"changeContractButtons:" : "mp 3/14/2012 17:57:09.814",
+		"getLabelString:" : "mp 2/2/2012 17:37:23.883",
+		"initialize" : "mp 2/1/2012 13:35:54.493",
+		"isAddingContractsPossible" : "mp 3/14/2012 17:48:44.997",
+		"isInductiveOptions" : "mp 1/20/2012 09:43:18.997",
+		"isRemovingContractsPossible" : "mp 3/14/2012 17:47:44.286",
+		"kindOfAnalysis" : "mp 1/20/2012 10:21:40.303",
+		"kindOfAnalysis:" : "mp 1/20/2012 10:21:40.319",
+		"refreshColorLegendVertical" : "mp 2/2/2012 17:36:21.147",
+		"removeContracts" : "mp 5/14/2013 14:56:45.599",
+		"setKindOfAnalysis:" : "mp 2/2/2012 17:47:21.242",
+		"visualizeExistingInformation" : "mp 1/31/2012 18:05:26.124" } }

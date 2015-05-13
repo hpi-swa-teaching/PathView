@@ -1,0 +1,6 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"expectedFailures" : "tfel 5/17/2011 15:54:14.461",
+		"testShouldChangeItsContentsOnRefresh" : "tfel 4/26/2011 16:33:33.875" } }

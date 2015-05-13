@@ -1,0 +1,4 @@
+testing
+isTestCase
+
+	^ true

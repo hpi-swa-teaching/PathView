@@ -1,0 +1,3 @@
+visualization
+refreshColorLegendHorizontal
+	self colorLegend horizontalColors: self staticCodeMetric getLegendColors.

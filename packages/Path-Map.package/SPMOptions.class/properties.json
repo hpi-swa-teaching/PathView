@@ -1,0 +1,15 @@
+{
+	"category" : "Path-Map-Options",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"pathMap",
+		"colorLegend" ],
+	"name" : "SPMOptions",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

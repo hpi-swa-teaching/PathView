@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testShouldAutomaticallyChangeItsNumberOnClassChange" : "tfel 5/17/2011 15:47:58.188",
+		"testShouldChangeItsNumberOnClassChange" : "tfel 5/17/2011 15:48:19.569",
+		"testShouldDisplayPinnedInstVarsAfterCollapse" : "tfel 2/14/2012 11:16:06.637" } }

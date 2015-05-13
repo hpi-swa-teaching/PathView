@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"defaultExtent" : "mp 8/13/2013 10:41:56.549",
+		"labelOffset" : "mp 3/29/2012 17:31:00.647",
+		"on:" : "mp 3/29/2012 17:56:22.16" },
+	"instance" : {
+		"createLabel" : "mp 8/13/2013 10:15:47.4",
+		"drawOn:" : "mp 8/13/2013 10:18:08.882",
+		"handleMouseMove:" : "mp 3/29/2012 17:19:16.468",
+		"handlesMouseOver:" : "mp 7/16/2013 11:56:22.122",
+		"initialize" : "mp 8/13/2013 10:27:28.73",
+		"labelMorph" : "mp 3/29/2012 17:21:22.197",
+		"labelMorph:" : "mp 3/29/2012 17:21:22.21",
+		"mouseEnter:" : "mp 8/13/2013 10:51:45.794",
+		"mouseLeave:" : "mp 8/13/2013 10:51:23.696",
+		"mouseMove:" : "mp 3/29/2012 18:01:27.824",
+		"violations" : "mp 3/29/2012 17:55:52.724",
+		"violations:" : "mp 3/29/2012 17:55:52.737" } }

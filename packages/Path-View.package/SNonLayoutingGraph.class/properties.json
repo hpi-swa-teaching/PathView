@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-GraphLayout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SNonLayoutingGraph",
+	"pools" : [
+		 ],
+	"super" : "SGraph",
+	"type" : "normal" }

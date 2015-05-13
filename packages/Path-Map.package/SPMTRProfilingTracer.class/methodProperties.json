@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"maxHue" : "mp 9/23/2010 14:25:42.174" },
+	"instance" : {
+		"beginExecutionOf:" : "mp 8/9/2010 16:55:48.967",
+		"getProfilingData" : "mp 8/12/2010 14:09:27.863",
+		"getProfilingHighscore" : "mp 9/23/2010 13:08:19.587",
+		"maxValue" : "mp 9/23/2010 14:47:23.477",
+		"maxValue:" : "mp 9/23/2010 14:47:23.481",
+		"setColorPropagation" : "mp 8/9/2010 15:57:18.094",
+		"storeResultOf:" : "mp 9/23/2010 14:27:35.188",
+		"unitForLegend" : "mp 9/23/2010 15:21:19.81" } }

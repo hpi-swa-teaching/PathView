@@ -1,0 +1,16 @@
+{
+	"category" : "DicThesaurusRex-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jp 7/1/2013 17:55:52.333",
+	"instvars" : [
+		"sut",
+		"unknownWord",
+		"unknownWordPosition" ],
+	"name" : "DTRPluggableTextMorphPlusTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

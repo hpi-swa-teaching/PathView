@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Map-Tracer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"harvester" ],
+	"name" : "SPMTRInductiveAnalysisTracer",
+	"pools" : [
+		 ],
+	"super" : "SPMTestRunnerTracer",
+	"type" : "normal" }

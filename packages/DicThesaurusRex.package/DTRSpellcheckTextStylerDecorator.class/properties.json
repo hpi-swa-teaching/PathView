@@ -1,0 +1,14 @@
+{
+	"category" : "DicThesaurusRex-Dictionary",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jr 7/18/2013 01:25:09.541",
+	"instvars" : [
+		"spellChecker" ],
+	"name" : "DTRSpellcheckTextStylerDecorator",
+	"pools" : [
+		 ],
+	"super" : "DTRTextStylerDecorator",
+	"type" : "normal" }

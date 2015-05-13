@@ -1,0 +1,3 @@
+testing
+isValueRangeHarvester
+	^ false

@@ -1,0 +1,25 @@
+{
+	"category" : "Path-Finder-CallTree",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"id",
+		"fromSender",
+		"nextCalls",
+		"selectedView",
+		"selectedProfile",
+		"views",
+		"profiles",
+		"objects",
+		"callsBefore",
+		"violations",
+		"steppingSelection",
+		"steppingCoverageResult" ],
+	"name" : "SCallNode",
+	"pools" : [
+		 ],
+	"super" : "SMethodNode",
+	"type" : "normal" }

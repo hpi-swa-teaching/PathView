@@ -1,0 +1,16 @@
+{
+	"category" : "Path-Core-Projects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"groups",
+		"colors",
+		"mapping" ],
+	"name" : "SConcernsRepository",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

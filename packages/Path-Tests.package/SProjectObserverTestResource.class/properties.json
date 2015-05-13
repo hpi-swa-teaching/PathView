@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Tests-Resources",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SProjectObserverTestResource",
+	"pools" : [
+		 ],
+	"super" : "SProjectTestResource",
+	"type" : "normal" }

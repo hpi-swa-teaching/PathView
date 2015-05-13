@@ -1,0 +1,23 @@
+{
+	"category" : "DicThesaurusRex-Dictionary",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jr 7/18/2013 01:32:29.561",
+	"instvars" : [
+		"ui",
+		"window",
+		"listerX",
+		"methods",
+		"spellChecker",
+		"currentClass",
+		"methodIndex",
+		"errors",
+		"errorIndex",
+		"methodSelected" ],
+	"name" : "DTRCorrectionWindow",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

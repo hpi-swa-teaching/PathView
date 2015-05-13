@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"iconOffset" : "mp 8/13/2013 17:41:11.224" },
+	"instance" : {
+		"closeAllOtherFlaps" : "mp 9/15/2010 13:23:31.387",
+		"closeFlap" : "mp 9/15/2010 09:59:34.425",
+		"drawExpandedFlapOn:" : "mp 8/13/2013 17:41:34.184",
+		"drawNotExpandedFlapOn:" : "mp 8/13/2013 17:40:57.812",
+		"drawOn:" : "mp 9/15/2010 09:52:56.7",
+		"expandedFlap" : "mp 9/13/2010 18:17:44.835",
+		"expandedFlap:" : "mp 9/13/2010 18:11:44.341",
+		"flapIcon" : "mp 9/13/2010 18:57:33.686",
+		"flapIcon:" : "mp 9/13/2010 18:57:33.691",
+		"fullBounds" : "mp 9/15/2010 09:53:37.669",
+		"handlesMouseDown:" : "mp 7/16/2013 11:13:57.35",
+		"iconRectangle" : "mp 9/13/2010 18:05:09.219",
+		"initialize" : "mp 9/13/2010 18:16:47.754",
+		"isExpanded" : "mp 9/15/2010 09:52:09.29",
+		"isNotExpanded" : "mp 9/15/2010 09:52:13.226",
+		"layoutBounds" : "mp 9/13/2010 19:03:35.28",
+		"mouseDown:" : "mp 7/16/2013 11:14:02.774",
+		"switchExpandState" : "mp 9/16/2010 11:08:45.688" } }

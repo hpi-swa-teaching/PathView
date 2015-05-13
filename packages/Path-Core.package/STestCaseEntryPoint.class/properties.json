@@ -1,0 +1,17 @@
+{
+	"category" : "Path-Core-Tracer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"testClass",
+		"selector",
+		"lastResult",
+		"withoutTimeout" ],
+	"name" : "STestCaseEntryPoint",
+	"pools" : [
+		 ],
+	"super" : "SEntryPoint",
+	"type" : "normal" }

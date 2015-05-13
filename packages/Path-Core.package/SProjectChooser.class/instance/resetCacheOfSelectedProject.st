@@ -1,0 +1,4 @@
+project commands
+resetCacheOfSelectedProject
+
+	selectedProject resetClassesCache.

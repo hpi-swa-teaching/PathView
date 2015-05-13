@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "jr 5/15/2013 17:34:43.434",
+		"testAcronymAtEnd" : "jr 7/16/2013 11:34:54.535",
+		"testAcronymDetection" : "jr 5/15/2013 17:24:40.911",
+		"testDowncasing" : "jr 6/10/2013 16:50:40.112",
+		"testFoundWordCallback" : "mp 10/18/2013 10:45:33.806",
+		"testKBg" : "jr 7/16/2013 11:34:27.01",
+		"testReadChar" : "jp 7/7/2013 11:12:25.362",
+		"testSeparationAtNumbers" : "jp 7/7/2013 12:07:51.093",
+		"testWholeWordParsing" : "jr 7/16/2013 11:35:17.419",
+		"testWordSeparation" : "jr 5/15/2013 17:18:18.871" } }

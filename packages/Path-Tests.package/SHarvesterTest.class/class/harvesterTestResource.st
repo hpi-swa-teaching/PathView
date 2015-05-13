@@ -1,0 +1,3 @@
+accessing
+harvesterTestResource
+	self subclassResponsibility.

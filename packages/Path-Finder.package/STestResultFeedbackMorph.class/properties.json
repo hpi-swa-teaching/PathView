@@ -1,0 +1,14 @@
+{
+	"category" : "Path-Finder-TestChooser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "STestResultFeedbackMorph",
+	"pools" : [
+		 ],
+	"super" : "SActionButtonMorph",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+visualization
+setDominantColorPropagation
+
+	self setColorPropagation: SPMDominantColorStrategy.

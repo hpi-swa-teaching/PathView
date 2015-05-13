@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"activate" : "tfel 5/22/2012 12:22:49.112",
+		"addButton:model:action:enabled:edge:" : "tfel 5/22/2012 12:41:53.864",
+		"drawOn:" : "ag 8/19/2011 15:57:46.26",
+		"initialize" : "ag 1/4/2012 08:59:28.927",
+		"updateBounds" : "ag 8/19/2011 14:39:50.376",
+		"updateButtons" : "tfel 5/22/2012 12:39:31.678",
+		"updateLayout" : "ag 8/19/2011 14:01:47.956" } }

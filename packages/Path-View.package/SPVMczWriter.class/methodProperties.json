@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"diagramsMember" : "tfel 7/14/2011 12:36:13.111",
+		"fileOut:onZip:" : "tfel 7/14/2011 13:06:14.146",
+		"isRefinementFor:" : "tfel 6/14/2011 14:43:32.916",
+		"typeHarvestMember" : "tfel 6/21/2011 15:21:30.434" },
+	"instance" : {
+		"fileOut" : "mp 7/16/2013 14:01:16.993",
+		"fileOutDiagrams:" : "mp 7/16/2013 14:01:29.005",
+		"fileOutTypeHarvest:" : "mp 7/16/2013 14:01:36.11",
+		"version:" : "tfel 6/14/2011 15:03:33.102",
+		"zip:" : "tfel 6/14/2011 15:03:25.995" } }

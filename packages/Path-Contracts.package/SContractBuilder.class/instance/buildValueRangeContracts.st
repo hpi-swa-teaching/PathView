@@ -1,0 +1,3 @@
+building
+buildValueRangeContracts
+	self subclassResponsibility.

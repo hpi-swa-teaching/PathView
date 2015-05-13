@@ -1,0 +1,18 @@
+{
+	"category" : "DicThesaurusRex-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "sn 7/16/2013 13:29:45.226",
+	"instvars" : [
+		"words",
+		"inputWord",
+		"currentWord",
+		"haveLowercase",
+		"foundWordCallback" ],
+	"name" : "DTRCamelCaseParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

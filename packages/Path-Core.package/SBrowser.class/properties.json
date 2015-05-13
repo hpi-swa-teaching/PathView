@@ -1,0 +1,22 @@
+{
+	"category" : "Path-Core-Tools-Browser",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"currentSelectedMethod",
+		"cacheCoverage",
+		"cacheConcerns",
+		"refreshRequired",
+		"previousMethod",
+		"filterProjectCategories",
+		"codeSource",
+		"testMode",
+		"methodColors" ],
+	"name" : "SBrowser",
+	"pools" : [
+		 ],
+	"super" : "Browser",
+	"type" : "normal" }

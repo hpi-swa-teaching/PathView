@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"interestingSystemEvents" : "tfel 5/17/2011 15:49:51.731",
+		"on:in:type:" : "ag 12/9/2011 14:55:42.732",
+		"systemEventHandler" : "tfel 5/17/2011 15:50:42.622",
+		"variableAccess" : "ag 12/9/2011 12:36:15.571" },
+	"instance" : {
+		"accept:" : "tfel 6/28/2012 07:02:22.782",
+		"addVariable" : "mp 9/29/2013 21:19:25.182",
+		"allEntries" : "ag 9/22/2011 15:11:32.815",
+		"allEntriesCount" : "ag 9/22/2011 15:11:42.695",
+		"buildMenu:" : "sp 6/5/2012 10:50:00.021",
+		"classModified:" : "sp 6/4/2012 16:47:48.176",
+		"createEntries" : "sp 6/8/2012 14:50:25.565",
+		"initialize" : "ag 12/9/2011 14:55:47.977",
+		"labelString" : "ag 4/18/2012 16:54:44.007",
+		"type:" : "tfel 6/7/2011 14:49:01.872",
+		"variableMorphFor:" : "ag 3/30/2012 11:21:09.761",
+		"variables" : "tfel 6/7/2011 14:45:32.045" } }

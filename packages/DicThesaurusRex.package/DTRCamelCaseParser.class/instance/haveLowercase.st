@@ -1,0 +1,3 @@
+accessing
+haveLowercase
+	^ haveLowercase

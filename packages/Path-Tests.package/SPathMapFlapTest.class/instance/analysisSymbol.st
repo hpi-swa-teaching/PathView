@@ -1,0 +1,3 @@
+hooks
+analysisSymbol
+	self subclassResponsibility.

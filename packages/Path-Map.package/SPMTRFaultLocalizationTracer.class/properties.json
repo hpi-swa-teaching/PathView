@@ -1,0 +1,18 @@
+{
+	"category" : "Path-Map-Tracer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"faultFormula",
+		"failuresAtMethod",
+		"passedAtMethod",
+		"allFailures",
+		"allPassed" ],
+	"name" : "SPMTRFaultLocalizationTracer",
+	"pools" : [
+		 ],
+	"super" : "SPMTRCoverageTracer",
+	"type" : "normal" }

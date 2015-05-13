@@ -1,0 +1,16 @@
+{
+	"category" : "Path-Finder-Tracer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mp 12/9/2013 13:58:10.197",
+	"instvars" : [
+		"currentPc",
+		"callNode",
+		"childNodeWrappers" ],
+	"name" : "SSteppingCoverageWrapper",
+	"pools" : [
+		 ],
+	"super" : "SByteCodeCoverageWrapper",
+	"type" : "normal" }
