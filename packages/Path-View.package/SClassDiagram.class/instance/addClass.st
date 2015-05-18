@@ -5,8 +5,8 @@ addClass
 	| choices labels menuIndex newName |
 
 	labels := OrderedCollection with: 'new...'.
-	choices := SmalltalkImage current allClasses.
-	labels addAll: (choices collect: [ :class| class name]) asSortedCollection.
+	choices := SmalltalkImage current allClasses sort: [:a :b | a name < b name].
+	labels addAll: (choices collect: [ :class| class name]).
 	
 	newName := (labels size = 1 or: [
 		menuIndex := (UIManager default chooseFrom: labels title: 'Add Class').
