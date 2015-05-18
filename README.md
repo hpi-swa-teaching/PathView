@@ -8,9 +8,12 @@ Install in 4.6
 
 Metacello new
 	baseline: 'PathView';
-	repository: 'pathToFileTreeGitRepo/packages'.
+	"change to your path!"
+	repository: 'filetree://...myPath.../packages'.
 
 }
 do: [ :baseline | baseline get ];
-do: [ :baseline | baseline load].
+do: [ :baseline | baseline 
+	onConflict: [ :ex | ex allow ];
+	load].
 ```
