@@ -3,7 +3,8 @@
 		"animations" : "SM 5/9/2015 11:04:48.945",
 		"metacello" : "SM 5/6/2015 12:26:13.73",
 		"metacelloHPI" : "SM 5/6/2015 12:25:53.712",
+		"ownRepository" : "SM 5/18/2015 15:26:37.599",
 		"swaUtilities" : "SM 5/6/2015 12:08" },
 	"instance" : {
-		"baseline:" : "SM 5/9/2015 11:04:37.796",
+		"baseline:" : "SM 5/18/2015 15:27:12.805",
 		"postLoadConnectorsArrows" : "SM 5/9/2015 10:49:51.305" } }
