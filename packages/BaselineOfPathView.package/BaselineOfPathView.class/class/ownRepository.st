@@ -1,4 +1,4 @@
 repositories
 ownRepository
 
-	^ 'git://github.com/HPI-SWA-Teaching/SWT15-Project-09/packages'
+	^ 'github://HPI-SWA-Teaching/SWT15-Project-09/packages'

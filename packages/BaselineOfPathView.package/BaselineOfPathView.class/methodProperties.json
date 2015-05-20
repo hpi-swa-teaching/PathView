@@ -3,8 +3,9 @@
 		"animations" : "SM 5/9/2015 11:04:48.945",
 		"metacello" : "SM 5/6/2015 12:26:13.73",
 		"metacelloHPI" : "SM 5/6/2015 12:25:53.712",
-		"ownRepository" : "SM 5/18/2015 15:26:37.599",
+		"morphicUITestingFramework" : "SM 5/20/2015 23:22:00.136",
+		"ownRepository" : "SM 5/20/2015 23:13:55.977",
 		"swaUtilities" : "SM 5/6/2015 12:08" },
 	"instance" : {
-		"baseline:" : "SM 5/18/2015 15:27:12.805",
+		"baseline:" : "SM 5/21/2015 01:06:02.086",
 		"postLoadConnectorsArrows" : "SM 5/9/2015 10:49:51.305" } }

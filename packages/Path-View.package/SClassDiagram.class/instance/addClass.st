@@ -2,13 +2,13 @@ toolbar-actions
 addClass
 
 	"Present a choice of classes or prompt for a new class name"
-	| choices labels menuIndex newName |
+	| choices labels menuIndex newName noClassesFound |
 
-	labels := OrderedCollection with: 'new...'.
-	choices := SmalltalkImage current allClasses sort: [:a :b | a name < b name].
-	labels addAll: (choices collect: [ :class| class name]).
+	noClassesFound := false.
+	choices := self getClasses.
+	labels := self getLabelsFromClasses: choices ifEmpty: [ noClassesFound := true ].
 	
-	newName := (labels size = 1 or: [
+	newName := (noClassesFound or: [
 		menuIndex := (UIManager default chooseFrom: labels title: 'Add Class').
 		menuIndex = 0 ifTrue: [^ self].
 		menuIndex = 1])

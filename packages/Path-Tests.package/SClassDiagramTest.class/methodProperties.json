@@ -8,7 +8,9 @@
 		"setUp" : "tfel 4/28/2011 16:01:39.696",
 		"testAcceptsClassDropsFromBrowser" : "tfel 7/14/2011 15:03:04.021",
 		"testAcceptsClassDropsFromOmniBrowser" : "tfel 7/14/2011 15:03:57.303",
+		"testAddClassSelectsCorrectClass" : "SM 5/21/2015 01:02:22.336",
 		"testFailsSilentlyForRandomlyDroppedMorphs" : "tfel 7/14/2011 15:03:19.449",
+		"testLabelsAreSorted" : "SM 5/21/2015 00:48:11.301",
 		"testTransferredMorphHasDropPosition" : "mp 7/16/2013 13:17:20.994",
 		"transferEventFor:" : "tfel 4/28/2011 16:47:10.507",
 		"transferEventFor:withType:" : "tfel 4/28/2011 16:47:16.837" } }
