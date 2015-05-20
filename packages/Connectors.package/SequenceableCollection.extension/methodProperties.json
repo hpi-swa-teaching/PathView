@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"groupsOf:atATimeCollect:" : "nk 12/30/2003 15:39",
+		"groupsOf:atATimeDo:" : "nk 12/30/2003 15:37",
+		"nextToLast" : "nk 8/23/2003 10:42",
+		"overlappingPairsCollect:" : "nk 7/17/2003 17:55",
+		"overlappingPairsDo:" : "nk 7/17/2003 17:55",
+		"overlappingPairsWithIndexDo:" : "nk 7/17/2003 17:54",
+		"paddedWith:do:" : "nk 3/30/2002 12:45" } }

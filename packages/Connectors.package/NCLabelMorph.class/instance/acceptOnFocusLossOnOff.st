@@ -1,0 +1,3 @@
+accessing
+acceptOnFocusLossOnOff
+	^label acceptOnFocusLossOnOff

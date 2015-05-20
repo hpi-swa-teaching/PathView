@@ -1,0 +1,3 @@
+arrow forms
+pointingHand
+	self subclassResponsibility

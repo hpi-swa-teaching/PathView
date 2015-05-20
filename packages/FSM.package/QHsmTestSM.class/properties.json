@@ -1,0 +1,16 @@
+{
+	"category" : "FSM-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "nk 8/12/2003 13:57",
+	"instvars" : [
+		"events",
+		"transitions",
+		"myFoo" ],
+	"name" : "QHsmTestSM",
+	"pools" : [
+		 ],
+	"super" : "QHsm",
+	"type" : "normal" }

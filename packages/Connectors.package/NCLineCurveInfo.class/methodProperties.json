@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"bezierBorderPoints" : "nk 8/23/2003 13:04",
+		"borderPoints" : "nk 8/25/2003 14:46",
+		"closestBigSegment" : "nk 8/21/2003 10:22",
+		"closestPoint" : "nk 8/19/2003 10:27",
+		"line" : "nk 8/19/2003 10:27",
+		"line:targetPoint:segmentIndex:closestPoint:minDist:minT:" : "nk 8/19/2003 10:26",
+		"minDist" : "nk 8/19/2003 10:27",
+		"minT" : "nk 8/19/2003 10:27",
+		"normal" : "nk 8/22/2003 12:05",
+		"offset" : "nk 8/19/2003 10:31",
+		"printOn:" : "nk 8/19/2003 12:12",
+		"segment" : "nk 8/22/2003 12:06",
+		"segmentIndex" : "nk 8/19/2003 10:27",
+		"tangent" : "nk 8/22/2003 12:05",
+		"targetPoint" : "nk 8/19/2003 10:27",
+		"vertexWithinProportion:andDistance:" : "nk 8/21/2003 10:02" } }

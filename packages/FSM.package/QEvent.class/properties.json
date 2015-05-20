@@ -1,0 +1,15 @@
+{
+	"category" : "FSM-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"type",
+		"arguments" ],
+	"name" : "QEvent",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

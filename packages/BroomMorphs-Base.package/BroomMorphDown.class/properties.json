@@ -1,0 +1,14 @@
+{
+	"category" : "BroomMorphs-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BroomMorphDown",
+	"pools" : [
+		 ],
+	"super" : "BroomMorph",
+	"type" : "normal" }

@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"additionsToViewerCategoryText" : "nk 8/31/2004 13:46",
+		"authoringPrototype" : "nk 8/31/2004 11:53",
+		"initialize" : "nk 12/28/2004 14:57",
+		"supplementaryPartsDescriptions" : "nk 9/2/2004 17:20",
+		"wrappedAuthoringPrototype" : "nk 9/2/2004 07:57" },
+	"instance" : {
+		"addBasicMenuItemsTo:event:" : "nk 8/30/2004 05:58",
+		"addTextMenuItemsTo:event:" : "nk 8/27/2004 17:08",
+		"addYellowButtonMenuItemsTo:event:" : "nk 8/30/2004 05:55",
+		"beAllFont:" : "nk 8/27/2004 17:12",
+		"contentsAsIs:" : "nk 10/13/2003 17:09",
+		"fontName:pointSize:" : "nk 10/13/2003 17:09",
+		"fontName:size:" : "nk 10/13/2003 17:09",
+		"handleInteraction:fromEvent:" : "nk 8/22/2004 17:32",
+		"hasYellowButtonMenu" : "nk 8/27/2004 11:01",
+		"initialize" : "nk 10/13/2003 17:09",
+		"keyStroke:" : "nk 8/22/2004 17:14",
+		"mouseDown:" : "nk 8/31/2004 12:07",
+		"promptForFont" : "nk 8/27/2004 17:10",
+		"refreshParagraph" : "nk 10/13/2003 17:09",
+		"updateFromParagraph" : "nk 8/22/2004 16:38" } }

@@ -1,0 +1,3 @@
+arrow forms
+starInCircle
+	self subclassResponsibility

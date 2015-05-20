@@ -1,0 +1,3 @@
+arrow forms
+roundTrident
+	self subclassResponsibility

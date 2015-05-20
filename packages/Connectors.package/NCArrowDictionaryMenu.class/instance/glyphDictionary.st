@@ -1,0 +1,3 @@
+accessing
+glyphDictionary
+	^NCAAConnectorMorph arrowDictionary 

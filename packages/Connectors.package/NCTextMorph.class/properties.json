@@ -1,0 +1,15 @@
+{
+	"category" : "Connectors-Text-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"acceptOnCR",
+		"acceptOnFocusLoss" ],
+	"name" : "NCTextMorph",
+	"pools" : [
+		 ],
+	"super" : "TextMorph",
+	"type" : "normal" }

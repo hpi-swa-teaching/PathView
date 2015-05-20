@@ -1,0 +1,3 @@
+*connectors-testing
+isObjectsTool
+	^false

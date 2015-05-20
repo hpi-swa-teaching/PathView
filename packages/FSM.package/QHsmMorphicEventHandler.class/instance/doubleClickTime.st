@@ -1,0 +1,3 @@
+accessing-constants
+doubleClickTime
+	^HandMorph doubleClickTime

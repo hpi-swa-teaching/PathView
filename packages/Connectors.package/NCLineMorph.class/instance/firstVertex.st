@@ -1,0 +1,3 @@
+accessing
+firstVertex
+	^vertices first

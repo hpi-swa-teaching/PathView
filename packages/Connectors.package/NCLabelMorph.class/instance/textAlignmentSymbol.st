@@ -1,0 +1,3 @@
+accessing
+textAlignmentSymbol
+	^label textAlignmentSymbol

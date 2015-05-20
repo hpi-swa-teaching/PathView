@@ -1,0 +1,3 @@
+accessing
+lineBorderColor
+	^self borderColor

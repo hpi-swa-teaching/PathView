@@ -1,0 +1,3 @@
+opening
+newStandAlone
+	^self adjusterWindow

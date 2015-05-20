@@ -1,0 +1,3 @@
+directories
+bitmapDirectoryName
+	^'bitmaps'

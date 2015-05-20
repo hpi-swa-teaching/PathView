@@ -1,0 +1,16 @@
+{
+	"category" : "Connectors-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ArrowGlyphs" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"constraints",
+		"line",
+		"graphModel" ],
+	"name" : "NCAAConnectorMorph",
+	"pools" : [
+		 ],
+	"super" : "QHsmMorph",
+	"type" : "normal" }

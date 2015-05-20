@@ -1,0 +1,3 @@
+menus
+browseClass
+	self  browseHierarchy

@@ -1,0 +1,3 @@
+geometry
+nextToFirstPoint
+	^vertices second

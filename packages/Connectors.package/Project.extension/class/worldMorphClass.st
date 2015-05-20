@@ -1,0 +1,3 @@
+*connectors-projects
+worldMorphClass
+	^PasteUpMorph

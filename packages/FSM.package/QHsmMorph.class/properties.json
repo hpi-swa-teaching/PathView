@@ -1,0 +1,14 @@
+{
+	"category" : "FSM-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"eventHandler" ],
+	"name" : "QHsmMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

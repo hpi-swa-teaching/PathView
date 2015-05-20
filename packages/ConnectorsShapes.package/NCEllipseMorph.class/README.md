@@ -1,0 +1,1 @@
+This adds a standard yellow-button menu to EllipseMorph.

@@ -1,0 +1,1 @@
+I am a shape intended as a container for other Morphs.

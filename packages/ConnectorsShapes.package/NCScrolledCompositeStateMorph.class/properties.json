@@ -1,0 +1,14 @@
+{
+	"category" : "ConnectorsShapes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"scrollPane" ],
+	"name" : "NCScrolledCompositeStateMorph",
+	"pools" : [
+		 ],
+	"super" : "NCCompositeStateMorph",
+	"type" : "normal" }

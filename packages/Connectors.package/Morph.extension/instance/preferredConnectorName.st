@@ -1,0 +1,3 @@
+*connectors-gestures
+preferredConnectorName
+	^'Connector'

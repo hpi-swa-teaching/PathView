@@ -1,0 +1,3 @@
+appearance
+isCurve
+	^line isCurve

@@ -1,0 +1,25 @@
+{
+	"category" : "ConnectorsTools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"font",
+		"glyph",
+		"transform",
+		"fontSample",
+		"rotation",
+		"joinPoint",
+		"endPoint",
+		"showDots",
+		"clickPoints",
+		"transformedClickPoints",
+		"arrowScale",
+		"sampleLine" ],
+	"name" : "NCGlyphEditor",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }

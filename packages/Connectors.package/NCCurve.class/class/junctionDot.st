@@ -1,0 +1,3 @@
+arrow forms
+junctionDot
+	self subclassResponsibility

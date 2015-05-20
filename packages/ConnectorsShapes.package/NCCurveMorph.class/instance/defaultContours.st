@@ -1,0 +1,3 @@
+initialization
+defaultContours
+	^self class diamondContours

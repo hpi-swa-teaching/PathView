@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"click:" : "nk 5/2/2004 13:59",
+		"doubleClick:" : "nk 5/2/2004 13:59",
+		"doubleClickTimeout:" : "nk 5/2/2004 13:59",
+		"handleKeystroke:" : "nk 5/2/2004 13:59",
+		"handleMouseDown:" : "nk 5/2/2004 13:59",
+		"handleMouseUp:" : "nk 5/2/2004 13:59",
+		"handleUnhandledEvent:" : "nk 8/14/2003 22:05",
+		"logEvent:handlingState:" : "nk 8/14/2003 15:52",
+		"startDrag:" : "nk 5/2/2004 14:00",
+		"stopDrag:" : "nk 5/2/2004 14:00" } }

@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"width:height:type:" : "nk 4/30/2004 16:46" },
+	"instance" : {
+		"at:" : "nk 5/19/2003 15:55",
+		"at:at:" : "nk 5/19/2003 20:17",
+		"at:at:put:" : "nk 5/19/2003 20:16",
+		"at:put:" : "nk 5/19/2003 15:55",
+		"condenseVertically" : "nk 5/19/2003 18:04",
+		"height" : "nk 4/30/2004 16:49",
+		"indexX:y:" : "nk 4/30/2004 16:48",
+		"initialize" : "nk 4/30/2004 16:49",
+		"keysAndValuesDo:" : "nk 5/19/2003 15:59",
+		"printOn:" : "nk 5/19/2003 16:21",
+		"rowAndColumnValuesDo:" : "nk 5/19/2003 16:12",
+		"usedExtent" : "nk 5/19/2003 17:19",
+		"width" : "nk 4/30/2004 16:45",
+		"width:height:type:" : "nk 4/30/2004 16:48" } }

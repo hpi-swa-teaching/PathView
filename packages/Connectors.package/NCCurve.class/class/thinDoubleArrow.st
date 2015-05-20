@@ -1,0 +1,3 @@
+arrow forms
+thinDoubleArrow
+	self subclassResponsibility

@@ -1,0 +1,3 @@
+gestures
+preferredConnectorName
+	^'Transition'

@@ -1,0 +1,3 @@
+menus
+hasYellowButtonMenu	
+	^true

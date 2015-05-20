@@ -1,0 +1,1 @@
+I am a Morph that knows a little more about Connectors and has a context menu.

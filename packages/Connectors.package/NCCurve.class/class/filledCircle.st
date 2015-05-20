@@ -1,0 +1,3 @@
+arrow forms
+filledCircle
+	self subclassResponsibility

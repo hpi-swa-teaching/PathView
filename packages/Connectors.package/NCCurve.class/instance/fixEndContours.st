@@ -1,0 +1,3 @@
+accessing
+fixEndContours
+	self subclassResponsibility

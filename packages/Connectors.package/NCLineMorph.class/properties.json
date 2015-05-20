@@ -1,0 +1,23 @@
+{
+	"category" : "Connectors-Lines and Curves",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CurveDebug" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lineWidth",
+		"fillStyle",
+		"smoothCurve",
+		"vertices",
+		"segments",
+		"contours",
+		"arrows",
+		"arrowForms",
+		"arrowScales",
+		"arrowJoints" ],
+	"name" : "NCLineMorph",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+*connectorstools-testing
+isAttachmentPointAdjuster
+	^false

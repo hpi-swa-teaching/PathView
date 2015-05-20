@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"createConnectorsFlaps" : "nk 5/13/2004 18:07",
+		"initialize" : "nk 4/30/2004 16:54",
+		"makeSAR" : "nk 7/8/2003 08:16",
+		"postInstall" : "nk 4/30/2004 18:21" },
+	"instance" : {
+		"additionalChangeSets" : "nk 7/26/2003 14:26",
+		"changesText" : "nk 5/20/2003 09:22",
+		"cvsID" : "nk 12/4/2002 18:25",
+		"externalName" : "nk 10/18/2002 22:33",
+		"fullName" : "nk 5/11/2004 13:53",
+		"postscriptText" : "cmm 11/16/2010 23:37",
+		"preambleText" : "cmm 11/16/2010 23:37",
+		"prerequisiteChangeSets" : "nk 7/29/2003 17:13" } }

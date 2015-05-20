@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"beAdjacent" : "nk 11/26/2002 11:23",
+		"defaultNameStemForInstances" : "cmm 12/4/2010 20:05",
+		"disableTableLayout" : "nk 9/10/2004 11:45",
+		"isConnectable" : "nk 8/9/2004 16:22",
+		"isHighlight" : "nk 11/26/2002 11:23",
+		"morphicLayerNumber" : "nk 11/26/2002 11:24",
+		"wantsAttachmentFromEnd:ofConnector:" : "nk 8/9/2004 16:08" } }

@@ -1,0 +1,1 @@
+My constrained object is one end of an open PolygonMorph (a/k/a LineMorph).

@@ -1,0 +1,3 @@
+*connectors-queries
+isConstraint
+	^false

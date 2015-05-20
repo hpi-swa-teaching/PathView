@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"extrapolatedIntersectionsWithLineFrom:to:" : "nk 6/21/2003 13:14",
+		"intersectionWithLineSegmentFromCenterTo:" : "nk 5/14/2003 23:10",
+		"intersectionsWithLineFrom:to:" : "nk 6/21/2003 13:13",
+		"intersectsLineFrom:to:" : "nk 2/27/2001 11:12",
+		"lineSegmentsDo:" : "nk 3/29/2002 22:34",
+		"scaleAndTranslateToFitInside:" : "nk 3/27/2001 18:19" } }

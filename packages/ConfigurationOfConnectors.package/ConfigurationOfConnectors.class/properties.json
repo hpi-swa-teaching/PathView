@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfConnectors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfConnectors",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

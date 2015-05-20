@@ -1,0 +1,1 @@
+I am a BroomMorph that pushes morphs right.

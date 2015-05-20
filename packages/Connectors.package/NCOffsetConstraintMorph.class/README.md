@@ -1,0 +1,1 @@
+I am a ConstraintMorph with an offset. The point I get from evaluating my MessageSend is offset by a point.

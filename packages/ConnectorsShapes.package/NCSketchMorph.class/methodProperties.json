@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addGraphModelYellowButtonItemsTo:event:" : "nk 6/15/2004 12:45",
+		"addModelYellowButtonItemsTo:event:" : "nk 6/15/2004 12:46",
+		"addYellowButtonMenuItemsTo:event:" : "nk 6/12/2004 18:59",
+		"containsPoint:" : "nk 4/15/2002 21:28",
+		"handlesKeyboard:" : "nk 6/15/2002 10:01",
+		"handlesMouseDown:" : "nk 6/15/2002 10:04",
+		"hasYellowButtonMenu" : "nk 1/23/2004 15:32",
+		"justDroppedInto:event:" : "nk 6/30/2002 13:13",
+		"keyStroke:" : "nk 6/24/2004 13:27",
+		"mouseDown:" : "nk 6/24/2004 13:27",
+		"newTransformationMorph" : "nk 6/15/2002 21:30",
+		"noteNewOwner:" : "nk 1/26/2004 16:45",
+		"restoreSize" : "nk 6/15/2002 10:10",
+		"wantsGraphModel" : "nk 1/26/2004 16:43",
+		"wantsSimpleSketchMorphHandles" : "nk 6/12/2004 15:11" } }

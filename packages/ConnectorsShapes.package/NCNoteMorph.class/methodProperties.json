@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"authoringPrototype" : "nk 6/25/2002 15:07",
+		"supplementaryPartsDescriptions" : "nk 8/31/2004 12:26" },
+	"instance" : {
+		"addText:" : "nk 7/17/2004 13:55",
+		"addTextBlock:" : "nk 7/17/2004 13:55",
+		"closestOrthogonalPointTo:" : "nk 6/27/2002 13:40",
+		"closestPointTo:" : "nk 6/27/2002 13:41",
+		"defaultAttachmentPointSpecs" : "nk 6/27/2002 13:50",
+		"drawOn:" : "nk 6/27/2002 13:52",
+		"initialize" : "nk 1/10/2004 18:13",
+		"initializeToStandAlone" : "nk 6/27/2002 10:49",
+		"intersectionWithLineSegmentFromCenterTo:" : "nk 6/27/2002 13:25" } }

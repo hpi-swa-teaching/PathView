@@ -1,0 +1,3 @@
+initialization
+setPointSelector
+	^setPoint selector

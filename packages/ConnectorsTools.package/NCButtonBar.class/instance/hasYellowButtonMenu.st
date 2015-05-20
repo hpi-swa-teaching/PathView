@@ -1,0 +1,3 @@
+event handling
+hasYellowButtonMenu
+	^Preferences cmdGesturesEnabled

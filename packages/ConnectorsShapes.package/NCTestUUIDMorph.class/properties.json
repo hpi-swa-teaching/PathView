@@ -1,0 +1,14 @@
+{
+	"category" : "ConnectorsShapes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NCTestUUIDMorph",
+	"pools" : [
+		 ],
+	"super" : "NCTextRectangleMorph",
+	"type" : "normal" }

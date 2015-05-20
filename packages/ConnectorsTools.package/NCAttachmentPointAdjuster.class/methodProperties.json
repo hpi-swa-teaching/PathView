@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"includeInNewMorphMenu" : "nk 6/15/2002 15:54" },
+	"instance" : {
+		"aboutToBeGrabbedBy:" : "nk 5/13/2003 18:37",
+		"initialize" : "nk 4/17/2002 22:47",
+		"isAttachmentPointAdjuster" : "nk 6/12/2004 18:28",
+		"justDroppedInto:event:" : "nk 5/13/2003 09:50",
+		"nudgeHorizontally" : "nk 4/25/2001 21:47",
+		"nudgeVertically" : "nk 4/25/2001 21:47",
+		"originalPosition" : "nk 6/14/2002 16:46",
+		"originalSpec:target:" : "nk 4/25/2001 21:38",
+		"spec" : "nk 6/30/2002 12:28",
+		"target" : "nk 4/25/2001 21:25",
+		"veryDeepFixupWith:" : "nk 4/25/2001 21:50",
+		"veryDeepInner:" : "nk 4/25/2001 21:30" } }

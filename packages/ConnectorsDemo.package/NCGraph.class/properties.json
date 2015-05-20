@@ -1,0 +1,15 @@
+{
+	"category" : "ConnectorsDemo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"edges",
+		"vertices" ],
+	"name" : "NCGraph",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

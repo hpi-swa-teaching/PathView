@@ -1,0 +1,3 @@
+accessing
+isEmpty
+	^vertices isEmpty

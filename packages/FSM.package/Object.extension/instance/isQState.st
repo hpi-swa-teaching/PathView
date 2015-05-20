@@ -1,0 +1,3 @@
+*FSM-events
+isQState
+	^false

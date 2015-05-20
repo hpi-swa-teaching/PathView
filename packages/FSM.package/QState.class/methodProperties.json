@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"fsm:name:" : "nk 8/7/2003 16:32" },
+	"instance" : {
+		"=" : "nk 8/8/2003 08:57",
+		"dispatchEvent:selector:" : "nk 2/17/2004 21:13",
+		"enter" : "nk 8/12/2003 13:03",
+		"exit" : "nk 8/12/2003 13:03",
+		"fsm" : "nk 8/8/2003 07:02",
+		"fsm:name:" : "nk 8/8/2003 07:28",
+		"hash" : "nk 8/8/2003 08:43",
+		"init" : "nk 8/12/2003 13:03",
+		"isQState" : "nk 8/8/2003 08:54",
+		"printOn:" : "nk 8/12/2003 14:30",
+		"stateName" : "nk 8/8/2003 07:01",
+		"stateName:" : "nk 8/8/2003 07:01",
+		"superstate" : "nk 8/11/2003 22:18",
+		"trigger:" : "nk 2/17/2004 21:49" } }

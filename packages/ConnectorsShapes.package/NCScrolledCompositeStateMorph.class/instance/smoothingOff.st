@@ -1,0 +1,3 @@
+menus
+smoothingOff
+	self transformMorph smoothingOff

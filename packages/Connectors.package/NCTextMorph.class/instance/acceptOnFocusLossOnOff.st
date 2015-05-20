@@ -1,0 +1,3 @@
+menus
+acceptOnFocusLossOnOff
+	self acceptOnFocusLoss: self acceptOnFocusLoss not

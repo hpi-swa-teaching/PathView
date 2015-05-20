@@ -1,0 +1,14 @@
+{
+	"category" : "Connectors-Text-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NCTextMorphEditor",
+	"pools" : [
+		 ],
+	"super" : "TextMorphEditor",
+	"type" : "normal" }

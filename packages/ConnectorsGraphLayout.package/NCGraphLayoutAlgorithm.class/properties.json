@@ -1,0 +1,21 @@
+{
+	"category" : "ConnectorsGraphLayout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"nodes",
+		"edges",
+		"aesthetics",
+		"forces",
+		"maxIterations",
+		"scale",
+		"layoutMorph",
+		"iterations" ],
+	"name" : "NCGraphLayoutAlgorithm",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

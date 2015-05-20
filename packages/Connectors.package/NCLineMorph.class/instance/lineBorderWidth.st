@@ -1,0 +1,3 @@
+accessing
+lineBorderWidth
+	^self borderWidth

@@ -1,0 +1,20 @@
+{
+	"category" : "Connectors-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"constrained",
+		"constraint",
+		"dieWithInput",
+		"inputs",
+		"lastTarget",
+		"stepTime",
+		"lastTargetBounds" ],
+	"name" : "NCConstraintMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

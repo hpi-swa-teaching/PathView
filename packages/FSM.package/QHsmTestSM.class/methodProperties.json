@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"new" : "nk 8/12/2003 11:40" },
+	"instance" : {
+		"dispatch:" : "nk 2/17/2004 21:56",
+		"dispatchEvent:selector:" : "nk 2/17/2004 22:02",
+		"events" : "nk 8/7/2003 16:51",
+		"handleUnhandledEvent:" : "nk 8/12/2003 14:06",
+		"initialize" : "nk 8/12/2003 15:39",
+		"logEvent:type:handlingState:" : "nk 2/17/2004 21:59",
+		"myFoo" : "nk 8/12/2003 16:09",
+		"myFoo:" : "nk 8/12/2003 16:09",
+		"stateInitial:" : "nk 8/14/2003 18:54",
+		"stateS0:" : "nk 8/14/2003 18:58",
+		"stateS11:" : "nk 8/14/2003 18:59",
+		"stateS1:" : "nk 8/14/2003 18:59",
+		"stateS211:" : "nk 8/14/2003 18:59",
+		"stateS21:" : "nk 8/14/2003 18:58",
+		"stateS2:" : "nk 8/14/2003 18:59",
+		"transitions" : "nk 8/12/2003 14:48",
+		"trigger:with:" : "nk 8/15/2003 09:36",
+		"trigger:withArguments:" : "nk 8/15/2003 09:36" } }

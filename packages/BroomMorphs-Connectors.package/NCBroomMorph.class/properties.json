@@ -1,0 +1,14 @@
+{
+	"category" : "BroomMorphs-Connectors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "NCBroomMorph",
+	"pools" : [
+		 ],
+	"super" : "BroomMorph",
+	"type" : "normal" }

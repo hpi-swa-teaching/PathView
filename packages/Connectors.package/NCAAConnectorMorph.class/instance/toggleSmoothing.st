@@ -1,0 +1,3 @@
+menus
+toggleSmoothing
+	line toggleSmoothing

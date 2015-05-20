@@ -1,0 +1,15 @@
+{
+	"category" : "ConnectorsTools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"originalSpec",
+		"target" ],
+	"name" : "NCAttachmentPointAdjuster",
+	"pools" : [
+		 ],
+	"super" : "EllipseMorph",
+	"type" : "normal" }

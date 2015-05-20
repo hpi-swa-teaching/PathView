@@ -1,0 +1,3 @@
+distribution
+changeSetDirectory
+	^FileDirectory default directoryNamed: self changeSetDirectoryName

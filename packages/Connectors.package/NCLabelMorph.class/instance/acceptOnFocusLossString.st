@@ -1,0 +1,3 @@
+accessing
+acceptOnFocusLossString
+	^label acceptOnFocusLossString

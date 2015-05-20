@@ -1,0 +1,3 @@
+arrow forms
+openDiamond
+	self subclassResponsibility

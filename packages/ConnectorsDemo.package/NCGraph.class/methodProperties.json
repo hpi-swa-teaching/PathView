@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"vertices:edges:" : "nk 5/10/2003 09:42" },
+	"instance" : {
+		"bfsStartingAt:nodeBlock:edgeBlock:dist:pred:states:" : "nk 5/14/2003 23:56",
+		"dfsPre:post:edgeBlock:" : "nk 5/16/2003 18:12",
+		"edges" : "nk 5/14/2003 15:43",
+		"edges:" : "nk 5/14/2003 15:46",
+		"isEmpty" : "nk 5/27/2003 22:22",
+		"layoutHorizontallyWithin:" : "nk 5/27/2003 22:23",
+		"pathFrom:to:" : "nk 5/14/2003 23:55",
+		"positionRows:within:positions:distances:" : "nk 5/19/2003 16:07",
+		"printOn:" : "nk 5/14/2003 19:18",
+		"roots" : "nk 5/21/2003 10:29",
+		"topologicallySortedVerticesDetectCycles:" : "nk 5/15/2003 09:59",
+		"validOutgoingConnectionsFor:" : "nk 5/14/2003 23:52",
+		"vertices" : "nk 5/14/2003 15:43",
+		"vertices:" : "nk 5/14/2003 15:46",
+		"vertices:edges:" : "nk 5/14/2003 15:44" } }

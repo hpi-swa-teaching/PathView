@@ -1,0 +1,3 @@
+accessing
+lastVertex
+	^vertices last

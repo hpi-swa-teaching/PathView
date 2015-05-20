@@ -1,0 +1,3 @@
+menu & halo
+addMyYellowButtonMenuItemsToSubmorphMenus
+	^true

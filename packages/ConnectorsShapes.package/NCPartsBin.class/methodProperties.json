@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"buttonClass" : "nk 6/12/2004 19:13" },
+	"instance" : {
+		"addButton" : "nk 9/1/2004 20:21",
+		"addButtonAndInform" : "nk 3/22/2002 07:53",
+		"addButtonAndInformAt:" : "nk 9/2/2004 06:45",
+		"addMyYellowButtonMenuItemsToSubmorphMenus" : "nk 1/23/2004 16:30",
+		"addYellowButtonMenuItemsTo:event:" : "dgd 8/26/2004 15:05",
+		"hasYellowButtonMenu" : "nk 1/23/2004 15:39",
+		"listDirection:quadList:buttonClass:" : "nk 6/19/2002 09:36",
+		"mouseDown:" : "nk 6/24/2004 13:27",
+		"wantsDroppedMorph:event:" : "nk 1/26/2004 14:45" } }

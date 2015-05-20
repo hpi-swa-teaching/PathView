@@ -1,0 +1,3 @@
+constraints
+defaultTargetPoint
+	^self lastTargetPoint

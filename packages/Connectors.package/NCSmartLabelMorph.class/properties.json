@@ -1,0 +1,14 @@
+{
+	"category" : "Connectors-Text-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "NCSmartLabelMorph",
+	"pools" : [
+		 ],
+	"super" : "NCLabelMorph",
+	"type" : "normal" }

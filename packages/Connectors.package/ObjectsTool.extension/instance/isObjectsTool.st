@@ -1,0 +1,3 @@
+*connectors-initialization
+isObjectsTool
+	^true

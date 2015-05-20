@@ -1,0 +1,14 @@
+{
+	"category" : "BroomMorphs-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CenterBroomMorphDown",
+	"pools" : [
+		 ],
+	"super" : "BroomMorphDown",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "Connectors-Lines and Curves",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"contours",
+		"bounds",
+		"scale",
+		"offset" ],
+	"name" : "NCCurve",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+*connectors-labels
+isButton
+	^true

@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"determineConnectionState" : "nk 1/14/2004 15:40",
+		"metaMouseButtonOr:" : "nk 8/16/2003 15:25",
+		"stateConnected:" : "nk 1/15/2004 11:08",
+		"stateDisconnected:" : "nk 8/21/2003 11:32",
+		"stateDraggingEnd:" : "nk 1/14/2004 17:45",
+		"stateDraggingEndOver:" : "nk 1/17/2004 10:59",
+		"stateDraggingMorph:" : "nk 1/14/2004 17:07",
+		"stateEditing:" : "nk 2/28/2006 10:40",
+		"stateGlobal:" : "nk 1/14/2004 15:44",
+		"stateIdle:" : "nk 1/14/2004 20:36",
+		"stateOneEndConnected:" : "nk 8/22/2004 06:25",
+		"stateWiringEnd:" : "nk 1/14/2004 16:12",
+		"stateWiringEndOver:" : "nk 1/14/2004 16:10",
+		"stateWiringMorph:" : "nk 1/14/2004 16:59" } }

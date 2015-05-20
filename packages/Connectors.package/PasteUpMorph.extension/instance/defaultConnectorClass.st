@@ -1,0 +1,3 @@
+*connectors-misc
+defaultConnectorClass
+	^NCAAConnectorMorph

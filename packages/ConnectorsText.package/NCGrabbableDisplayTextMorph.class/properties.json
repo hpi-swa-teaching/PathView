@@ -1,0 +1,14 @@
+{
+	"category" : "ConnectorsText",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NCGrabbableDisplayTextMorph",
+	"pools" : [
+		 ],
+	"super" : "NCDisplayTextMorph",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"authoringPrototype" : "nk 9/2/2004 17:17",
+		"newBodyText" : "nk 8/31/2004 11:45",
+		"supplementaryPartsDescriptions" : "nk 9/2/2004 15:40" },
+	"instance" : {
+		"click:" : "nk 8/22/2004 17:34",
+		"doubleClick:" : "nk 8/29/2004 21:18",
+		"doubleClickTimeout:" : "nk 3/10/2004 08:05",
+		"focusBoundsFor:" : "nk 8/22/2004 17:39",
+		"gesture:" : "nk 10/23/2003 19:58",
+		"gestureHandler" : "nk 10/19/2003 19:09",
+		"handleListenEvent:" : "nk 8/23/2004 11:26",
+		"keyboardFocusChange:" : "nk 8/22/2004 17:29",
+		"mouseDown:" : "nk 8/27/2004 16:50",
+		"outOfWorld:" : "nk 10/23/2003 23:40",
+		"startDrag:" : "nk 10/18/2003 15:22",
+		"wantsAutoFocusStartEvent:" : "nk 10/23/2003 23:53" } }

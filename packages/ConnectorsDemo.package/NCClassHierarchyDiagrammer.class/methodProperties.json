@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"example1" : "nk 8/16/2004 14:20",
+		"new" : "nk 10/15/2003 13:07",
+		"newOn:" : "nk 10/15/2003 13:07" },
+	"instance" : {
+		"connectParentFor:morph:" : "nk 8/16/2004 14:02",
+		"connectSubclassesFor:morph:" : "nk 12/27/2003 16:45",
+		"draw:" : "nk 12/27/2003 17:12",
+		"drawBelow:" : "nk 12/27/2003 16:34",
+		"drawChangeSet:" : "nk 12/27/2003 16:39",
+		"drawClassCategory:" : "nk 12/27/2003 16:39",
+		"drawClasses:" : "nk 12/27/2003 16:39",
+		"drawCurrentChangeSet" : "nk 4/15/2002 09:52",
+		"initialize" : "nk 12/27/2003 16:42",
+		"pasteUp" : "nk 10/15/2003 13:16",
+		"pasteUp:" : "nk 10/15/2003 13:19",
+		"removeAll" : "nk 7/17/2004 12:19" } }

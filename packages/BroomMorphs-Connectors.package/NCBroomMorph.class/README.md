@@ -1,0 +1,1 @@
+This is a BroomMorph that won't move labels or connectors.

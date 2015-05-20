@@ -1,0 +1,3 @@
+*connectors-classification
+isConnector
+	^false

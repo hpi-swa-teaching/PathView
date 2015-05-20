@@ -1,0 +1,14 @@
+{
+	"category" : "ConnectorsShapes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NCStateDiagramMorph",
+	"pools" : [
+		 ],
+	"super" : "NCUMLDiagramMorph",
+	"type" : "normal" }

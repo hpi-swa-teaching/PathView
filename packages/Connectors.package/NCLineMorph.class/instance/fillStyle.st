@@ -1,0 +1,4 @@
+visual properties
+fillStyle
+
+	^fillStyle

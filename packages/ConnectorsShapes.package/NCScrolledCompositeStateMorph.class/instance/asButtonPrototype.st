@@ -1,0 +1,3 @@
+dropping/grabbing
+asButtonPrototype
+	^super asButtonPrototype initializeScrollPane

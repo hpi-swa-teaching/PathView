@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"chooseArrowGlyphFor:selector:" : "dgd 8/26/2004 15:08" },
+	"instance" : {
+		"buildFormDict" : "nk 6/30/2004 16:08",
+		"chooseArrowGlyphFor:selector:" : "dgd 8/26/2004 15:09",
+		"defaultNameStemForInstances" : "cmm 12/4/2010 20:06",
+		"delete" : "nk 6/30/2004 15:45",
+		"glyphDictionary" : "nk 8/23/2003 20:43",
+		"nameOfGraphic" : "nk 6/30/2004 16:06",
+		"okay" : "nk 8/23/2003 20:41",
+		"openGlyphEditor" : "nk 6/30/2004 16:25",
+		"removeEntry" : "nk 6/30/2004 15:54",
+		"renameEntry" : "nk 8/31/2004 16:19",
+		"showMenu" : "nk 8/31/2004 16:22",
+		"update:" : "nk 6/30/2004 16:31",
+		"updateFromGlyphDictionary" : "nk 6/30/2004 16:14",
+		"updateThumbnail" : "nk 1/11/2004 17:43" } }

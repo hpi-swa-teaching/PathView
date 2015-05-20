@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addYellowButtonMenuItemsTo:event:" : "dgd 8/26/2004 15:05",
+		"becomeComposite" : "nk 10/21/2003 17:09",
+		"defaultBorderColor" : "nk 2/28/2006 09:54",
+		"defaultColor" : "nk 2/28/2006 09:50",
+		"initialize" : "nk 2/28/2006 09:54",
+		"preferredConnectorName" : "nk 10/28/2003 08:39",
+		"shapeNewConnector:vertices:ortho:curved:" : "nk 10/28/2003 09:30" } }

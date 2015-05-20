@@ -1,0 +1,3 @@
+dropping-grabbing
+newTransformationMorph
+	^NCTransformationMorph new

@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"adjustCurve" : "nk 8/21/2003 09:21",
+		"defaultNameStemForInstances" : "cmm 12/4/2010 20:04",
+		"dragStartPoint" : "nk 8/21/2003 13:59",
+		"drawOn:" : "nk 7/15/2003 07:20",
+		"handleMove:" : "nk 8/21/2003 09:31",
+		"initialize" : "nk 8/22/2003 20:47",
+		"isConnectable" : "nk 8/9/2004 16:24",
+		"isCurveHandle" : "nk 8/18/2003 09:15",
+		"isHandleMorph" : "nk 6/12/2004 16:20",
+		"morphicLayerNumber" : "nk 7/14/2003 22:32",
+		"mouseUpEvent" : "nk 2/28/2006 10:35",
+		"setPointSelector" : "nk 1/14/2004 21:46",
+		"setPointSelector:" : "nk 1/14/2004 21:46",
+		"startHandleDrag:" : "nk 8/19/2003 12:18",
+		"step" : "nk 8/22/2003 17:39",
+		"stepTime" : "nk 8/22/2003 21:44",
+		"stopHandleDrag:" : "nk 8/18/2003 10:24",
+		"target" : "nk 8/18/2003 08:55",
+		"target:arguments:getPointSelector:setPointSelector:" : "nk 8/22/2003 17:32",
+		"vertices" : "nk 8/20/2003 16:16" } }

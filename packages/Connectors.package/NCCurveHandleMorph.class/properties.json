@@ -1,0 +1,19 @@
+{
+	"category" : "Connectors-Lines and Curves",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"dragStartPoint",
+		"targetPoint",
+		"desiredPoint",
+		"getPoint",
+		"setPoint",
+		"offset" ],
+	"name" : "NCCurveHandleMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

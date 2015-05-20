@@ -1,0 +1,14 @@
+{
+	"category" : "Connectors-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"offset" ],
+	"name" : "NCOffsetConstraintMorph",
+	"pools" : [
+		 ],
+	"super" : "NCConstraintMorph",
+	"type" : "normal" }

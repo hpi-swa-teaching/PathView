@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"applyConstraint:" : "nk 4/13/2002 10:01",
+		"attachUnobnoxiouslyTo:at:" : "nk 6/17/2002 17:55",
+		"constrainedCenter:" : "nk 6/17/2002 17:30",
+		"initialize" : "nk 3/31/2002 11:31",
+		"input:" : "nk 4/5/2001 17:56",
+		"offset:" : "nk 6/17/2002 17:13",
+		"setOffset" : "nk 4/4/2001 18:24",
+		"step" : "nk 8/25/2003 14:29",
+		"visible" : "nk 4/5/2001 17:41" } }

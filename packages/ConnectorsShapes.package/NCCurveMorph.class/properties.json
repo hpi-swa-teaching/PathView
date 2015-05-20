@@ -1,0 +1,15 @@
+{
+	"category" : "ConnectorsShapes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"curve",
+		"shadowForm" ],
+	"name" : "NCCurveMorph",
+	"pools" : [
+		 ],
+	"super" : "NCTextRectangleMorph",
+	"type" : "normal" }

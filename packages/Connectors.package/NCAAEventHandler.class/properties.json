@@ -1,0 +1,14 @@
+{
+	"category" : "Connectors-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "NCAAEventHandler",
+	"pools" : [
+		 ],
+	"super" : "QHsmMorphicEventHandler",
+	"type" : "normal" }

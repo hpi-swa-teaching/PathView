@@ -1,0 +1,1 @@
+I am a shape that has one or more embedded TextMorphs, with optional lines between them.

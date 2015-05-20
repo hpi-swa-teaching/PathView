@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"newUMLClassSymbol" : "nk 7/17/2004 13:56",
+		"newUMLClassSymbolWithThreeBlocks" : "nk 12/27/2003 17:08",
+		"newUMLClassSymbolWithTwoBlocks" : "nk 12/27/2003 17:08",
+		"supplementaryPartsDescriptions" : "nk 8/31/2004 12:11" },
+	"instance" : {
+		"accept:from:" : "nk 12/27/2003 17:40",
+		"addAllMethods" : "nk 12/27/2003 17:05",
+		"addInstanceVariables" : "nk 12/27/2003 17:05",
+		"className:" : "nk 12/27/2003 17:06",
+		"initialize" : "nk 12/27/2003 16:55" } }

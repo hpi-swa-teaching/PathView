@@ -1,0 +1,14 @@
+{
+	"category" : "ConnectorsBasicDistro-Info",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ConnectorsBasicDistroInfo",
+	"pools" : [
+		 ],
+	"super" : "PackageInfo",
+	"type" : "normal" }

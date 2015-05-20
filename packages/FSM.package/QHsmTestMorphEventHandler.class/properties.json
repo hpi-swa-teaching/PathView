@@ -1,0 +1,14 @@
+{
+	"category" : "FSM-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "QHsmTestMorphEventHandler",
+	"pools" : [
+		 ],
+	"super" : "QHsmMorphicEventHandler",
+	"type" : "normal" }

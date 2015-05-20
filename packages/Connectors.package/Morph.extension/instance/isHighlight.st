@@ -1,0 +1,3 @@
+*connectors-private
+isHighlight
+	^false

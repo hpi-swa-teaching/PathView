@@ -1,0 +1,3 @@
+adjacency layout
+beAdjacent
+	^false

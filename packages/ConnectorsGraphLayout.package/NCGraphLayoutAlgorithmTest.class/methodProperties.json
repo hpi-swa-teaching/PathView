@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addRectangleNamed:at:" : "drm 7/10/2003 18:21",
+		"connect:to:" : "nk 3/8/2004 00:04",
+		"runGraph" : "nk 7/17/2004 15:25",
+		"setUp" : "nk 7/17/2004 15:25",
+		"testComplexTree" : "drm 7/26/2003 13:37",
+		"testK7" : "drm 7/26/2003 13:37",
+		"testOffPage" : "drm 7/26/2003 13:36",
+		"testSimpleTree" : "nk 7/17/2004 16:21" } }

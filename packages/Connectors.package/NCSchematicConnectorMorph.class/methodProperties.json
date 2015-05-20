@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"descriptionForPartsBin" : "nk 6/30/2004 14:06" },
+	"instance" : {
+		"initialize" : "nk 12/27/2003 12:35",
+		"step" : "nk 6/30/2004 14:13",
+		"wantsSteps" : "nk 12/27/2003 12:38",
+		"yellowButtonDown:onEnd:" : "nk 7/1/2002 17:39" } }

@@ -1,0 +1,3 @@
+geometry
+midpoint
+	^line midpoint

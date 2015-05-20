@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addYellowButtonMenuItemsTo:event:" : "dgd 8/26/2004 14:57",
+		"handlesMouseDown:" : "nk 3/27/2001 10:13",
+		"hasYellowButtonMenu" : "nk 1/23/2004 15:40",
+		"initialize" : "nk 4/3/2001 12:25",
+		"justDroppedInto:event:" : "nk 4/16/2002 16:04",
+		"mouseDown:" : "nk 6/24/2004 13:25" } }

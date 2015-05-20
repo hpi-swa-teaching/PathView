@@ -1,0 +1,3 @@
+drawing
+innerBounds
+	^self bounds

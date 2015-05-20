@@ -1,0 +1,3 @@
+graphs
+wantsGraphModel
+	^true

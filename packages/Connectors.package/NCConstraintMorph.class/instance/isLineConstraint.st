@@ -1,0 +1,3 @@
+testing
+isLineConstraint
+	^false

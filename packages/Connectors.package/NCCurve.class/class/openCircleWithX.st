@@ -1,0 +1,3 @@
+arrow forms
+openCircleWithX
+	self subclassResponsibility

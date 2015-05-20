@@ -1,0 +1,3 @@
+*connectors-embeddings
+shouldPromptForSlotForEmbeddedMorph: aMorph
+	^aMorph wantsConnectionWhenEmbedded not

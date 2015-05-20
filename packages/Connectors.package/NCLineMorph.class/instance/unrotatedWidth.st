@@ -1,0 +1,3 @@
+geometry
+unrotatedWidth
+	^self lineWidth

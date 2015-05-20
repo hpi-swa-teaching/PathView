@@ -1,0 +1,3 @@
+*connectors-connection
+isConnectable
+	^false

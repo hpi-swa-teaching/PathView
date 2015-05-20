@@ -1,0 +1,3 @@
+accessing
+originalFirstContour
+	self subclassResponsibility

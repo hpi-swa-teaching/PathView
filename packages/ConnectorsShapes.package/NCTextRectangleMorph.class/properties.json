@@ -1,0 +1,14 @@
+{
+	"category" : "ConnectorsShapes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "NCTextRectangleMorph",
+	"pools" : [
+		 ],
+	"super" : "NCBasicShapeMorph",
+	"type" : "normal" }

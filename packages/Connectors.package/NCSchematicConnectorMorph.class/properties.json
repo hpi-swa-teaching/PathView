@@ -1,0 +1,14 @@
+{
+	"category" : "Connectors-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "NCSchematicConnectorMorph",
+	"pools" : [
+		 ],
+	"super" : "NCAAConnectorMorph",
+	"type" : "normal" }

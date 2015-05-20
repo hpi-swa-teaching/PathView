@@ -1,0 +1,3 @@
+scripting
+authoringPrototype
+	^self initializedInstance markAsPartsDonor

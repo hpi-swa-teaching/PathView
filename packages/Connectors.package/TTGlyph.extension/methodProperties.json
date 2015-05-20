@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"asFormWithExtent:fgColor:bgColor:depth:replaceColor:" : "nk 8/17/2003 15:43",
+		"contoursShiftedToStartWith:" : "nk 8/19/2003 13:09",
+		"drawContourEndDotsOn:" : "nk 8/17/2003 17:01",
+		"drawOn:fgColor:" : "nk 8/17/2003 16:58",
+		"transformForExtent:" : "nk 8/17/2003 15:22",
+		"transformForRect:rotation:" : "nk 8/19/2003 12:49" } }

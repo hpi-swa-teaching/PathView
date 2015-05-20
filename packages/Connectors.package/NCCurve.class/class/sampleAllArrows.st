@@ -1,0 +1,3 @@
+testing
+sampleAllArrows
+	self subclassResponsibility

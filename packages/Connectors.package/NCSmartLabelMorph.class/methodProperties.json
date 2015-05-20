@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"supplementaryPartsDescriptions" : "nk 9/2/2004 10:04" },
+	"instance" : {
+		"addYellowButtonMenuItemsTo:event:" : "dgd 8/26/2004 15:05",
+		"applyConstraint:" : "nk 6/17/2002 17:33",
+		"attachUnobnoxiouslyTo:at:" : "nk 4/13/2002 11:34",
+		"needsToApplyConstraintGivenNewTarget:" : "nk 4/14/2002 10:41",
+		"stepTime" : "nk 8/25/2003 15:52" } }

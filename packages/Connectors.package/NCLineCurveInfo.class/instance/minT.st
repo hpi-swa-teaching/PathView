@@ -1,0 +1,3 @@
+accessing
+minT
+	^minT

@@ -1,0 +1,3 @@
+layout
+setUpForLayout
+	self setScale

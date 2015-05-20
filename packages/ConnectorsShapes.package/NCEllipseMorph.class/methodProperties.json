@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"initialize" : "nk 10/20/2003 07:57",
+		"newEndState" : "nk 10/20/2003 08:53",
+		"newStartState" : "nk 10/20/2003 08:53",
+		"registerInFlapsRegistry" : "nk 10/20/2003 07:57",
+		"supplementaryPartsDescriptions" : "nk 8/31/2004 12:24",
+		"unload" : "nk 10/20/2003 07:57" },
+	"instance" : {
+		"areasRemainingToFill:" : "nk 10/20/2003 07:57",
+		"bottomLeftCorner" : "nk 8/31/2004 14:25",
+		"bottomRightCorner" : "nk 8/31/2004 14:24",
+		"canDrawBorder:" : "nk 10/20/2003 07:57",
+		"canHaveFillStyles" : "nk 10/20/2003 07:57",
+		"closestPointTo:" : "nk 10/20/2003 07:57",
+		"containsPoint:" : "nk 10/20/2003 07:57",
+		"couldHaveRoundedCorners" : "nk 10/20/2003 07:57",
+		"defaultBorderWidth" : "nk 10/20/2003 07:57",
+		"defaultColor" : "nk 10/20/2003 07:57",
+		"doesBevels" : "nk 10/20/2003 07:57",
+		"drawOn:" : "nk 6/13/2004 14:33",
+		"initialize" : "nk 6/12/2004 20:31",
+		"intersectionWithLineSegmentFromCenterTo:" : "nk 10/20/2003 07:57",
+		"topLeftCorner" : "nk 8/31/2004 14:23",
+		"topRightCorner" : "nk 8/31/2004 14:25" } }

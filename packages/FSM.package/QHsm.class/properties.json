@@ -1,0 +1,15 @@
+{
+	"category" : "FSM-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "nk 12/22/2003 15:40",
+	"instvars" : [
+		"myState",
+		"mySource" ],
+	"name" : "QHsm",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

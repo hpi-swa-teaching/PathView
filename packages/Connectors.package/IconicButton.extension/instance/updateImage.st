@@ -1,0 +1,3 @@
+*connectors-buttons
+updateImage
+	

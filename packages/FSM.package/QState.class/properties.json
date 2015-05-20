@@ -1,0 +1,15 @@
+{
+	"category" : "FSM-Base",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"fsm",
+		"stateName" ],
+	"name" : "QState",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
