@@ -4,16 +4,20 @@ SWT15-Project-09 [![Build Status](https://travis-ci.org/HPI-SWA-Teaching/SWT15-P
 
 Install in 4.6
 ```smalltalk
+"install baseline" 
 {
 
 Metacello new
-	baseline: 'PathView';
-	"change to your path!"
-	repository: 'filetree://...myPath.../packages'.
+    baseline: 'PathView';
+    repository: 'filetree:///Users/sven/Documents/office/hpi/swt/pathview/packages'.
 
 }
 do: [ :baseline | baseline get ];
 do: [ :baseline | baseline 
-	onConflict: [ :ex | ex allow ];
-	load].
+    onConflict: [ :ex | ex allow ];
+    load
+].
+
+"add to Menu>>Apps"
+SPathView initialize 
 ```
