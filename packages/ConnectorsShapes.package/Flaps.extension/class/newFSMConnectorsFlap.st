@@ -11,9 +11,12 @@ newFSMConnectorsFlap
 	aFlapTab := FlapTab new referent: aStrip beSticky.
 	aFlapTab setName: 'FSM' edge: #bottom color: (Color blue muchLighter).
 	aFlapTab setBalloonText: aFlapTab balloonTextForFlapsMenu.
+	aFlapTab setToPopOutOnDragOver: false.
+	self currentWorld addMorphFront: aFlapTab.
 
 	aStrip beFlap: true.
 	aStrip extent: (self currentWorld width @ 78).
 	aStrip color: (Color blue muchLighter alpha: 0.8).
 	aStrip submorphsDo: [ :ea | ea updateImage ].
+	
 	^ aFlapTab

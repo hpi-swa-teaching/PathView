@@ -13,8 +13,11 @@ newClassDiagramConnectorsFlap
 	aFlapTab := FlapTab new referent: aStrip beSticky.
 	aFlapTab setName: 'Class Diagrams' edge: #bottom color: Color blue muchLighter.
 	aFlapTab setBalloonText: aFlapTab balloonTextForFlapsMenu.
+	aFlapTab setToPopOutOnDragOver: false.
+	self currentWorld addMorphFront: aFlapTab.
 
 	aStrip beFlap: true.
 	aStrip extent: (self currentWorld width @ 78).
 	aStrip submorphsDo: [ :ea | ea updateImage ].
+	
 	^aFlapTab

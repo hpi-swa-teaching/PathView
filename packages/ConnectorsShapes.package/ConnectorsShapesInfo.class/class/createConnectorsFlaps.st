@@ -1,16 +1,20 @@
 as yet unclassified
 createConnectorsFlaps
 	"ConnectorsShapesInfo createConnectorsFlaps"
-	| flap |
+	| wasShowing |
+
 	Utilities
 		informUser: 'Making new flaps (delete them if you want)...'
 		during: [
 			(Flaps globalFlapTab: 'FSM')
-				ifNil: [flap := Flaps newFSMConnectorsFlap openInWorld; setToPopOutOnDragOver: false.
-					Flaps addGlobalFlap: flap].
+				ifNil: [ Flaps addGlobalFlap: Flaps newFSMConnectorsFlap ].
 				
 			(Flaps globalFlapTab: 'Class Diagrams')
-				ifNil: [flap := Flaps newClassDiagramConnectorsFlap openInWorld; setToPopOutOnDragOver: false.
-					Flaps addGlobalFlap: flap].
+				ifNil: [ Flaps addGlobalFlap: Flaps newClassDiagramConnectorsFlap ].
 
-			Flaps positionNavigatorAndOtherFlapsAccordingToPreference]
+			wasShowing := Flaps showSharedFlaps.
+			wasShowing ifFalse: [ Project current flapsSuppressed: false ].
+
+			Flaps positionNavigatorAndOtherFlapsAccordingToPreference.
+
+			wasShowing ifFalse: [ Project current flapsSuppressed: true ] ]

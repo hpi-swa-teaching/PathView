@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfConnectors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfConnectors",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
