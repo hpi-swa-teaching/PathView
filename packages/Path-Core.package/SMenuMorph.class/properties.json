@@ -1,5 +1,5 @@
 {
-	"category" : "Path-Map-Morphic",
+	"category" : "Path-Core-Morphic",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
@@ -7,7 +7,7 @@
 	"commentStamp" : "<historical>",
 	"instvars" : [
 		"targetMorph" ],
-	"name" : "SPMMenuMorph",
+	"name" : "SMenuMorph",
 	"pools" : [
 		 ],
 	"super" : "RectangleMorph",

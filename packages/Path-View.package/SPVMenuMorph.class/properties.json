@@ -10,5 +10,5 @@
 	"name" : "SPVMenuMorph",
 	"pools" : [
 		 ],
-	"super" : "SPMMenuMorph",
+	"super" : "SMenuMorph",
 	"type" : "normal" }
