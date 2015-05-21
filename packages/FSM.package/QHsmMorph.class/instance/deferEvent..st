@@ -5,5 +5,5 @@ deferEvent: anEvent
 	self assuredEventHandler deferEvent: anEvent.
 	self startStepping: #processDeferredEvents
 		at: Time millisecondClockValue
-		arguments: EmptyArray
+		arguments: Array empty
 		stepTime: 10

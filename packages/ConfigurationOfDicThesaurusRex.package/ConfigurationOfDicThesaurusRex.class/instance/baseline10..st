@@ -6,7 +6,7 @@ baseline10: spec
 		spec blessing: #'baseline'.
 		
 		spec configuration: 'SpellingServices' with: [ spec repository: 'http://www.squeaksource.com/MetacelloRepository' ].
-		spec baseline: 'Widgets' with: [ spec repository: 'github://marceltaeumel/widgets:master/repository' ].
+		spec baseline: 'Widgets' with: [ spec repository: self class ownRepository ].
 		spec package: 'SwaUtil' with: [spec repository: self class swaUtilities].
 		
 		spec repository: 'http://www.hpi.uni-potsdam.de/hirschfeld/squeaksource/SwaUtilities'.

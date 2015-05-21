@@ -13,6 +13,7 @@ baseline: spec
 
 		spec package: 'VB-Regex' with: [spec repository: 'http://www.squeaksource.com/Regex'].
 					
+		spec repository: self class widgetsRepository.
 		spec
 			package: 'Icons' with: [
 				spec repository: 'http://www.hpi.uni-potsdam.de/hirschfeld/squeaksource/SwaUtilities'];
