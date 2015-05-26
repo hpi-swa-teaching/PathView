@@ -1,4 +1,0 @@
-project commands
-selectedProject
-
-	^ selectedProject

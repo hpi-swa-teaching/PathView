@@ -1,4 +1,0 @@
-wrapper instrumentation
-getWrapperClass
-
-	^ SStateInstanceVariableWrapper

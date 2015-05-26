@@ -1,4 +1,0 @@
-accessing
-label
-
-	^ 'Select Categories'

@@ -1,4 +1,0 @@
-accessing
-enableTestMode
-
-	testMode := true.

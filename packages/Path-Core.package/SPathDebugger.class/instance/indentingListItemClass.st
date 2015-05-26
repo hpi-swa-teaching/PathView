@@ -1,3 +1,0 @@
-building-pluggable-morphs
-indentingListItemClass
-	^ SDebuggerCodeExplorerIndentingListItemMorph
