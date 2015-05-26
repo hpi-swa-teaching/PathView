@@ -1,4 +1,0 @@
-hooks
-project
-	
-	^ SProject harvesterSandboxProject

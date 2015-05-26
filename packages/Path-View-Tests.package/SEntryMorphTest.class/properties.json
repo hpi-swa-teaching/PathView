@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"classMorph" ],
+	"name" : "SEntryMorphTest",
+	"pools" : [
+		 ],
+	"super" : "SPVMorphTest",
+	"type" : "normal" }

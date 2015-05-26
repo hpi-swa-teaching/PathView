@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SClassMorphVisitor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

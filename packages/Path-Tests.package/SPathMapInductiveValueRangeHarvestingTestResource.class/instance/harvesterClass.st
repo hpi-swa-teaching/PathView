@@ -1,3 +1,0 @@
-accessing
-harvesterClass
-	^ SValueRangeHarvester

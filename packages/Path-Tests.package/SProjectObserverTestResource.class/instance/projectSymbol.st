@@ -1,4 +1,0 @@
-hooks
-projectSymbol
-	
-	^ #observerExample

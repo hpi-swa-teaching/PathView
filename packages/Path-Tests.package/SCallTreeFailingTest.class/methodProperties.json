@@ -1,6 +1,0 @@
-{
-	"class" : {
-		"test" : "mp 7/12/2013 13:38:00.377" },
-	"instance" : {
-		"test01FailureExceptionInRegistry" : "mp 7/12/2013 13:45:01.812",
-		"test02FailureExceptionInEntryPoint" : "mp 7/16/2013 16:01:50.251" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SExpandableEntryMorphTest",
+	"pools" : [
+		 ],
+	"super" : "SEntryMorphTest",
+	"type" : "normal" }

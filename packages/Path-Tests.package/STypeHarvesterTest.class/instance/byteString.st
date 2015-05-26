@@ -1,3 +1,0 @@
-accessing
-byteString
-	self subclassResponsibility.

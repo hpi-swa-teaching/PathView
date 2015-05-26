@@ -1,3 +1,0 @@
-accessing
-byteSymbol
-	self subclassResponsibility.

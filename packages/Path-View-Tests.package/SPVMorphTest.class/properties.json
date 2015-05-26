@@ -1,0 +1,19 @@
+{
+	"category" : "Path-View-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"klass",
+		"testClass",
+		"instance",
+		"previousProject",
+		"testProject",
+		"associatedTestClass" ],
+	"name" : "SPVMorphTest",
+	"pools" : [
+		 ],
+	"super" : "Spec",
+	"type" : "normal" }

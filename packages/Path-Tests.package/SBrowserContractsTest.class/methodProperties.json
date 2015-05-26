@@ -1,8 +1,0 @@
-{
-	"class" : {
-		"resources" : "mp 5/13/2013 10:40:28.236" },
-	"instance" : {
-		"test01AddedContracts" : "mp 5/14/2013 14:58:16.261",
-		"test02ShowInvariants" : "mp 3/27/2013 13:30:25.135",
-		"test03ShowPreconditions" : "mp 3/27/2013 13:31:54.013",
-		"test04ShowPostconditions" : "mp 3/27/2013 13:32:34.797" } }

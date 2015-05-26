@@ -1,3 +1,0 @@
-accessing
-bucket
-	self subclassResponsibility.
