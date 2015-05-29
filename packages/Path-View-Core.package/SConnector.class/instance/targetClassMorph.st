@@ -1,0 +1,4 @@
+accessing
+targetClassMorph
+	
+	^ targetMorph classMorph

@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Core-ClassMorph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"eventActions" ],
+	"name" : "SBehaviorMorph",
+	"pools" : [
+		 ],
+	"super" : "SExpandableEntryMorphWithSummary",
+	"type" : "normal" }

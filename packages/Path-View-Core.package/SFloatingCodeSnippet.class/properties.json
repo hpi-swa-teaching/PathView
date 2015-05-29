@@ -1,0 +1,15 @@
+{
+	"category" : "Path-View-Core-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"originalMethod",
+		"selectionInterval" ],
+	"name" : "SFloatingCodeSnippet",
+	"pools" : [
+		 ],
+	"super" : "TextMorph",
+	"type" : "normal" }

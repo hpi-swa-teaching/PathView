@@ -1,0 +1,4 @@
+accessing
+isPseudoEdge
+	
+	self subclassResponsibility.

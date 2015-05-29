@@ -1,0 +1,4 @@
+testing
+isClassMorph 
+	
+	^ true

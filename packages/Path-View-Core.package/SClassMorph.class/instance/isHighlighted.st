@@ -1,0 +1,4 @@
+highlighting
+isHighlighted
+	
+	^ highlightColor notNil

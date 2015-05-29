@@ -1,0 +1,15 @@
+{
+	"category" : "Path-View-Core-GraphLayout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"fromNode",
+		"toNode" ],
+	"name" : "SAbstractGraphEdge",
+	"pools" : [
+		 ],
+	"super" : "SGraphElement",
+	"type" : "normal" }

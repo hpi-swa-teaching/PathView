@@ -1,0 +1,17 @@
+{
+	"category" : "Path-View-Core-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"leftBar",
+		"topBar",
+		"rightBar",
+		"bottomBar" ],
+	"name" : "SDiagramMorphToolbar",
+	"pools" : [
+		 ],
+	"super" : "SPopupMorph",
+	"type" : "normal" }

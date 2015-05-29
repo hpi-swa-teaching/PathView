@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Core-ClassMorph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SInheritanceMorph",
+	"pools" : [
+		 ],
+	"super" : "SEntryMorph",
+	"type" : "normal" }

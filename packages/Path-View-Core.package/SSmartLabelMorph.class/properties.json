@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Core-Connector",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"connector" ],
+	"name" : "SSmartLabelMorph",
+	"pools" : [
+		 ],
+	"super" : "NCSmartLabelMorph",
+	"type" : "normal" }

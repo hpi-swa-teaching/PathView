@@ -4,11 +4,11 @@
 	"instance" : {
 		"aboutToSearchInstanceIn:" : "tfel 5/5/2011 14:35:13.2",
 		"expectedFailures" : "mp 3/26/2013 11:16:38.865",
-		"testShouldAnswerAnAssociationIfTheClassIsADictionary" : "mp 5/8/2013 11:39:06.8",
+		"testShouldAnswerAnAssociationIfTheClassIsADictionary" : "NR 5/29/2015 15:45:33.471",
 		"testShouldAnswerTheClassIfItKnowsIt" : "tfel 2/14/2012 11:15:33.437",
-		"testShouldAnswerTheCollectionIfTheClassIsACollection" : "mp 5/8/2013 11:39:15.884",
-		"testShouldAskForAClassIfItIsUnknown" : "mp 5/8/2013 11:39:21.493",
-		"testShouldBeConvertibleToAnAssociationArrow" : "mp 7/16/2013 13:18:33.208",
-		"testShouldBeConvertibleToAnAssociationArrowThatHasTheCorrectOwner" : "mp 7/16/2013 13:18:42.581",
-		"testShouldNotBecomePinnedIfDragged" : "mp 3/26/2013 11:06:50.845",
-		"testShouldStayVisibleIfDragged" : "mp 3/26/2013 11:05:59.986" } }
+		"testShouldAnswerTheCollectionIfTheClassIsACollection" : "NR 5/29/2015 15:45:39.362",
+		"testShouldAskForAClassIfItIsUnknown" : "NR 5/29/2015 15:45:43.553",
+		"testShouldBeConvertibleToAnAssociationArrow" : "NR 5/29/2015 15:45:15.727",
+		"testShouldBeConvertibleToAnAssociationArrowThatHasTheCorrectOwner" : "NR 5/29/2015 15:45:19.635",
+		"testShouldNotBecomePinnedIfDragged" : "NR 5/29/2015 15:45:23.972",
+		"testShouldStayVisibleIfDragged" : "NR 5/29/2015 15:45:28.477" } }

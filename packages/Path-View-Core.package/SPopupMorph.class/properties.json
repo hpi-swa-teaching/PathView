@@ -1,0 +1,17 @@
+{
+	"category" : "Path-View-Core-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"morph",
+		"parentMorph",
+		"morphHovered",
+		"selfHovered" ],
+	"name" : "SPopupMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

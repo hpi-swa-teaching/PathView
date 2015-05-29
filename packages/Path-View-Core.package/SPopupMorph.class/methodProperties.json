@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"on:" : "ag 8/30/2011 10:00:32.938" },
+	"instance" : {
+		"aboutToBeGrabbedBy:" : "ag 12/26/2011 13:09:55.768",
+		"activate" : "ag 9/9/2011 10:50:49.033",
+		"appear" : "ag 9/9/2011 12:07:13.331",
+		"disappear" : "ag 8/26/2011 13:48:17.568",
+		"handlesMouseOver:" : "ag 8/26/2011 13:49:30.124",
+		"hideSimilarPopups" : "ag 9/23/2011 16:50:35.226",
+		"initialize" : "ag 9/30/2011 13:02:21.874",
+		"morph:" : "ag 9/9/2011 10:53:50.733",
+		"morphUnhovered" : "ag 8/26/2011 13:56:45.292",
+		"mouseLeave:" : "ag 8/26/2011 13:51:14.697",
+		"updateParentMorph" : "ag 12/29/2011 11:44:50.133" } }

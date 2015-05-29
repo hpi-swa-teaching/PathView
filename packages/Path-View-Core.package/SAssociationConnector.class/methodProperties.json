@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"arrowTypes" : "ag 12/26/2011 13:14:42.527",
+		"existingConnectorFrom:to:variableName:" : "ag 7/5/2012 11:25:16.754",
+		"instanceName" : "ag 12/26/2011 13:14:28.724",
+		"openFor:connectedTo:variableName:variableType:" : "mp 7/16/2013 13:53:09.294",
+		"simpleXArrow" : "ag 12/26/2011 13:00:25.329",
+		"xElement" : "fb 5/19/2011 13:58:45.548" },
+	"instance" : {
+		"accept:" : "tfel 6/12/2012 14:53:50.981",
+		"addRoleLabel" : "ag 4/18/2012 16:19:31.616",
+		"isConsistent" : "ag 12/27/2011 11:24:59.763",
+		"isDuplicateOf:" : "ag 7/5/2012 11:32:39.187",
+		"isValid" : "tfel 6/26/2012 18:33:10.153",
+		"labelClass" : "ag 12/26/2011 13:19:47.005",
+		"roleLabelString:" : "ag 11/11/2011 11:38:07.498",
+		"update" : "ag 12/26/2011 15:17:37.228",
+		"variableName" : "ag 12/26/2011 15:17:37.225",
+		"variableName:" : "tfel 7/12/2011 14:31:32.905",
+		"variableType" : "tfel 7/5/2012 13:51:24.069",
+		"variableType:" : "tfel 7/5/2012 13:51:24.078" } }

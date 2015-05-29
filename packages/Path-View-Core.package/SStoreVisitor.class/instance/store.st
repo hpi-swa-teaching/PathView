@@ -1,0 +1,4 @@
+storing
+store
+
+	^ store copy

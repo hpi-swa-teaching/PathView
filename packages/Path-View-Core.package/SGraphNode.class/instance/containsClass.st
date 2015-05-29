@@ -1,0 +1,4 @@
+accessing
+containsClass
+	
+	^ false

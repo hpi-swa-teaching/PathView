@@ -1,0 +1,16 @@
+{
+	"category" : "Path-View-Core-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"change",
+		"parent",
+		"changes" ],
+	"name" : "SRefactoringChange",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

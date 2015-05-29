@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Core-Visitors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SVisitorNotification",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

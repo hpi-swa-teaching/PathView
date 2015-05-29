@@ -1,0 +1,4 @@
+accessing
+cancelLabel
+
+	^ 'Cancel' translated

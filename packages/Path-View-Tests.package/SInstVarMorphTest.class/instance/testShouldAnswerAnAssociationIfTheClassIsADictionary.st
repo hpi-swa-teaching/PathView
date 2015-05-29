@@ -1,7 +1,6 @@
 get class tests
 testShouldAnswerAnAssociationIfTheClassIsADictionary
-
-	(testProject typesBucket membersFor: testClass) 
+	"(testProject typesBucket membersFor: testClass) 
 		atAllPut: (SContainerType new
 					typeOfContainer: Dictionary new;
 					typeOfElements: testClass;
@@ -9,4 +8,4 @@ testShouldAnswerAnAssociationIfTheClassIsADictionary
 					yourself).
 	[self assert: (instance getClass = (Symbol -> testClass))]
 		ensure: [(testProject typesBucket membersFor: testClass) 
-					atAllPut: testClass].
+					atAllPut: testClass]."

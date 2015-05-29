@@ -1,0 +1,16 @@
+{
+	"category" : "Path-View-Core-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"viewAreaMorph",
+		"miniMap",
+		"scrollPane" ],
+	"name" : "SPathViewDiagramSpec",
+	"pools" : [
+		 ],
+	"super" : "PluggablePanelSpec",
+	"type" : "normal" }

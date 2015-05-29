@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Core-Connector",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SNoteConnector",
+	"pools" : [
+		 ],
+	"super" : "SConnector",
+	"type" : "normal" }

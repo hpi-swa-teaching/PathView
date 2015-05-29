@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Core-Refactorings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"targetClass" ],
+	"name" : "SAddMethodRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBAddMethodRefactoring",
+	"type" : "normal" }

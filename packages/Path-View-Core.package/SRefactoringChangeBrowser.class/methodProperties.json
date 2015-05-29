@@ -1,0 +1,28 @@
+{
+	"class" : {
+		"openChange:" : "tfel 6/4/2012 14:14:28.861",
+		"openChange:onClose:" : "ag 6/4/2012 16:02:55.214" },
+	"instance" : {
+		"accept" : "sp 6/5/2012 11:42:35.403",
+		"acceptLabel" : "tfel 6/4/2012 14:18:21.261",
+		"buildButtons" : "sp 6/28/2012 17:35:50.743",
+		"buildCodePane" : "sp 6/28/2012 16:37:50.398",
+		"buildList" : "tfel 6/4/2012 14:03:12.028",
+		"cancel" : "tfel 6/4/2012 13:53:00.624",
+		"cancelLabel" : "tfel 6/4/2012 12:33:24.891",
+		"change:" : "tfel 6/4/2012 13:31:05.473",
+		"closeBoxHit" : "ag 6/4/2012 16:01:21.696",
+		"doItContext" : "tfel 6/4/2012 13:58:07.776",
+		"doItReceiver" : "tfel 6/4/2012 14:16:26.709",
+		"done" : "sp 6/28/2012 17:35:19.055",
+		"doneLabel" : "sp 6/28/2012 17:35:35.079",
+		"ifNilGetEmptyString:" : "sp 7/2/2012 13:47:55.006",
+		"initialize" : "tfel 6/4/2012 14:02:15.646",
+		"onClose:" : "ag 6/4/2012 16:02:27.441",
+		"open" : "tfel 6/4/2012 15:17:07.542",
+		"refactoringText" : "sp 7/2/2012 13:48:38.89",
+		"refactoringText:" : "tfel 6/4/2012 15:09:09.803",
+		"refactorings" : "sp 6/22/2012 12:06:48.347",
+		"selectedChange" : "tfel 6/4/2012 14:41:24.891",
+		"selectedRefactoring" : "tfel 6/4/2012 14:02:20.29",
+		"selectedRefactoring:" : "tfel 6/4/2012 14:05:40.321" } }

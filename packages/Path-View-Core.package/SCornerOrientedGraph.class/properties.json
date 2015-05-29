@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Core-GraphLayout",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SCornerOrientedGraph",
+	"pools" : [
+		 ],
+	"super" : "SGraph",
+	"type" : "normal" }
