@@ -15,7 +15,7 @@ Metacello new
 do: [ :baseline | baseline get ];
 do: [ :baseline | baseline 
     onConflict: [ :ex | ex allow ];
-    load
+    load: 'Tests'
 ].
 
 "add to Menu>>Apps"
