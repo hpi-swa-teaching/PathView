@@ -1,4 +1,4 @@
 test configuration
 sandboxCategory
 
-	^ 'Path-Tests-PathView-Sandbox'
+	^ 'Path-View-Tests-Sandbox'
