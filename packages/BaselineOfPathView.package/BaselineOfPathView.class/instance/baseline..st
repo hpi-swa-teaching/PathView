@@ -21,7 +21,6 @@ baseline: spec
 		"path tools packages"
 		spec
 			package: 'Path-Core' with: [ spec requires: #( 'SwaUtil' 'MethodWrappers' 'Animations' 'Icons') ];
-			 "package: 'Path-Harvester' with: [ spec requires: #('Path-Core') ];"
 			package: 'Path-View-Core' with: [spec
 				requires: #('Connectors' 'RefactoringBrowser' 'Path-Core' 'SwaMC' 'SSpec')
 				"postLoadDoIt: #postLoadConnectorsArrows" ];

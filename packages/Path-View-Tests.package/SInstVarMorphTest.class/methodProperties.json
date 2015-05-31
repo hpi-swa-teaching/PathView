@@ -1,6 +1,6 @@
 {
 	"class" : {
-		 },
+		"isAbstract" : "Nr 5/31/2015 10:13:34.086" },
 	"instance" : {
 		"aboutToSearchInstanceIn:" : "tfel 5/5/2011 14:35:13.2",
 		"expectedFailures" : "mp 3/26/2013 11:16:38.865",
