@@ -29,6 +29,6 @@ baseline: spec
 			package: 'Path-View-Tests' with: [ spec requires: #('Path-View-Core' 'MorphicUITestingFramework') ].
 
 		spec
-			group: 'default' with: #('Path-View');
+			group: 'default' with: #('Path-View-Core');
 			group: 'Tests' with: #('Path-View-Tests');
 			group: 'TravisCI' with: #('Tests') ].
