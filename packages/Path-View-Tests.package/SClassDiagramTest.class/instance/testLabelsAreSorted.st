@@ -1,12 +1,12 @@
 testing
 testLabelsAreSorted
-	| collectionWithTestClass labels |
+	| collectionWithTestClass labels correctLabels |
 	
 	collectionWithTestClass := OrderedCollection newFrom: { testClass. instance class }.
+      correctLabels := OrderedCollection newFrom: {'new...'}.
+	correctLabels addAll: (collectionWithTestClass collect: [:each | each name]).
 
 	self mock: #getClasses of: instance class toReturn: collectionWithTestClass during: [
 		labels := instance getLabelsFromClasses: (instance getClasses) ifEmpty: [].
-		self assert: [ labels first = 'new...' ].
-		self assert: [ (labels at: 2) =  testClass name ].
-		self assert: [ labels last = instance class name ]
+		self assert: [ labels hasEqualElements: correctLabels].
 	]
