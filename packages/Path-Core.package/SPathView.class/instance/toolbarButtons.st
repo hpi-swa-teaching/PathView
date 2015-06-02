@@ -4,16 +4,13 @@ toolbarButtons
 	These buttons represent a toolbar; they contain actions for altering the contents of the class-diagram."
 	
 	^ #(
-		('Extend diagram area' #extendArea #alwaysEnabled)
-		('Add ...' #addNoteOrClass #alwaysEnabled)
-		('Toggle labels' #toggleLabels #alwaysEnabled)
+		('File' #fileMenu #alwaysEnabled)
+		('Add note' #addNote #alwaysEnabled)
+		('Add class' #addClass #alwaysEnabled)
 		('Zoom in' #zoomIn #alwaysEnabled)
 		('Zoom out' #zoomOut #canZoomOut)
-		('Mini-map --' #minimapSmaller #canScaleMinimapSmaller)
-		('Mini-map ++' #minimapBigger #canScaleMinimapBigger)
-		('Smoothing --' #smoothDown #canSmoothDown)
-		('Smoothing ++' #smoothUp #canSmoothUp)
 		('Layout' #layoutGraph #alwaysEnabled)
+		('Preferences' #openPreferences #alwaysEnabled)
 		
 "The auto-layout buttons are disabled; when deleting this, also delete all implementation-methods in SClassDiagram and SClassMorph."
 "		('Trigger Auto Layout' #startLayouting #isLayoutNotRunning)
