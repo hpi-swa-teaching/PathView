@@ -1,4 +1,4 @@
-*Path-View-Tests-testing
+*Path-View-Core-testing
 isClassDiagramMorph 
 
 	^ false
