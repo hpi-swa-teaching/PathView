@@ -3,8 +3,9 @@
 		"forMorph:" : "ag 12/29/2011 15:55:39.638" },
 	"instance" : {
 		"centerAround:" : "ag 12/30/2011 16:42:30.552",
+		"extent:" : "AI 6/8/2015 19:34:18.735",
 		"initialize" : "ag 12/30/2011 12:57:52.461",
-		"initializeScrollBars" : "ag 12/29/2011 15:25:16.413",
+		"initializeScrollBars" : "AI 6/8/2015 11:26:56.728",
 		"scaleChangedTo:" : "mp 7/16/2013 14:10:28.834",
 		"scrollInsideBoundsBy:" : "ag 12/30/2011 16:36:40.941",
 		"scrollerMoved:" : "ag 4/19/2012 13:51:06.317",

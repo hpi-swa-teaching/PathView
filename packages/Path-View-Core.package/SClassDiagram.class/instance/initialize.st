@@ -3,7 +3,7 @@ initialize
 	
 	super initialize.
 	self
-		extent: 1500@1500;
+		extent: 1000@1000;
 		borderColor: Color gray;
 		color: Color white.
 	classMorphs := OrderedCollection new.
