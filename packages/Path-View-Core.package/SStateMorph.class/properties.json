@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Core-ClassMorph",
+	"classinstvars" : [
+		"variableAccess" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"type" ],
+	"name" : "SStateMorph",
+	"pools" : [
+		 ],
+	"super" : "SExpandableEntryMorphWithSummary",
+	"type" : "normal" }

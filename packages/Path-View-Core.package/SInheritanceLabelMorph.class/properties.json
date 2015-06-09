@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Core-Connector",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"classCollection" ],
+	"name" : "SInheritanceLabelMorph",
+	"pools" : [
+		 ],
+	"super" : "SSmartLabelMorph",
+	"type" : "normal" }

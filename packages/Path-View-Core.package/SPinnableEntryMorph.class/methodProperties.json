@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"pinnedColor" : "ag 12/10/2011 16:03:20.725" },
+	"instance" : {
+		"clicked" : "ag 9/22/2011 19:32:17.492",
+		"currentColor" : "ag 12/10/2011 16:03:36.367",
+		"initialize" : "ag 12/10/2011 15:21:54.338",
+		"isPinnable" : "ag 12/9/2011 18:04:28.215",
+		"isPinned" : "ag 9/22/2011 12:59:41.821",
+		"needsToBeShown" : "ag 12/9/2011 12:45:00.824",
+		"pin" : "ag 12/10/2011 15:29:03.467",
+		"removePinVisualization" : "ag 4/18/2012 14:57:00.237",
+		"togglePin" : "ag 9/22/2011 18:43:01.877",
+		"unpin" : "ag 12/10/2011 15:28:59.929",
+		"updatePinVisualization" : "ag 4/18/2012 14:57:14.792",
+		"visualizePinState:" : "ag 12/10/2011 15:24:52.738" } }

@@ -1,0 +1,4 @@
+accessing
+originalEdge
+	
+	^ originalEdge originalEdge

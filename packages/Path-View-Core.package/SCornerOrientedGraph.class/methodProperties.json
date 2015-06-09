@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"assertCornerConsistency" : "ag 4/18/2012 13:13:28.878",
+		"assignCorners" : "ag 2/25/2012 17:49:36.671",
+		"assignCornersOf:" : "ag 2/17/2012 14:48:46.763",
+		"assignPositions" : "ag 3/15/2012 20:21:36.658",
+		"assignPositionsFromMatrix:columnWidths:rowHeights:" : "ag 2/24/2012 22:39:38.281",
+		"assignPositionsNaively" : "ag 2/24/2012 00:22:35.172",
+		"attach:asCloseAsPossibleTo:" : "ag 2/17/2012 14:50:18.817",
+		"attach:directlyTo:" : "ag 3/6/2012 19:36:25.236",
+		"attach:to:" : "ag 2/17/2012 14:49:04.572",
+		"columnAndRowCentersOfMatrix:" : "ag 3/15/2012 20:21:08.076",
+		"columnAndRowDimensionsOfMatrix:" : "ag 2/24/2012 22:36:10.738",
+		"doPerformLayout" : "ag 3/7/2012 10:52:40.442",
+		"extentOfMatrix:" : "ag 2/24/2012 18:42:34.275",
+		"normalizeMatrixPositions:" : "ag 2/24/2012 00:54:36.706",
+		"positionNeighborsOf:alreadyPositioned:" : "ag 2/19/2012 12:49:39.088",
+		"positionNeighborsOf:intoMatrix:" : "ag 2/24/2012 00:34:17.109",
+		"recursivelyAttachTo:from:" : "ag 2/19/2012 21:07:38.573" } }

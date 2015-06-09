@@ -1,0 +1,4 @@
+accessing
+graphSourceMorph
+	
+	^ sourceMorph classMorph

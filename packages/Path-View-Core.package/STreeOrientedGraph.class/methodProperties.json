@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"basedOn:withRoot:" : "ag 2/18/2012 20:58:39.317",
+		"inheritanceTreeWithRoot:" : "ag 2/18/2012 20:57:43.251" },
+	"instance" : {
+		"childrenOf:" : "ag 2/15/2012 13:46:36.893",
+		"collectChildrenOf:into:" : "ag 2/16/2012 11:35:13.07",
+		"collectRecursiveWidths:into:" : "ag 2/15/2012 14:37:06.769",
+		"doPerformLayout" : "ag 2/17/2012 12:25:59.963",
+		"inheritanceTreeNodes" : "ag 2/18/2012 20:48:29.328",
+		"root:" : "ag 2/15/2012 13:51:47.908",
+		"setPositionOf:rowStart:currentRowWidth:widthDictionary:totalHeight:" : "ag 2/16/2012 13:31:22.229",
+		"treeRuleBlock:" : "ag 2/15/2012 13:48:35.289" } }

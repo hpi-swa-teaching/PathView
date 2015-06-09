@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Core-Refactorings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"senders" ],
+	"name" : "SRenameMethodRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBRenameMethodRefactoring",
+	"type" : "normal" }

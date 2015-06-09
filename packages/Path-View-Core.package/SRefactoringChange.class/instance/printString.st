@@ -1,0 +1,4 @@
+proxying
+printString
+
+	^ change printString

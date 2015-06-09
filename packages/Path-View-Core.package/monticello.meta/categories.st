@@ -1,0 +1,8 @@
+SystemOrganization addCategory: #'Path-View-Core-ClassMorph'!
+SystemOrganization addCategory: #'Path-View-Core-Connector'!
+SystemOrganization addCategory: #'Path-View-Core-GraphLayout'!
+SystemOrganization addCategory: #'Path-View-Core-Monticello'!
+SystemOrganization addCategory: #'Path-View-Core-Morphic'!
+SystemOrganization addCategory: #'Path-View-Core-Refactorings'!
+SystemOrganization addCategory: #'Path-View-Core-Tools'!
+SystemOrganization addCategory: #'Path-View-Core-Visitors'!

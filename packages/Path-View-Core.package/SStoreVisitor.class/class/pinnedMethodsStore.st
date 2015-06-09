@@ -1,0 +1,4 @@
+stores
+pinnedMethodsStore
+
+	^ #pinnedMethods

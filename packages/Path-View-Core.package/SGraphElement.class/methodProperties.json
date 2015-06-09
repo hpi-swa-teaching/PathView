@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"buildFrom:" : "ag 2/15/2012 14:11:51.958",
+		"createFrom:" : "ag 2/17/2012 13:10:51.936",
+		"debugPoint:in:" : "ag 6/4/2012 13:19:25.834",
+		"isAbstract" : "ag 2/15/2012 09:29:33.034",
+		"wrapsInstancesOf:" : "ag 2/14/2012 17:56:21.947" },
+	"instance" : {
+		"applyLayout" : "ag 2/14/2012 21:54:25.134",
+		"debugPoint:" : "ag 6/4/2012 13:19:49.668",
+		"debugPoint:text:" : "ag 4/2/2012 15:48:43.874",
+		"morph" : "ag 2/15/2012 13:53:21.419",
+		"morph:" : "ag 2/14/2012 21:55:02",
+		"offsetBy:" : "ag 2/15/2012 12:53:30.032",
+		"subgraphNode" : "ag 3/30/2012 14:46:29.571",
+		"subgraphNode:" : "ag 3/30/2012 14:46:29.6" } }

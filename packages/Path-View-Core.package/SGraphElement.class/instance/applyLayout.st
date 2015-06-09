@@ -1,0 +1,4 @@
+layout
+applyLayout
+	
+	self subclassResponsibility.

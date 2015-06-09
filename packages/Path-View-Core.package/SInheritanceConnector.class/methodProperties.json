@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"arrowTypes" : "ag 12/26/2011 13:18:35.783",
+		"bigOpenArrow" : "fb 5/31/2011 11:37:23.732",
+		"instanceName" : "ag 12/26/2011 13:19:03.348" },
+	"instance" : {
+		"accept:" : "tfel 6/12/2012 14:53:42.143",
+		"allowsDetachmentOfConstraint:" : "ag 6/4/2012 13:09:13.251",
+		"defaultColor" : "ag 7/2/2012 14:56:28.48",
+		"exitDraggingEnd" : "tfel 6/26/2012 18:20:47.686",
+		"findMorphFor:" : "ag 6/23/2012 11:11:29.713",
+		"getClassesInBetween" : "ag 12/26/2011 15:17:37.22",
+		"hoveredClassMorph" : "ag 6/4/2012 15:29:40.528",
+		"hoveredClassMorphs" : "ag 6/4/2012 15:26:06.653",
+		"initialize" : "ag 12/26/2011 13:15:18.945",
+		"initializeLabel" : "ag 7/2/2012 16:21:29.739",
+		"isValid" : "ag 7/2/2012 14:54:25.868",
+		"labelClass" : "mp 7/16/2013 13:56:24.468",
+		"lineEndPosition" : "ag 6/4/2012 15:26:29.382",
+		"refactorSuperclassTo:rollbackTo:" : "tfel 6/26/2012 18:24:09.444",
+		"restoreConsistency" : "ag 12/27/2011 11:29:56.635",
+		"step" : "ag 7/2/2012 16:18:37.621",
+		"superclassRefactoringAllowed:" : "ag 6/23/2012 12:53:16.232" } }

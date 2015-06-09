@@ -1,0 +1,17 @@
+{
+	"category" : "Path-View-Core-Connector",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"sourceMorph",
+		"targetMorph",
+		"toolbar",
+		"label" ],
+	"name" : "SConnector",
+	"pools" : [
+		 ],
+	"super" : "NCAAConnectorMorph",
+	"type" : "normal" }

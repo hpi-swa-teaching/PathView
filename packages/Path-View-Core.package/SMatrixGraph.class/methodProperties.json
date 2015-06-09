@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"assignPositions" : "ag 3/15/2012 21:28:29.614",
+		"assignPositionsFromColumnWidths:rowHeights:" : "ag 3/15/2012 20:42:25.905",
+		"attach:to:" : "ag 3/15/2012 21:04:43.453",
+		"columnAndRowCenters" : "ag 3/15/2012 20:26:49.132",
+		"columnAndRowDimensions" : "ag 3/15/2012 21:32:32.704",
+		"doPerformLayout" : "ag 3/15/2012 21:31:59.145",
+		"extentOfMatrix" : "ag 3/15/2012 20:43:08.915",
+		"fillMatrix" : "ag 3/15/2012 21:28:38.591",
+		"findPositionAround:satisfying:" : "ag 3/15/2012 21:23:58.012",
+		"normalizeMatrixPositions" : "ag 3/15/2012 21:30:04.797",
+		"offsetMatrixBy:" : "ag 3/15/2012 21:31:24.283",
+		"position:inMatrixAt:" : "ag 3/15/2012 20:45:28.041",
+		"positionNeighborsOf:" : "ag 3/15/2012 20:34:37.19",
+		"positionsAround:" : "ag 3/15/2012 20:51:02.023",
+		"recursivelyAttachTo:from:" : "ag 3/15/2012 20:34:22.585" } }

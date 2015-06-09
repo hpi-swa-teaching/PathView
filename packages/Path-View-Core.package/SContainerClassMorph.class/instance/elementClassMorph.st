@@ -1,0 +1,4 @@
+accessing
+elementClassMorph
+	
+	^ embeddedClassMorph elementClassMorph

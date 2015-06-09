@@ -1,0 +1,4 @@
+stores
+associationsStore
+
+	^ #associations

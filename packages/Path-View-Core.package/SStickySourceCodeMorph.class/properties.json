@@ -1,0 +1,17 @@
+{
+	"category" : "Path-View-Core-ClassMorph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"sourceCodeMorph",
+		"lines",
+		"partner",
+		"syntaxHighlightingLocked" ],
+	"name" : "SStickySourceCodeMorph",
+	"pools" : [
+		 ],
+	"super" : "SMorphWithToolbar",
+	"type" : "normal" }

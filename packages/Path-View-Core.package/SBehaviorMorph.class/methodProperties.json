@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"interestingSystemEvents" : "sp 6/28/2012 09:28:54.372",
+		"systemEventHandler" : "tfel 4/30/2011 21:37:20.977" },
+	"instance" : {
+		"accept:" : "tfel 6/28/2012 07:02:00.498",
+		"allEntries" : "mp 7/16/2013 13:28:40.189",
+		"allEntriesCount" : "ag 7/2/2012 14:14:52.307",
+		"categories" : "ag 7/2/2012 14:10:06.028",
+		"categoryChanges:" : "sp 6/28/2012 09:35:03.96",
+		"createEntries" : "ag 7/2/2012 14:09:47.936",
+		"initialize" : "tfel 5/31/2011 13:56:49.471",
+		"isEquivalentTo:" : "pt 6/27/2012 09:28:52.772",
+		"labelString" : "ag 4/18/2012 16:55:03.354",
+		"methodMorphFor:" : "ag 3/30/2012 11:31:31.807" } }

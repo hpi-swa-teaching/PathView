@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"anchorNodes" : "ag 3/30/2012 16:49:19.002",
+		"from:to:" : "ag 2/18/2012 18:39:25.318",
+		"fromNode" : "ag 2/17/2012 12:49:26.254",
+		"isConnectionInside:" : "ag 2/17/2012 12:50:10.35",
+		"isPseudoEdge" : "ag 3/15/2012 11:12:04.526",
+		"offsetBy:" : "ag 3/30/2012 16:54:32.692",
+		"originalEdge" : "ag 3/14/2012 14:07:15.918",
+		"prepareLayout" : "ag 3/30/2012 17:23:37.061",
+		"pseudoEdgesDo:" : "mp 7/16/2013 13:57:55.309",
+		"rejectAnchorNodes:" : "ag 3/30/2012 16:57:13.013",
+		"toNode" : "ag 2/17/2012 12:50:25.545" } }

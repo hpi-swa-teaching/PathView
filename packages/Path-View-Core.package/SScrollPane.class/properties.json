@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Core-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SScrollPane",
+	"pools" : [
+		 ],
+	"super" : "ScrollPane",
+	"type" : "normal" }

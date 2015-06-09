@@ -1,0 +1,3 @@
+accessing
+areaExtension
+	^ areaExtension

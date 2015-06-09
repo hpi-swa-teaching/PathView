@@ -1,0 +1,4 @@
+arrows
+arrowTypes
+	
+	self subclassResponsibility

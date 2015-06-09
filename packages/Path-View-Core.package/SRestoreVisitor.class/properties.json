@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Core-Visitors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"store" ],
+	"name" : "SRestoreVisitor",
+	"pools" : [
+		 ],
+	"super" : "SClassMorphVisitor",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"hoveredBackground" : "ag 11/11/2011 17:00:04.631",
+		"openOn:" : "ag 10/28/2011 12:45:48.534" },
+	"instance" : {
+		"aboutToBeGrabbedBy:" : "ag 11/11/2011 16:56:10.33",
+		"connector:" : "fb 6/16/2011 11:47:05.239",
+		"grabAction" : "ag 10/12/2011 15:28:51.836",
+		"handlesMouseOver:" : "ag 11/11/2011 16:53:05.692",
+		"hasGrabAction" : "ag 10/12/2011 15:19:08.044",
+		"initializeString:" : "ag 10/28/2011 12:42:38.919",
+		"mouseEnter:" : "ag 11/11/2011 16:58:31.474",
+		"mouseLeave:" : "ag 11/11/2011 16:56:24.573",
+		"unhighlight" : "ag 11/11/2011 16:56:33.606" } }

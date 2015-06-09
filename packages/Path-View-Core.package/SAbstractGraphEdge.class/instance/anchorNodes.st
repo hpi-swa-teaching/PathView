@@ -1,0 +1,4 @@
+accessing
+anchorNodes
+	
+	^ { fromNode. toNode }

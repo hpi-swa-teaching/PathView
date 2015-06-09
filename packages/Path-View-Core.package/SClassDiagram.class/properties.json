@@ -1,0 +1,25 @@
+{
+	"category" : "Path-View-Core-ClassMorph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DebugOpenRandomMethods",
+		"DebugShowSubgraphs" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"classMorphs",
+		"selectionMorph",
+		"savedName",
+		"dirty",
+		"labelsHidden",
+		"layoutProcess",
+		"layoutingLocked",
+		"multiWindowState",
+		"savedStates",
+		"currentState",
+		"openMutex" ],
+	"name" : "SClassDiagram",
+	"pools" : [
+		 ],
+	"super" : "SPasteUpMorph",
+	"type" : "normal" }

@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"associationsStore" : "tfel 6/12/2012 15:16:17.747",
+		"classStore" : "tfel 6/12/2012 15:15:51.919",
+		"inheritanceStore" : "tfel 6/12/2012 15:16:52.156",
+		"notesStore" : "tfel 6/12/2012 15:17:02.481",
+		"pinnedMethodsStore" : "tfel 6/12/2012 15:16:39.001",
+		"pinnedVariablesStore" : "tfel 6/12/2012 15:58:05.619",
+		"sourceCodeStore" : "tfel 6/12/2012 15:16:27.538",
+		"store:" : "pt 7/2/2012 11:55:05.416" },
+	"instance" : {
+		"add:to:" : "tfel 6/12/2012 13:31:46.655",
+		"initialize" : "tfel 6/12/2012 13:32:12.197",
+		"store" : "tfel 6/12/2012 13:31:51.957",
+		"visitAssociationConnection:" : "tfel 7/5/2012 13:52:47.332",
+		"visitClass:" : "tfel 7/3/2012 15:04:40.172",
+		"visitContainerClass:" : "sp 7/5/2012 13:50:16.267",
+		"visitInheritanceConnection:" : "tfel 6/12/2012 16:42:21.011",
+		"visitInstVar:" : "tfel 6/12/2012 15:13:27.855",
+		"visitMethod:" : "tfel 6/12/2012 15:13:36.796",
+		"visitNote:" : "tfel 6/12/2012 15:13:46.509",
+		"visitStickySourceCode:" : "tfel 6/12/2012 16:18:35.877" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Core-Refactorings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"targetClass" ],
+	"name" : "SExtractMethodRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBExtractMethodRefactoring",
+	"type" : "normal" }

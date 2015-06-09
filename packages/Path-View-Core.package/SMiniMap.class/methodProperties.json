@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"for:" : "ag 9/15/2011 20:07:00.993",
+		"on:" : "mp 1/22/2011 22:25:59.585",
+		"on:in:" : "ag 9/15/2011 20:36:51.767" },
+	"instance" : {
+		"hideByDefault" : "ag 5/18/2012 16:43:57.395",
+		"hideByDefault:" : "mp 7/16/2013 14:09:55.408",
+		"initialize" : "ag 12/29/2011 17:16:48.172",
+		"initializeThumbnailMorph" : "ag 12/31/2011 10:00:30.852",
+		"initializeViewportMorph" : "ag 12/30/2011 16:19:20.094",
+		"noteNewOwner:" : "ag 5/18/2012 22:50:08.238",
+		"refreshExtent" : "ag 12/29/2011 18:03:38.634",
+		"refreshViewport" : "ag 4/19/2012 13:51:35.131",
+		"scalingFactor" : "ag 9/15/2011 21:11:38.818",
+		"scalingFactor:" : "ag 9/15/2011 21:11:56.32",
+		"scrollPane:" : "ag 9/15/2011 11:03:55.323",
+		"smoothing" : "ag 12/31/2011 09:53:55.885",
+		"smoothing:" : "ag 12/31/2011 09:54:00.756",
+		"viewedMorph:" : "ag 9/15/2011 11:03:46.565",
+		"viewportJumped:" : "ag 12/26/2011 12:38:19.898",
+		"viewportMoved:" : "ag 12/30/2011 16:32:53.689",
+		"viewportStartedDrag:" : "ag 9/15/2011 19:29:49.295",
+		"zoomedScalingFactor" : "ag 12/30/2011 16:33:12.305" } }
