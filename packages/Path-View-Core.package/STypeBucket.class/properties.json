@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Core-Types",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "STypeBucket",
+	"pools" : [
+		 ],
+	"super" : "SBucket",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "Path-View-Core-Types",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"arguments",
+		"returns",
+		"members",
+		"creationDate" ],
+	"name" : "SBucket",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

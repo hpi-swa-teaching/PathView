@@ -1,13 +1,12 @@
 menu actions
 getClass
 	^ self getClassFromTypeHarvest 
-		ifNil: [self askForClass].
-            "TODO: Use TypeHarvester if available"
-		"ifNotNilDo: [:class |
-			(class isKindOf: SContainerType) ifTrue: [
+		ifNil: [self askForClass]
+		ifNotNilDo: [:class |
+			(class name = #SContainerType) ifTrue: [
 				class typeOfContainer isDictionary ifTrue: [
 					class typeOfKeys ifNil: [
-						class typeOfKeys: (self userSelectedContainerClass: 'key-type')]].
+						class perform: #typeOfKeys: with: (self userSelectedContainerClass: 'key-type')]].
 				class typeOfElements ifNil: [
-					class typeOfElements: (self userSelectedContainerClass: 'value-type')]].
-			class]"
+					class perform: #typeOfElements: with: (self userSelectedContainerClass: 'value-type')]].
+			class]

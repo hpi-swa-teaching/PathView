@@ -6,3 +6,4 @@ SystemOrganization addCategory: #'Path-View-Core-Morphic'!
 SystemOrganization addCategory: #'Path-View-Core-Refactorings'!
 SystemOrganization addCategory: #'Path-View-Core-Tools'!
 SystemOrganization addCategory: #'Path-View-Core-Visitors'!
+SystemOrganization addCategory: #'Path-View-Core-Types'!
