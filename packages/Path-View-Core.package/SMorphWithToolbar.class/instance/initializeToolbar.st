@@ -10,4 +10,5 @@ initializeToolbar
 					model: self
 					action: each second
 					enabled: each fourth
-					edge: each third ] ].
+					edge: each third
+					tooltip: each fifth ] ].
