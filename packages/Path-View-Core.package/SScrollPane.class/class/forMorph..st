@@ -1,7 +1,9 @@
 instance creation
-forMorph: aMorph
+forMorph: aClassDiagramMorph
 	
 	| instance |
 	instance := self new.
-	instance scroller addMorph: aMorph..
+	instance scroller addMorph: aClassDiagramMorph.
+	instance classDiagramMorph: aClassDiagramMorph.
+	instance containsDiagram: true.
 	^ instance
