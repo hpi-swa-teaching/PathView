@@ -2,12 +2,5 @@
 	"class" : {
 		 },
 	"instance" : {
-		"resizeBottomRightOf:by:" : "AI 6/8/2015 20:16:13.07",
-		"resizeTopLeftOf:by:" : "AI 6/8/2015 20:06:31.206",
 		"setUp" : "AI 6/8/2015 19:04:47.059",
-		"tearDown" : "AI 6/8/2015 19:10:31.372",
-		"testClassDiagramExtent" : "AI 6/8/2015 19:05:36.699",
-		"testResizeDown" : "AI 6/8/2015 20:38:23.558",
-		"testResizeLeft" : "AI 6/8/2015 20:39:43.444",
-		"testResizeRight" : "AI 6/8/2015 20:38:34.621",
-		"testResizeUp" : "AI 6/8/2015 20:12:25.347" } }
+		"tearDown" : "AI 6/10/2015 10:52:45.763" } }
