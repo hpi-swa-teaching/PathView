@@ -6,4 +6,5 @@ forMorph: aClassDiagramMorph
 	instance scroller addMorph: aClassDiagramMorph.
 	instance classDiagramMorph: aClassDiagramMorph.
 	instance containsDiagram: true.
+	aClassDiagramMorph scrollPane: instance.
 	^ instance

@@ -1,13 +1,13 @@
 {
 	"class" : {
-		"forMorph:" : "AI 6/9/2015 16:11:07.725" },
+		"forMorph:" : "AI 6/14/2015 10:02:58.302" },
 	"instance" : {
 		"centerAround:" : "ag 12/30/2011 16:42:30.552",
 		"classDiagramMorph" : "AI 6/9/2015 15:54:10.124",
 		"classDiagramMorph:" : "AI 6/9/2015 15:53:56.756",
 		"containsDiagram" : "AI 6/9/2015 16:12:01.133",
 		"containsDiagram:" : "AI 6/9/2015 16:02:00.627",
-		"extent:" : "AI 6/9/2015 16:02:39.875",
+		"extent:" : "AI 6/10/2015 13:31:54.285",
 		"initialize" : "AI 6/9/2015 18:03:20.676",
 		"initializeScrollBars" : "AI 6/8/2015 11:26:56.728",
 		"scaleChangedTo:" : "mp 7/16/2013 14:10:28.834",

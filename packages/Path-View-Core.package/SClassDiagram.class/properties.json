@@ -17,7 +17,8 @@
 		"multiWindowState",
 		"savedStates",
 		"currentState",
-		"openMutex" ],
+		"openMutex",
+		"scrollPane" ],
 	"name" : "SClassDiagram",
 	"pools" : [
 		 ],

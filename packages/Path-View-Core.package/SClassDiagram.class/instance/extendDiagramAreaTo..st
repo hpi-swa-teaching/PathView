@@ -1,5 +1,5 @@
 geometry
-extendDiagramAreaFrom: oldBounds To: newBounds
+extendDiagramAreaTo: newBounds
 
 	| bounds |
 	bounds := self boundsInWorld.
