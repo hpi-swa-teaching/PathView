@@ -15,7 +15,7 @@
 		"testAddClassSelectsCorrectClass" : "SM 5/21/2015 01:02:22.336",
 		"testBoundingBox" : "SM 6/9/2015 14:47:20.094",
 		"testBoundingBoxForMultipleClasses" : "SM 6/9/2015 15:03:39.248",
-		"testDiagramNeedsExtension" : "SM 6/9/2015 16:52:23.174",
+		"testDiagramNeedsExtension" : "SM 6/14/2015 16:18:30.865",
 		"testEmptyBoundingBox" : "SM 6/9/2015 14:31:42.289",
 		"testFailsSilentlyForRandomlyDroppedMorphs" : "tfel 7/14/2011 15:03:19.449",
 		"testLabelsAreSorted" : "NR 5/31/2015 11:25:35.168",

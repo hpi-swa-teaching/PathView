@@ -1,5 +1,6 @@
 testing
 testDiagramNeedsExtension
+	"a morph is dropped at different positions inside/ overlapping a class diagram"
 
 	| bounds |
 	bounds := instance bounds.

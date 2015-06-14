@@ -16,8 +16,8 @@ acceptDroppingMorph: aMorph event: anEvent
 
 	super acceptDroppingMorph: newMorph event: anEvent.
 
-	(self diagramNeedsExtensionFor: aMorph) ifTrue: 
-		[ self extendDiagramFor: aMorph event: anEvent ].
+	(self diagramNeedsExtensionFor: aMorph) ifTrue: [ 
+		self extendDiagramFor: aMorph ].
 
 	newMorph isClassMorph & (isNewMorph | aMorph isClassMorph not) ifTrue: [
 		newMorph showLabels: labelsHidden not.
