@@ -9,5 +9,4 @@ toolbarButtons
 		(#layersStackIcon #browseClassHierarchy #top #toolbarButtonAlwaysEnabled 'browse class hierarchy')
 		(#balloonBuzzLeftIcon #changeColor #top #toolbarButtonAlwaysEnabled 'change color')
 		(#stickyNoteIcon #addClassCommentAsNote #right #toolbarButtonAlwaysEnabled 'add class comment as note')
-		(#stickyNotePlusIcon #addNote #right #toolbarButtonAlwaysEnabled 'add note')
-	)
+		(#stickyNotePlusIcon #addNote #right #toolbarButtonAlwaysEnabled 'add note'))
