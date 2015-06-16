@@ -31,9 +31,9 @@ Metacello new
 do: [ :baseline | baseline get ];
 do: [ :baseline | baseline 
     onConflict: [ :ex | ex allow ];
-    load
+    load: 'TravisCI'
 ].
-  
+
 
 "Run the tests"
 TravisCIHarness
