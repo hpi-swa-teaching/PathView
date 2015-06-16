@@ -11,7 +11,7 @@ Metacello new
   repository: 'filetree://', gitPath, '/SWT15-Project-09/packages';
   do: [ :baseline | baseline get ];
   do: [ :baseline | baseline 
-    onConflict: [ :ex | ex allow ].
+    onConflict: [ :ex | ex allow ]].
 
 Metacello new
   baseline: 'PathView';
@@ -21,5 +21,6 @@ Metacello new
 "Run the tests"
 TravisCIHarness
   value: #( 'BaselineOfPathView' )
+  value: #( 'BaselineOfConnectors')
   value: 'TravisCISuccess.txt' 
   value: 'TravisCIFailure.txt'.
