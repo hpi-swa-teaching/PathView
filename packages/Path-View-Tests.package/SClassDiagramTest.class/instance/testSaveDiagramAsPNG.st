@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 testSaveDiagramAsPNG
 	| instance testName staticBounds|
 	staticBounds := 50@50 corner: 40@30.

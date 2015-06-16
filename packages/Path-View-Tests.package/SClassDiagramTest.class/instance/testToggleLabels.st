@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 testToggleLabels
 
 	| dummyClassMorphs classDiagram classNameMorph elemShownBefore elemShownAfter elemShownAfter2 |

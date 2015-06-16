@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 testCloseDiagram
 	| instance firstState|
 	instance := klass new.

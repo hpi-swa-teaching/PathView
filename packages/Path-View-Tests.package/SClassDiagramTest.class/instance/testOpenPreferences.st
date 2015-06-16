@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 testOpenPreferences
 
 	| prefBrowser prefBrowserMorph |
