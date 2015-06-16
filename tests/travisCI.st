@@ -16,6 +16,12 @@ Metacello new
   repository: 'filetree://', gitPath, '/SWT15-Project-09/packages';
   load: 'TravisCI'.
 
+Metacello new
+  baseline: 'Graphics';
+  repository: http://source.squeak.org/trunk;
+  load.
+
+
 "Run the tests"
 TravisCIHarness
   value: #( 'BaselineOfPathView' )
