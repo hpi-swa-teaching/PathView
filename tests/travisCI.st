@@ -6,7 +6,7 @@ gitPath := (Smalltalk at: #'FileDirectory' ifAbsent: [  ])
   ifNil: [ ((Smalltalk at: #'FileSystem') workingDirectory / gitCache) pathString ]
   ifNotNil: [:fileDirectoryClass | (fileDirectoryClass default directoryNamed: gitCache ) fullName].
 
-Metacello new
+"Metacello new
   baseline: 'PathView';
   repository: 'filetree://', gitPath, '/SWT15-Project-09/packages';
   get.
@@ -14,9 +14,9 @@ Metacello new
 Metacello new
   baseline: 'PathView';
   repository: 'filetree://', gitPath, '/SWT15-Project-09/packages';
-  load.
+  load."
 
-"{
+{
 
 Metacello new
     baseline: 'PathView';
@@ -26,8 +26,8 @@ Metacello new
 do: [ :baseline | baseline get ];
 do: [ :baseline | baseline 
     onConflict: [ :ex | ex allow ];
-    load: 'TravisCI'
-]."
+    load: 'Tests'
+].
 
 
 "Run the tests"
