@@ -1,4 +1,4 @@
 noteResizing
 expandNote
 
-	(self textMorph) extent: self lastExtent
+	self textMorph extent: self lastExtent

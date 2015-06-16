@@ -14,7 +14,7 @@ drawOn: aCanvas
 	
 	aCanvas isShadowDrawing ifTrue: [ ^self ].
 	aCanvas drawPolygon: { triangleCorners first .
-	self topRight - (self borderWidth@0).
-	self bottomRight - (self borderWidth@self borderWidth).
-	self bottomLeft - (0 @ self borderWidth).
+	self topRight - (self borderWidth@0) .
+	self bottomRight - (self borderWidth@self borderWidth) .
+	self bottomLeft - (0 @ self borderWidth) .
 	triangleCorners second } fillStyle: Color transparent borderWidth: self borderWidth borderColor: self borderColor.

@@ -1,9 +1,9 @@
 as yet unclassified
 testShouldToggleExtent
-	
 	"test fails if collapsed texfield height is smaller than 28, because autoFit is enabled"
+
 	| beforeToggleExtent afterToggleExtent afterSecondToggleExtent |
-	
+
 	beforeToggleExtent := instance textMorph extent.
 	instance toggleNote.
 	afterToggleExtent := instance textMorph extent.

@@ -1,5 +1,6 @@
 as yet unclassified
 testSetText
+
 	| text textMorphText | 
 	text := 'test text'.
 	instance setText: text.
