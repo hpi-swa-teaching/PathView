@@ -9,18 +9,14 @@ gitPath := (Smalltalk at: #'FileDirectory' ifAbsent: [  ])
 Metacello new
   baseline: 'PathView';
   repository: 'filetree://', gitPath, '/SWT15-Project-09/packages';
-  get.
+  do: [ :baseline | baseline get ];
+  do: [ :baseline | baseline 
+    onConflict: [ :ex | ex allow ].
 
 Metacello new
   baseline: 'PathView';
   repository: 'filetree://', gitPath, '/SWT15-Project-09/packages';
   load: 'TravisCI'.
-
-Metacello new
-  baseline: 'Graphics';
-  repository: http://source.squeak.org/trunk;
-  load.
-
 
 "Run the tests"
 TravisCIHarness
