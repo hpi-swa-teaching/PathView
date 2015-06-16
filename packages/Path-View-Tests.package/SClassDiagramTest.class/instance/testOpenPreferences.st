@@ -3,7 +3,7 @@ testOpenPreferences
 
 	| prefBrowser prefBrowserMorph |
 
-	SClassDiagram new openPreferences.
+	klass new openPreferences.
 
 	prefBrowserMorph := [World submorphs detect: [ :morph | morph class name = #PreferenceBrowserMorph]]
 		on: NotFound

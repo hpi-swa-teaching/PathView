@@ -4,7 +4,7 @@ testToggleLabels
 	| dummyClassMorphs classDiagram classNameMorph elemShownBefore elemShownAfter elemShownAfter2 |
 	"ClassMorph of a random class"
 	dummyClassMorphs := OrderedCollection newFrom: { SClassMorph on: testClass}.
-	classDiagram := SClassDiagram new.
+	classDiagram := klass new.
 
 	classDiagram instVarNamed: 'classMorphs' put: dummyClassMorphs.
 	"First element of submorphs have to be a SClassNameMorph"
