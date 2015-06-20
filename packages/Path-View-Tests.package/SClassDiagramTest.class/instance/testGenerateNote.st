@@ -1,7 +1,8 @@
 testing
 testGenerateNote
 	| hand|
-	klass new addNote.
+
+	instance addNote.
 	hand := self currentHand submorphs first.
 	self assert: [ hand class name = SNoteMorph name ].
-	self currentHand removeMorph: hand.
+	self currentHand removeMorph: hand

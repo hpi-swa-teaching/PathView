@@ -8,5 +8,4 @@ testLabelsAreSorted
 
 	self mock: #getClasses of: instance class toReturn: collectionWithTestClass during: [
 		labels := instance getLabelsFromClasses: (instance getClasses) ifEmpty: [].
-		self assert: [ labels hasEqualElements: correctLabels].
-	]
+		self assert: [ labels hasEqualElements: correctLabels ]]

@@ -1,8 +1,8 @@
 testing
 testRevertingToNonExistingVersion
-	| instance check |
-	check := true.
-	self mock: #savedVersion of: SClassDiagram  toReturn: nil  during: [
-	instance := klass new.
-	[instance revert on: Error do: [ check := false]].
-	self assert: [check].]
+	| check |
+
+	check := false.
+	self mock: #savedVersion of: SClassDiagram  toReturn: nil  during:[
+	[instance revert] on: Error do: [ check := true].
+	self assert: [ check ]]

@@ -14,7 +14,7 @@ gitPath := (Smalltalk at: #'FileDirectory' ifAbsent: [  ])
 Metacello new
   baseline: 'PathView';
   repository: 'filetree://', gitPath, '/SWT15-Project-09/packages';
-  load."
+  load: 'TravisCI."
 
 {
 
