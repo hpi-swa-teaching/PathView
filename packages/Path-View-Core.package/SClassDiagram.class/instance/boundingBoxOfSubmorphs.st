@@ -1,12 +1,11 @@
 geometry
 boundingBoxOfSubmorphs
-	"calculate the bounding box of all morphs in the view - also notes"
+	"calculate the bounding box of all morphs in the view including notes"
 
 	| emptyRectangle |
-	^ (self submorphs notEmpty) 
-	ifTrue: [emptyRectangle := (self submorphs at: 1) bounds.
-		^ self submorphs  
-			inject: emptyRectangle 
-			into: [ :rectangle :each |
-				rectangle quickMerge: each fullBounds ]]
-	ifFalse: [0@0 corner: 0@0]
+	emptyRectangle := 0@0 corner: 0@0.
+
+	^ self submorphs  
+		inject: emptyRectangle 
+		into: [ :rectangle :each | rectangle quickMerge: each fullBounds ]
+	
