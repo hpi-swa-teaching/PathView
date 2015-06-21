@@ -1,4 +1,4 @@
-| gitPath gitCache |
+| test gitPath gitCache |
 Transcript cr; show: 'travis---->travisCI.st'.
 
 gitCache := 'git_cache'.
@@ -6,7 +6,7 @@ gitPath := (Smalltalk at: #'FileDirectory' ifAbsent: [  ])
   ifNil: [ ((Smalltalk at: #'FileSystem') workingDirectory / gitCache) pathString ]
   ifNotNil: [:fileDirectoryClass | (fileDirectoryClass default directoryNamed: gitCache ) fullName].
 
-Metacello new
+"Metacello new
   baseline: 'PathView';
   repository: 'filetree://', gitPath, '/SWT15-Project-09/packages';
   get.
@@ -14,7 +14,21 @@ Metacello new
 Metacello new
   baseline: 'PathView';
   repository: 'filetree://', gitPath, '/SWT15-Project-09/packages';
-  load: 'TravisCI'.
+  load: 'TravisCI."
+
+{
+
+Metacello new
+    baseline: 'PathView';
+    repository: 'filetree://', gitPath, '/SWT15-Project-09/packages'.
+
+}
+do: [ :baseline | baseline get ];
+do: [ :baseline | baseline 
+    onConflict: [ :ex | ex allow ];
+    load: 'Tests'
+].
+
 
 "Run the tests"
 TravisCIHarness
