@@ -24,6 +24,7 @@
 		"testResizeRight" : "AI 6/10/2015 10:34:19.535",
 		"testResizeUp" : "AI 6/10/2015 10:35:55.818",
 		"testTransferredMorphHasDropPosition" : "mp 7/16/2013 13:17:20.994",
-		"testTruncate" : "AI 6/20/2015 13:58:13.355",
+		"testTruncateDiagram" : "AI 6/21/2015 14:16:46.769",
+		"testTruncateOfEmptyDiagram" : "AI 6/21/2015 14:16:32.398",
 		"transferEventFor:" : "tfel 4/28/2011 16:47:10.507",
 		"transferEventFor:withType:" : "tfel 4/28/2011 16:47:16.837" } }
