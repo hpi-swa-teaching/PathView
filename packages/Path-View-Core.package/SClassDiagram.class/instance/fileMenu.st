@@ -3,7 +3,7 @@ fileMenu
 	| choices entry |
 	choices := (savedStates associations collect: [:association | 
 		association key -> association value first -> [self switchTo: association key]]),
-			{'New' -> [self new]. 
+			{'New' -> [self newDiagram]. 
 			'Open' -> [self open]. 
 			'Close' -> [self close]}.
 

@@ -4,7 +4,7 @@ testCloseDiagram
 
 	firstState := (instance instVarNamed: 'currentState').
 	instance 	
-		new;
+		newDiagram;
 		close.
 	self assert: [ firstState = (instance instVarNamed: 'currentState') ]
 					

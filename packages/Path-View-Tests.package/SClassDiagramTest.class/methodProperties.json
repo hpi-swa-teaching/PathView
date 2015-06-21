@@ -9,7 +9,7 @@
 		"testAcceptsClassDropsFromBrowser" : "tfel 7/14/2011 15:03:04.021",
 		"testAcceptsClassDropsFromOmniBrowser" : "fp 6/20/2015 12:58:31.844",
 		"testAddClassSelectsCorrectClass" : "fp 6/20/2015 12:58:07.223",
-		"testCloseDiagram" : "fp 6/20/2015 12:57:51.576",
+		"testCloseDiagram" : "fp 6/21/2015 18:23:32.935",
 		"testFailsSilentlyForRandomlyDroppedMorphs" : "tfel 7/14/2011 15:03:19.449",
 		"testGenerateNote" : "fp 6/20/2015 12:57:41.249",
 		"testLabelsAreSorted" : "fp 6/20/2015 12:57:34.749",
