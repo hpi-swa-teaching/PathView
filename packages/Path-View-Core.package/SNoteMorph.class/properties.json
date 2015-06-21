@@ -7,7 +7,9 @@
 	"commentStamp" : "<historical>",
 	"instvars" : [
 		"contentText",
-		"textMorph" ],
+		"textMorph",
+		"isCollapsed",
+		"lastExtent" ],
 	"name" : "SNoteMorph",
 	"pools" : [
 		 ],
