@@ -1,6 +1,5 @@
 text
 setText: aString
 	
-	contentText := aString.
-	textMorph setText: textMorph getText.
+	self contentText: aString.
 	self changed: #contentText.

@@ -4,5 +4,5 @@ toolbarButtons
 	label, selector, position, condition"
 	
 	^ #(
-		(#crossButtonIcon #dismissViaHalo #left #toolbarButtonAlwaysEnabled)
+		(#crossButtonIcon #dismissViaHalo #left #toolbarButtonAlwaysEnabled 'delete')
 	)

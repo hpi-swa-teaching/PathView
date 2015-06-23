@@ -12,5 +12,4 @@ testAddClassSelectsCorrectClass
 
 		hand := self currentHand submorphs first.
 		self assert: [ hand class name = SClassMorph name ].
-		self assert: [ hand klass name = (labels at: moreThanOneClass) ]
-	] ].
+		self assert: [ hand klass name = (labels at: moreThanOneClass) ]]]

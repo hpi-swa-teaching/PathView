@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "NR 6/16/2015 22:19:00.407",
+		"testSetText" : "NR 6/16/2015 23:07:12.965",
+		"testShouldToggleExtent" : "NR 6/16/2015 23:08:10.34",
+		"testShouldToggleIsCollapsedFlag" : "NR 6/16/2015 18:58:50.34" } }

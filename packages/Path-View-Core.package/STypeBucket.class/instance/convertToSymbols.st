@@ -1,0 +1,4 @@
+monticello conversion
+convertToSymbols
+
+	self subclassResponsibility.

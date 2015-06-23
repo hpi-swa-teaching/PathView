@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"forPoly:" : "mp 5/3/2011 14:43:10.545" },
+	"instance" : {
+		"=" : "mp 5/3/2011 13:13:35.071",
+		"collectionTemplate" : "mp 5/14/2013 15:03:23.991",
+		"dictionaryTemplate" : "mp 5/14/2013 15:03:25.815",
+		"doesNotUnderstand:" : "tfel 7/22/2011 11:23:27.52",
+		"hash" : "mp 5/3/2011 13:13:39.417",
+		"innerTypeOfElements" : "mp 5/3/2012 09:18:05.915",
+		"print:contractsFor:typed:with:" : "mp 5/14/2013 14:57:28.657",
+		"printChildrenContract:with:" : "mp 5/2/2013 14:12:52.834",
+		"printContractFor:with:" : "mp 1/21/2013 16:19:29.831",
+		"printString" : "mp 5/3/2011 16:21:04.408",
+		"respondsTo:" : "mp 11/1/2011 14:45:40.247",
+		"storeString" : "tfel 7/5/2012 14:27:40.867",
+		"theMetaClass" : "fb 5/12/2011 14:29:32.289",
+		"theNonMetaClass" : "fb 5/12/2011 14:29:15.32",
+		"typeOfContainer" : "mp 5/2/2011 11:33:22.639",
+		"typeOfContainer:" : "mp 5/2/2011 11:33:22.656",
+		"typeOfElements" : "mp 5/3/2011 14:36:37.804",
+		"typeOfElements:" : "mp 5/3/2011 13:12:51.847",
+		"typeOfKeys" : "mp 5/3/2011 14:36:41.315",
+		"typeOfKeys:" : "mp 5/3/2011 13:12:51.881" } }

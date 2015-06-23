@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Core-Types",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "SMonoTypeBucket",
+	"pools" : [
+		 ],
+	"super" : "STypeBucket",
+	"type" : "normal" }

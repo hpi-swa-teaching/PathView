@@ -3,7 +3,11 @@ updateLabel
 	
 	| variableType |
 	super updateLabel.
-	variableType := self getClassFromTypeHarvest.
+	
+	isTypeSet
+		ifTrue: [variableType := type]
+		ifFalse: [variableType := self getClassFromTypeHarvest].
+
 	(variableType isNil or: [variableType isBehavior]) ifFalse: [ | vT |
 		vT := variableType.
 		variableType := vT typeOfContainer asString, '<'.

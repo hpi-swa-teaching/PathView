@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SNoteMorphTest",
+	"pools" : [
+		 ],
+	"super" : "SPVMorphTest",
+	"type" : "normal" }

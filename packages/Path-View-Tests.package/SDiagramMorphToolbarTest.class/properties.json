@@ -1,0 +1,14 @@
+{
+	"category" : "Path-View-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SDiagramMorphToolbarTest",
+	"pools" : [
+		 ],
+	"super" : "SPVMorphTest",
+	"type" : "normal" }
