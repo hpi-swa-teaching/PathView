@@ -15,7 +15,8 @@
 		"oldHighlightColor",
 		"layoutMovementVector",
 		"nameMorph",
-		"implementationMorph" ],
+		"implementationMorph",
+		"labelOverlayMorph" ],
 	"name" : "SClassMorph",
 	"pools" : [
 		 ],
