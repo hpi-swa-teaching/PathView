@@ -1,4 +1,4 @@
 toolbar-actions
 alwaysEnabled
 
-	^true
+	^ true
