@@ -1,0 +1,4 @@
+constants
+zoomMax
+	
+	^ 2

@@ -1,0 +1,4 @@
+constants
+defaultZoomLevel
+	
+	^ 2
