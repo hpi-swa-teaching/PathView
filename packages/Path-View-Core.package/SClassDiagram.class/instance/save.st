@@ -2,7 +2,10 @@ menu-actions
 save
 	| oldSavedName |
 	oldSavedName := savedName.
-	(self submorphs anySatisfy: #isError) ifTrue: [^ self inform: 'I refuse to save inconsistent diagrams!'].
+
+	(self submorphs anySatisfy: #isError) ifTrue: [ 
+		^ self inform: 'I refuse to save inconsistent diagrams!' ].
+
 	savedName := UIManager default
 		request: 'Enter a name for this view'
 		initialAnswer: ( savedName ifNil: [ '' ] ).
@@ -11,9 +14,8 @@ save
 		ifTrue: [
 			self inform: 'Save aborted'.
 			savedName := oldSavedName.
-			self dirty: true]
+			self dirty: true ]
 		ifFalse: [
-			self 
-				remove;
+			self remove;
 				privateSave;
-				dirty: false].
+				dirty: false ].

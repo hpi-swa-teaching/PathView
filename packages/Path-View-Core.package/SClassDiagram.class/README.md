@@ -1,4 +1,4 @@
-I am the canvas on which a PathView is drawn.
+I am the main canvas of PathView where classes and associations are drawn.
 You can drop SClassMorphs on me, as well as
 TransferMorphs containing classes from Browsers
 and other tools.

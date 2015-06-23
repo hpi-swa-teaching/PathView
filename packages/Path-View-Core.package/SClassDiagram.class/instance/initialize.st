@@ -3,13 +3,16 @@ initialize
 	
 	super initialize.
 	self
-		extent: 1500@1500;
+		extent: 1000@1000;
 		borderColor: Color gray;
 		color: Color white.
 	classMorphs := OrderedCollection new.
 	layoutingLocked := false.
+	hasScrollPane := false.
+
 	"Comment this in to enable the selection morph"
 	"selectionMorph := SSelectionMorph new."
+
 	dirty := false.
 	labelsHidden := false.
 	self currentHand newKeyboardFocus: self.

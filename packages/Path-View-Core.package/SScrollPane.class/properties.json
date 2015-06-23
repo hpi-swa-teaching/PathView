@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		 ],
+		"classDiagramMorph",
+		"containsDiagram" ],
 	"name" : "SScrollPane",
 	"pools" : [
 		 ],

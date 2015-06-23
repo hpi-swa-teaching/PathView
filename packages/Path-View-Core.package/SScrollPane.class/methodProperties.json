@@ -1,10 +1,15 @@
 {
 	"class" : {
-		"forMorph:" : "ag 12/29/2011 15:55:39.638" },
+		"forMorph:" : "AI 6/14/2015 10:02:58.302" },
 	"instance" : {
 		"centerAround:" : "ag 12/30/2011 16:42:30.552",
-		"initialize" : "ag 12/30/2011 12:57:52.461",
-		"initializeScrollBars" : "ag 12/29/2011 15:25:16.413",
+		"classDiagramMorph" : "AI 6/9/2015 15:54:10.124",
+		"classDiagramMorph:" : "AI 6/9/2015 15:53:56.756",
+		"containsDiagram" : "AI 6/18/2015 15:44:54.976",
+		"containsDiagram:" : "AI 6/9/2015 16:02:00.627",
+		"extent:" : "SM 6/16/2015 16:22:04.149",
+		"initialize" : "SM 6/16/2015 16:23:07.953",
+		"initializeScrollBars" : "AI 6/8/2015 11:26:56.728",
 		"scaleChangedTo:" : "mp 7/16/2013 14:10:28.834",
 		"scrollInsideBoundsBy:" : "ag 12/30/2011 16:36:40.941",
 		"scrollerMoved:" : "ag 4/19/2012 13:51:06.317",

@@ -5,7 +5,7 @@
 	"classvars" : [
 		"DebugOpenRandomMethods",
 		"DebugShowSubgraphs" ],
-	"commentStamp" : "<historical>",
+	"commentStamp" : "SM 6/21/2015 22:18:01.424",
 	"instvars" : [
 		"classMorphs",
 		"selectionMorph",
@@ -17,7 +17,9 @@
 		"multiWindowState",
 		"savedStates",
 		"currentState",
-		"openMutex" ],
+		"openMutex",
+		"scrollPane",
+		"hasScrollPane" ],
 	"name" : "SClassDiagram",
 	"pools" : [
 		 ],
