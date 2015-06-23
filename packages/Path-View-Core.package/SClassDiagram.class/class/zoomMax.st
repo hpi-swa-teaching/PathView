@@ -1,4 +1,4 @@
 constants
 zoomMax
 	
-	^ 2
+	^ 1

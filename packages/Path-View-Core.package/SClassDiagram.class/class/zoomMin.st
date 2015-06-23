@@ -1,4 +1,4 @@
 constants
 zoomMin
 	
-	^ 1
+	^ 0.2

@@ -1,4 +1,4 @@
 constants
 defaultZoomLevel
 	
-	^ 2
+	^ 10
