@@ -32,5 +32,7 @@
 		"testSaveDiagramAsPNG" : "fp 6/20/2015 12:57:13",
 		"testToggleLabels" : "fp 6/20/2015 13:02:35.209",
 		"testTransferredMorphHasDropPosition" : "fp 6/20/2015 12:56:41.88",
+		"testZoomToANumber" : "NR 6/24/2015 09:39:56.724",
+		"testZoomToTooLittleZoom" : "NR 6/24/2015 09:42:24.893",
 		"transferEventFor:" : "tfel 4/28/2011 16:47:10.507",
 		"transferEventFor:withType:" : "tfel 4/28/2011 16:47:16.837" } }
