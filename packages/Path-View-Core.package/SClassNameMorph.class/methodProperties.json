@@ -1,7 +1,10 @@
 {
 	"class" : {
+		"defaultFontSize" : "SM 6/26/2015 15:46:31.736",
 		"expandedByDefault" : "ag 12/9/2011 13:48:30.933",
+		"fontName" : "SM 6/26/2015 16:05:46.783",
 		"interestingSystemEvents" : "pt 7/5/2012 13:59:11.368",
+		"minimumScale" : "SM 6/26/2015 16:24:18.761",
 		"systemEventHandler" : "pt 7/5/2012 14:05:12.906" },
 	"instance" : {
 		"accept:" : "ag 7/2/2012 11:30:54.229",
@@ -15,10 +18,12 @@
 		"createAccessors" : "sp 6/8/2012 14:07:44.308",
 		"createEntries" : "ag 12/10/2011 13:47:22.705",
 		"deleteClass" : "mp 10/1/2013 11:56:07.429",
+		"initializeLabel" : "SM 6/26/2015 15:52:32.169",
 		"initializeLayout" : "ag 12/29/2011 00:06:50.359",
 		"labelCentered" : "ag 12/10/2011 16:41:18.082",
 		"labelEmphasis" : "ag 12/10/2011 16:14:13.986",
 		"mouseActions" : "sp 6/4/2012 12:25:13.291",
 		"renameClass" : "mp 9/29/2013 21:18:45.624",
+		"setFontSize:" : "SM 6/26/2015 16:05:40.367",
 		"showLabels:" : "ag 12/9/2011 16:48:36.431",
 		"updateLabel" : "ag 12/10/2011 16:09:34.503" } }

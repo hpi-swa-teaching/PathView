@@ -6,7 +6,8 @@ initialize
 		extent: 1000@1000;
 		borderColor: Color gray;
 		color: Color white;
-		zoomLevel: self class defaultZoomLevel.
+		zoomLevel: self class defaultZoomLevel;
+		isSemanticZooming: false.
 	classMorphs := OrderedCollection new.
 	layoutingLocked := false.
 	hasScrollPane := false.

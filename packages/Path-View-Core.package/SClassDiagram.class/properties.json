@@ -20,7 +20,8 @@
 		"openMutex",
 		"scrollPane",
 		"hasScrollPane",
-		"zoomLevel" ],
+		"zoomLevel",
+		"isSemanticZooming" ],
 	"name" : "SClassDiagram",
 	"pools" : [
 		 ],
