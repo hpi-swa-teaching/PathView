@@ -7,8 +7,6 @@ toolbarButtons
 		('File' #fileMenu #alwaysEnabled)
 		('Add note' #addNote #alwaysEnabled)
 		('Add class' #addClass #alwaysEnabled)
-		('Zoom in' #zoomIn #alwaysEnabled)
-		('Zoom out' #zoomOut #canZoomOut)
 		('Layout' #layoutGraph #alwaysEnabled)
 		('Preferences' #openPreferences #alwaysEnabled)
 		('Toggle lablels' #toggleLabels #alwaysEnabled)

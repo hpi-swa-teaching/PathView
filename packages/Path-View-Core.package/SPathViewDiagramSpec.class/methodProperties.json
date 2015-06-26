@@ -2,7 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"buildWith:" : "ag 12/4/2011 13:57:24.818",
+		"buildWith:" : "NR 6/23/2015 15:18:39.361",
 		"miniMap" : "ag 12/29/2011 16:40:13.798",
-		"scrollPane" : "AI 6/8/2015 11:30:17.406",
+		"scrollBar" : "NR 6/24/2015 01:10:50.041",
+		"scrollPane" : "NR 6/23/2015 16:00:16.248",
+		"viewAreaMorph" : "NR 6/23/2015 15:25:13.688",
 		"viewAreaMorph:" : "omg 6/14/2011 14:30:22.321" } }
