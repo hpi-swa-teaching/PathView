@@ -19,7 +19,8 @@
 		"currentState",
 		"openMutex",
 		"scrollPane",
-		"hasScrollPane" ],
+		"hasScrollPane",
+		"zoomLevel" ],
 	"name" : "SClassDiagram",
 	"pools" : [
 		 ],
