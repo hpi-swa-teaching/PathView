@@ -1,7 +1,7 @@
 menu actions
 getClass
 	
-	isTypeSet ifFalse: [
+	self isTypeSet ifFalse: [
 		self setTypeAndUpdateLabel: self getClassFromTypeHarvestOrAskFor].
 
-	^ type 
+	^ self variableType 

@@ -4,7 +4,7 @@ on: aClass in: aClassMorph forVariable: aVariableName withType: type
 	^ self basicNew
 		klass: aClass;
 		classMorph: aClassMorph;
-		type: type;
+		variableType: type;
 		variableName: aVariableName;
 		initialize;
 		yourself

@@ -8,7 +8,8 @@
 	"instvars" : [
 		"variableName",
 		"type",
-		"isTypeSet" ],
+		"isTypeSet",
+		"variableType" ],
 	"name" : "SInstVarMorph",
 	"pools" : [
 		 ],

@@ -7,5 +7,5 @@ openInstVarAssociationTo: newClassMorph
 	SAssociationConnector
 		openFor: self classMorph
 		connectedTo: newClassMorph
-		variableName: variableName
-		variableType: type.
+		variableName: self variableName
+		variableType: self variableType

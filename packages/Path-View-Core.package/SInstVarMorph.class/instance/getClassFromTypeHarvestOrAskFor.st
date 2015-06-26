@@ -1,5 +1,6 @@
 menu actions
 getClassFromTypeHarvestOrAskFor
+
 	^ self getClassFromTypeHarvest 
 		ifNil: [self askForClass]
 		ifNotNilDo: [:class |

@@ -2,5 +2,5 @@ user class selection
 createCollectionContainer
 	
 	SContainerType new
-		typeOfContainer: type;
+		typeOfContainer: self variableType;
  		typeOfElements: ((self userSelectedContainerClass: 'element-type') ifNil: [ ^ nil ])

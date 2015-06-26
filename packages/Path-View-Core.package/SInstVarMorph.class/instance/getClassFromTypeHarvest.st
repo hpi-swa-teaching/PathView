@@ -1,4 +1,4 @@
 menu actions
 getClassFromTypeHarvest
 	
-	^ self class memberTypeFor: variableName in: self klass
+	^ self class memberTypeFor: self variableName in: self klass

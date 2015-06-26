@@ -5,18 +5,18 @@ renameVariable
 	
 	newName := (UIManager default
 					request: 'New Variable Name'
-					initialAnswer: variableName asString)
+					initialAnswer: self variableName asString)
 						ifEmpty: [ ^self ].
-	newName = variableName ifTrue: [^self]  .
+	newName = self variableName ifTrue: [^self]  .
 	
 	type = #instance ifTrue: [
 			   refactoring := RBRenameInstanceVariableRefactoring 
-								rename: variableName
+								rename: self variableName
 								to: newName
-								in: klass
+								in: self klass
 	] ifFalse: [ refactoring := RBRenameClassVariableRefactoring
-								rename: variableName
+								rename: self variableName
 								to:  newName 
-								in: klass ].
+								in: self klass ].
 
-	SRefactoring execute: refactoring.
+	SRefactoring execute: refactoring

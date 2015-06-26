@@ -3,9 +3,9 @@ updateLabel
 	
 	| variableType |
 	super updateLabel.
-	
-	isTypeSet
-		ifTrue: [variableType := type]
+
+	self isTypeSet
+		ifTrue: [variableType := self variableType]
 		ifFalse: [variableType := self getClassFromTypeHarvest].
 
 	(variableType isNil or: [variableType isBehavior]) ifFalse: [ | vT |
@@ -13,4 +13,4 @@ updateLabel
 		variableType := vT typeOfContainer asString, '<'.
 		vT typeOfKeys ifNotNilDo: [:t | variableType := variableType, t, ', '].
 		variableType := variableType, vT typeOfElements, '>'].
-	labelMorph contents: variableName, (variableType ifNil: [' : ?'] ifNotNil: [' : ', variableType]).
+	labelMorph contents: self variableName, (variableType ifNil: [' : ?'] ifNotNil: [' : ', variableType])
