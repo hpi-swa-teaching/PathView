@@ -34,6 +34,8 @@
 		"testTransferredMorphHasDropPosition" : "fp 6/20/2015 12:56:41.88",
 		"testZoomToANumber" : "NR 6/24/2015 09:39:56.724",
 		"testZoomToTooLittleZoom" : "NR 6/24/2015 09:42:24.893",
-		"testZoomingWithSlider" : "NR 6/24/2015 16:51:03.424",
+		"testZoomingWithSlider" : "NR 6/26/2015 15:10:08.171",
+		"testZoomingWithSliderMax" : "NR 6/26/2015 15:11:09.852",
+		"testZoomingWithSliderMin" : "NR 6/26/2015 15:09:56.696",
 		"transferEventFor:" : "tfel 4/28/2011 16:47:10.507",
 		"transferEventFor:withType:" : "tfel 4/28/2011 16:47:16.837" } }
