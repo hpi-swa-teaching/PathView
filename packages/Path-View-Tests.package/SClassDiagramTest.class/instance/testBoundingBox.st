@@ -2,6 +2,6 @@ testing
 testBoundingBox
 
 	| classMorph |
-	classMorph := self addClass.
+	classMorph := self addClass: testClass.
 
 	self assert: [ instance boundingBoxOfClassMorphs = classMorph bounds ]

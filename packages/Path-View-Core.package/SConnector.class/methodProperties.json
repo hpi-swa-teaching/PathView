@@ -25,7 +25,7 @@
 		"graphSourceMorph" : "ag 6/4/2012 16:33:18.658",
 		"graphTargetMorph" : "ag 6/4/2012 16:33:29.739",
 		"initialize" : "ag 7/2/2012 15:22:08.807",
-		"initializeToolbar" : "tfel 5/22/2012 12:33:41.19",
+		"initializeToolbar" : "SM 6/9/2015 13:47:56.464",
 		"isConsistent" : "ag 12/27/2011 11:27:36.864",
 		"isDuplicateOf:" : "mp 7/16/2013 13:54:00.611",
 		"isError" : "tfel 6/28/2012 13:55:26.366",
@@ -50,5 +50,5 @@
 		"targetMorph" : "fb 6/14/2011 14:31:02.31",
 		"targetMorph:" : "fb 5/10/2011 13:50:46.203",
 		"toolbarButtonAlwaysEnabled" : "ag 9/7/2011 12:14:09.783",
-		"toolbarButtons" : "ag 9/7/2011 12:14:28.052",
+		"toolbarButtons" : "SM 6/9/2015 13:49:55.121",
 		"update" : "tfel 7/19/2011 14:22:09.958" } }

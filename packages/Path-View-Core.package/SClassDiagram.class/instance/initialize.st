@@ -8,8 +8,11 @@ initialize
 		color: Color white.
 	classMorphs := OrderedCollection new.
 	layoutingLocked := false.
+	hasScrollPane := false.
+
 	"Comment this in to enable the selection morph"
 	"selectionMorph := SSelectionMorph new."
+
 	dirty := false.
 	labelsHidden := false.
 	self currentHand newKeyboardFocus: self.

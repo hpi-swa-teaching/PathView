@@ -1,5 +1,6 @@
 toolbar-actions
 canScaleMinimapBigger
 	
-	minimap ifNil: [^ false].
-	^ minimap scalingFactor + self class minimapScaleStep < 1
+	^ minimap 
+		ifNil: [ false ]
+		ifNotNil: [ minimap scalingFactor + self class minimapScaleStep < 1 ]

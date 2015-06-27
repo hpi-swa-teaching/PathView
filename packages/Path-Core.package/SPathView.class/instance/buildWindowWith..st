@@ -10,7 +10,7 @@ buildWindowWith: aBuilder
 	pathViewSpec :=  SPathViewDiagramSpec new
 											model: self;
 											children: OrderedCollection new;
-											frame: (0@0.10 extent: 1@0.90);
+											frame: (0@0.05 extent: 1@0.95);
 											viewAreaMorph: self classDiagramMorph.
 	self windowSpec children addAll: { pathViewSpec }.
 	self buildButtonsWith: aBuilder.

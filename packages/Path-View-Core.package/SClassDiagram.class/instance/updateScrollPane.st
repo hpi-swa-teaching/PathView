@@ -1,9 +1,11 @@
 updating
-updateScrollPane
+updateScrollPane 
+	"after extent of the diagram has changed, the scrollbars have to be adapted"
 
-	self scrollPane 
-		resizeScrollBars;
-		resizeScroller;
-		hideOrShowScrollBars;
-		vSetScrollDelta;
-		hSetScrollDelta.
+	self hasScrollPane ifTrue: [
+		self scrollPane 
+			resizeScrollBars;
+			resizeScroller;
+			hideOrShowScrollBars;
+			vSetScrollDelta;
+			hSetScrollDelta ]
