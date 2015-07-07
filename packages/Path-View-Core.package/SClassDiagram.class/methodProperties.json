@@ -18,8 +18,8 @@
 		"numberOfRandomAutoOpenedMethods" : "ag 4/18/2012 13:11:53.808",
 		"repulsionConstant" : "ag 9/25/2011 19:18:04.046",
 		"zoomMax" : "NR 6/24/2015 01:04:57.178",
-		"zoomMin" : "NR 6/24/2015 01:05:13.084",
-		"zoomStep" : "NR 6/24/2015 01:05:17.244" },
+		"zoomMin" : "SM 7/8/2015 00:28:08.466",
+		"zoomStep" : "SM 7/8/2015 00:28:59.515" },
 	"instance" : {
 		"acceptClassCategory:" : "ag 4/19/2012 14:32:06.375",
 		"acceptDroppingMorph:event:" : "SM 6/23/2015 15:20:56.156",
@@ -58,7 +58,7 @@
 		"dirty:" : "SM 6/14/2015 16:32:02.568",
 		"disableSemanticZooming" : "SM 6/26/2015 16:54:19.994",
 		"enableSemanticZooming" : "SM 6/26/2015 14:57:19.464",
-		"enlargeClassNamesTo:" : "SM 6/26/2015 15:51:39.45",
+		"enlargeClassNamesTo:" : "SM 7/8/2015 01:26:09.908",
 		"expandAndToggleLabels" : "ag 3/8/2012 13:29:12.275",
 		"extendBottomBy:" : "SM 6/21/2015 17:18:58.095",
 		"extendDiagramAreaTo:" : "SM 6/23/2015 15:07:57.702",
@@ -67,7 +67,7 @@
 		"extendRightBy:" : "SM 6/21/2015 17:19:40.096",
 		"extendTopBy:" : "SM 6/21/2015 18:45:52.724",
 		"fileMenu" : "fp 6/21/2015 18:22:29.089",
-		"fontSizeFromScale:" : "SM 6/26/2015 16:12:19.047",
+		"fontSizeFromScale:" : "SM 7/8/2015 00:17:46.761",
 		"getClasses" : "SM 5/20/2015 23:40:30.697",
 		"getLabelsFromClasses:ifEmpty:" : "SM 5/20/2015 23:47:29.559",
 		"handlesMouseDown:" : "ag 9/22/2011 13:15:41.205",
@@ -134,7 +134,7 @@
 		"scrollPane" : "AI 6/14/2015 10:01:03.154",
 		"scrollPane:" : "SM 6/21/2015 17:22:41.556",
 		"setClassMorphsHidden:" : "SM 6/26/2015 15:00:22.586",
-		"setSemanticZooming:" : "SM 6/26/2015 16:54:27.436",
+		"setSemanticZooming:" : "SM 7/8/2015 00:06:05.239",
 		"setSmoothing:" : "mp 7/16/2013 13:36:16.569",
 		"shouldEnableSemanticZooming:" : "SM 6/26/2015 15:17:00.254",
 		"sortedClassMorphs:" : "mp 7/16/2013 13:36:24.509",
@@ -160,4 +160,4 @@
 		"windowLabelName" : "tfel 7/2/2012 11:01:38.489",
 		"zoomLevel" : "NR 6/23/2015 15:47:52.48",
 		"zoomLevel:" : "NR 6/23/2015 15:31:05.471",
-		"zoomTo:" : "SM 6/26/2015 16:23:03.815" } }
+		"zoomTo:" : "SM 7/8/2015 00:05:28.07" } }

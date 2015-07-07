@@ -1,4 +1,4 @@
 constants
 fontName 
 
-	^ TextStyle defaultFont familyName
+	^ #BitstreamVeraSans

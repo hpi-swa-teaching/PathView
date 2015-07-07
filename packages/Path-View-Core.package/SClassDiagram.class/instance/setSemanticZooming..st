@@ -5,6 +5,7 @@ setSemanticZooming: aNumber
 	self isSemanticZooming 
 		ifFalse: [ self setClassMorphsHidden: false ].
 
+
 	fontSize := self fontSizeFromScale: aNumber.
 	self enlargeClassNamesTo: fontSize.
 	self isSemanticZooming: true
