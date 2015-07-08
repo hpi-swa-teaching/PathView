@@ -1,4 +1,6 @@
 layout and labels
-setFontSize: aHeight
+setFontSize: aFontSizeInPoint
 
-	self labelMorph fontName: self class fontName size: aHeight
+	| height |
+	height := TextStyle pointsToPixels: aFontSizeInPoint.
+	self labelMorph fontName: self class fontName size: height

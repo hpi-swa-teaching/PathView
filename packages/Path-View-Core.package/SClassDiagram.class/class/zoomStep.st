@@ -1,4 +1,4 @@
 constants
 zoomStep
 	
-	^ 1
+	^ 0.15

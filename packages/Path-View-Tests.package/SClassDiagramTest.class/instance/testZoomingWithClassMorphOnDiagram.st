@@ -1,24 +1,16 @@
 zooming
 testZoomingWithClassMorphOnDiagram
 
-	| zoomLevel scrollPane dropPosition classMorph fontHeight fontSize calculatedFontSize |
+	| zoomLevel |
 
-	dropPosition := instance bounds center.
-	zoomLevel := 0.5.
-	scrollPane := SScrollPane forMorph: instance.
-	
-	instance
-		openClassMorphFor: klass
-		nextTo: dropPosition
-		positionedBy: [ :morph | morph position: dropPosition ].
+	zoomLevel := (klass zoomMax + klass zoomMin) / 2.
 
+	SScrollPane forMorph: instance.
+	self addClass: klass.
 	instance zoomTo: zoomLevel.
+	
+	Transcript show: (self getActualFontSize) asString, (instance classMorphs first nameMorph labelMorph contents) asString, (instance fontSizeFromScale: zoomLevel); cr.
 
-	classMorph := instance classMorphs first.
-	fontHeight := classMorph nameMorph labelMorph height.
-	fontSize := TextStyle pixelsToPoints: fontHeight.
-	calculatedFontSize := instance fontSizeFromScale: zoomLevel.
-
-	self 
-		assert: [ fontSize = calculatedFontSize ] 
+	self
+		assert: [ (self getActualFontSize) = (instance fontSizeFromScale: zoomLevel) ] 
 		description: 'Font size of class morph should equal calculated font size from zoom level'
