@@ -10,6 +10,7 @@ toolbarButtons
 		('Layout' #layoutGraph #alwaysEnabled)
 		('Preferences' #openPreferences #alwaysEnabled)
 		('Toggle lablels' #toggleLabels #alwaysEnabled)
+		('Toggle grid' #griddingOnOff #alwaysEnabled)
 		
 "The auto-layout buttons are disabled; when deleting this, also delete all implementation-methods in SClassDiagram and SClassMorph."
 "		('Trigger Auto Layout' #startLayouting #isLayoutNotRunning)

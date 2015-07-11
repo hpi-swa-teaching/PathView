@@ -7,6 +7,7 @@ initialize
 		borderColor: Color gray;
 		color: Color white;
 		zoomLevel: self class defaultZoomLevel.
+	
 	classMorphs := OrderedCollection new.
 	layoutingLocked := false.
 	hasScrollPane := false.
