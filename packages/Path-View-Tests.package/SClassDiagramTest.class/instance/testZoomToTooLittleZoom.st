@@ -1,4 +1,4 @@
-zooming
+testZooming
 testZoomToTooLittleZoom
 	
 	| zoomLevel scrollPane referenceScale |

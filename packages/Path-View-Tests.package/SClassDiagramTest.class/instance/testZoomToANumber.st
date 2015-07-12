@@ -1,4 +1,4 @@
-zooming
+testZooming
 testZoomToANumber
 	
 	| zoomLevel scrollPane |
