@@ -1,7 +1,5 @@
 geometry
-extendTopBy: aValue with: anOffset
+extendTopBy: aNumber with: anOffset
 	
-	| zoomFactor |
-	zoomFactor := 1 / self zoomLevel.
-	self extent: self extent + (0 @ (aValue + anOffset) * zoomFactor).
-	self top: self top - (aValue + anOffset) * zoomFactor
+	self extent: self extent + (0 @ (aNumber + anOffset) * self zoomFactor).
+	self top: self top - (aNumber + anOffset) * self zoomFactor

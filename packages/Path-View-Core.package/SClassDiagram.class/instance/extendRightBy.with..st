@@ -1,7 +1,5 @@
 geometry
-extendRightBy: aValue with: anOffset
+extendRightBy: aNumber with: anOffset
 
-	| zoomFactor |
-	zoomFactor := 1 / self zoomLevel.
-	self extent: self extent + ((aValue + anOffset) * zoomFactor @ 0).
+	self extent: self extent + ((aNumber + anOffset) * self zoomFactor @ 0).
 	
