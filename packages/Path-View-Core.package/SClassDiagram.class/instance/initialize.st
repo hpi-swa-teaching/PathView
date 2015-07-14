@@ -7,7 +7,7 @@ initialize
 		borderColor: Color gray;
 		color: Color white;
 		zoomLevel: self class defaultZoomLevel;
-		isSemanticZooming: false.
+		isAlreadySemanticZooming: false.
 	classMorphs := OrderedCollection new.
 	layoutingLocked := false.
 	hasScrollPane := false.

@@ -18,7 +18,7 @@
 		"testBoundingBox" : "SM 6/21/2015 17:28:04.278",
 		"testBoundingBoxForMultipleClasses" : "SM 6/16/2015 16:25:00.742",
 		"testCloseDiagram" : "fp 6/21/2015 18:23:32.935",
-		"testDefaultZoomingWithClassMorphOnDiagram" : "SM 7/8/2015 16:47:31.506",
+		"testDefaultZoomingWithClassMorphOnDiagram" : "SM 7/14/2015 09:37:44.559",
 		"testDiagramNeedsExtension" : "SM 6/14/2015 16:18:30.865",
 		"testEmptyBoundingBox" : "SM 6/9/2015 14:31:42.289",
 		"testExtendDiagramTopLeft" : "SM 7/8/2015 00:52:25.755",
@@ -38,7 +38,7 @@
 		"testTransferredMorphHasDropPosition" : "fp 6/20/2015 12:56:41.88",
 		"testZoomToANumber" : "SM 7/8/2015 16:52:39.593",
 		"testZoomToTooLittleZoom" : "SM 7/8/2015 16:28:54.669",
-		"testZoomingWithClassMorphOnDiagram" : "SM 7/8/2015 16:40:09.631",
+		"testZoomingWithClassMorphOnDiagram" : "SM 7/14/2015 09:37:58.571",
 		"testZoomingWithSlider" : "SM 7/8/2015 16:52:11.907",
 		"transferEventFor:" : "tfel 4/28/2011 16:47:10.507",
 		"transferEventFor:withType:" : "tfel 4/28/2011 16:47:16.837" } }

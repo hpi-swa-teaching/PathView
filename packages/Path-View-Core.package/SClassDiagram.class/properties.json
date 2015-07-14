@@ -21,7 +21,7 @@
 		"scrollPane",
 		"hasScrollPane",
 		"zoomLevel",
-		"isSemanticZooming" ],
+		"isAlreadySemanticZooming" ],
 	"name" : "SClassDiagram",
 	"pools" : [
 		 ],
