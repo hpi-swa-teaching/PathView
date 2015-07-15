@@ -4,5 +4,5 @@
 	"instance" : {
 		"setUp" : "SM 6/9/2015 13:44:35.469",
 		"testAddButtonWithTooltip" : "SM 6/9/2015 13:45:09.072",
-		"testSStickySourceCodeMorphToolbar" : "tk 7/15/2015 02:28:14.994",
-		"testSStickySourceCodeMorphToolbarMargins" : "tk 7/15/2015 03:00:21.045" } }
+		"testCodeMorphTextIntending" : "tk 7/15/2015 08:27:25.351",
+		"testCodeMorphToolbarDefinition" : "tk 7/15/2015 10:12:45.98" } }
