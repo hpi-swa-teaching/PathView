@@ -1,4 +1,4 @@
-bounds-helpers
+diagram-helpers
 addClass: aClass
 
 	| target |

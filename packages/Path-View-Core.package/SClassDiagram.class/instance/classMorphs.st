@@ -1,4 +1,4 @@
-accessing
-classMorphs 
-	
+toolbar-actions
+classMorphs
+
 	^ classMorphs

@@ -1,4 +1,4 @@
 zooming
 canZoomTo: aNumber
 	
-	^ aNumber > self class minZoomLevel
+	^ aNumber > self class zoomMin

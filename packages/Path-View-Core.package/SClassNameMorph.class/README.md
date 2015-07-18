@@ -1,3 +1,5 @@
+I am an ExpandableEntry morph, which is part of an actual class morph on the SClassDiagram. I show the name of the class represented by the SClassDiagramMorph.
+
 The Path Tools Framework is released under the MIT License (MIT).
 
 Copyright (c) 2009 Michael Perscheid, Software Architecture Group, 
