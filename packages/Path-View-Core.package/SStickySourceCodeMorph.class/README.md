@@ -23,3 +23,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+This class builds a morph with toolbuttons and a SSourceCodeMorph object which receives
+symbols of a class and a method of this class for viewing the methods code. The toolbar
+buttons contain a toggling button for syntax highlighting of the shown code.
+It shows up when the cursor hovers over a method in a class diagram morph. Clicking on
+the method adds the method morph to the hand so the user can drop it anywhere
+(connected to the class daigram morph)
