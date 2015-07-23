@@ -2,10 +2,7 @@ sudo: true
 language: erlang
 env:
 - ST=Squeak-4.5
-- ST=Squeak-Trunk
-matrix:
-  allow_failures:
-  - env: ST=Squeak-Trunk
+- ST=Squeak-4.6
 install:
 - export PROJECT_HOME="$(pwd)"
 - cd $HOME
