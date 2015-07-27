@@ -1,5 +1,5 @@
 toolbar
 toggleClassMorph
-	self labelHidden: labelHidden not.
+	self showLabel: labelHidden not.
 	self showLabels: labelHidden
 	

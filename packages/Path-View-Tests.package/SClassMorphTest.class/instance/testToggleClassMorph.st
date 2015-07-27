@@ -1,6 +1,6 @@
 as yet unclassified
 testToggleClassMorph
 	| firstState |
-	firstState := instance labelHidden.
+	firstState := instance showLabel.
 	instance toggleClassMorph.
-	self assert: [firstState not = instance labelHidden]
+	self assert: [firstState not = instance showLabel]

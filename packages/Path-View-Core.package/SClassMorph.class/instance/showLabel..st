@@ -1,3 +1,3 @@
 as yet unclassified
-labelHidden: bool
+showLabel: bool
 	labelHidden := bool

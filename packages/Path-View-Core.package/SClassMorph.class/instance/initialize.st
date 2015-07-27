@@ -11,5 +11,5 @@ initialize
 		rubberBandCells: true;
 		layoutPolicy: TableLayout new;
 		listDirection: #topToBottom;
-		labelHidden: false;
+		showLabel: false;
 		initializeSubMorphs.
