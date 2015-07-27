@@ -1,4 +1,4 @@
 repositories
 animations 
 
-	^ 'github://marceltaeumel/animations:master/repository'
+	^ 'github://hpi-swa/animations:master/repository'

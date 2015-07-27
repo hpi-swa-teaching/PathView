@@ -1,4 +1,7 @@
 repositories
 ownRepository
+    | gitPath |
 
-	^ 'github://HPI-SWA-Teaching/SWT15-Project-09/packages'
+    gitPath := (FileDirectory default directoryNamed: 'git_cache') fullName.
+
+	^ 'filetree://', gitPath, '/packages'
