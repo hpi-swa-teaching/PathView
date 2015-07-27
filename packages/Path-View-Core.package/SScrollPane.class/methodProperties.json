@@ -8,6 +8,7 @@
 		"containsDiagram" : "AI 6/18/2015 15:44:54.976",
 		"containsDiagram:" : "AI 6/9/2015 16:02:00.627",
 		"extent:" : "SM 6/16/2015 16:22:04.149",
+		"getUnScaledCenter" : "NR 6/26/2015 15:00:48.712",
 		"initialize" : "SM 6/16/2015 16:23:07.953",
 		"initializeScrollBars" : "AI 6/8/2015 11:26:56.728",
 		"scaleChangedTo:" : "mp 7/16/2013 14:10:28.834",
@@ -15,4 +16,4 @@
 		"scrollerMoved:" : "ag 4/19/2012 13:51:06.317",
 		"scrollerStartedDragging" : "ag 9/21/2011 17:54:21.676",
 		"setOffsetInsideBounds:" : "ag 12/30/2011 23:57:51.053",
-		"zoomInBy:" : "ag 12/30/2011 16:46:00.804" } }
+		"zoomToScale:" : "NR 6/26/2015 15:00:48.723" } }
