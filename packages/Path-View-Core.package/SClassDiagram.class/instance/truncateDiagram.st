@@ -1,7 +1,6 @@
 geometry
 truncateDiagram
-"1. Move all morphs to top left (get top left by bounding in world)
- 2. Diff with Scrollpane, update extent and make sure Diagram has still bigger extent"
+
 	| offset |
 
 	offset := self boundingBoxOfSubmorphs. 
