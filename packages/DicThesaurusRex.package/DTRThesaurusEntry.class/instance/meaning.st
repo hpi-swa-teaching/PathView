@@ -1,3 +1,0 @@
-accessing
-meaning
-	^ meaning

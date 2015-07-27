@@ -1,4 +1,0 @@
-private
-terminateBackgroundStylingProcess
-	super terminateBackgroundStylingProcess.
-	parentStyler terminateBackgroundStylingProcess

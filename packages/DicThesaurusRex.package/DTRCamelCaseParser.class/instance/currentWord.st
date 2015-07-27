@@ -1,3 +1,0 @@
-accessing
-currentWord
-	^ currentWord

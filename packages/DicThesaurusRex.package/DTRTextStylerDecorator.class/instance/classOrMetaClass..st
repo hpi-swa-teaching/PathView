@@ -1,3 +1,0 @@
-forwarding
-classOrMetaClass: aBehavior
-	parentStyler classOrMetaClass: aBehavior

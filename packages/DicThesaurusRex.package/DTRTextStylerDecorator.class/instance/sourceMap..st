@@ -1,3 +1,0 @@
-forwarding
-sourceMap: aSortedCollection
-	parentStyler sourceMap: aSortedCollection

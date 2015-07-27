@@ -1,3 +1,0 @@
-accessing
-synonyms
-	^ synonyms
