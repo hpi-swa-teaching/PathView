@@ -1,4 +1,4 @@
-zooming
+testZooming
 testZoomingWithSliderMin
 
 	| pathView slider diagram newZoomLevel |

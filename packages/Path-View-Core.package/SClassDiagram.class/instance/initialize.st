@@ -1,12 +1,15 @@
 initialization
-initialize 
-	
+initialize
+
 	super initialize.
 	self
 		extent: 1000@1000;
 		borderColor: Color gray;
 		color: Color white;
-		zoomLevel: self class defaultZoomLevel.
+		zoomLevel: self class defaultZoomLevel;
+		updateGridModulus;
+		isAlreadySemanticZooming: false.
+
 	classMorphs := OrderedCollection new.
 	layoutingLocked := false.
 	hasScrollPane := false.

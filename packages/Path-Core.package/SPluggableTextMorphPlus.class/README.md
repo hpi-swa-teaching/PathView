@@ -1,3 +1,9 @@
+This class is used by the SStickySourceCodeMorph which shows the source code of
+a method. The code is handled by a model object (SDefinitionModel) which calls the
+setText: method.
+A margin shifting the source code to the right is included so the line numbers are not
+overlayed.
+
 The Path Tools Framework is released under the MIT License (MIT).
 
 Copyright (c) 2009 Michael Perscheid, Software Architecture Group, 

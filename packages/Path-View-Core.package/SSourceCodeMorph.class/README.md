@@ -1,3 +1,7 @@
+The class is used for viewing the code of a method in a class diagramm. It creates a
+model object (SDefinitionModel) controlling the source code (incl. highlighting) and
+the viewer object (SPluggableTextMorphPlus).
+
 The Path Tools Framework is released under the MIT License (MIT).
 
 Copyright (c) 2009 Michael Perscheid, Software Architecture Group, 

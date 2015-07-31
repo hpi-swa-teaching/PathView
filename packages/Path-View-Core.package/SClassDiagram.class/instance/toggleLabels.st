@@ -1,8 +1,9 @@
 toolbar-actions
 toggleLabels
-	
-	labelsHidden := labelsHidden not.
-	classMorphs do: [ :classMorph | 
-		classMorph showLabels: labelsHidden not.
-		classMorph showLabel: labelsHidden not.
-		 ]
+
+	self labelsHidden: self labelsHidden not.
+	self classMorphs do: [ :classMorph |
+		classMorph showLabels: self labelsHidden not.
+		"classMorph labelHidden: self labelsHidden not"
+		classMorph showLabel: self labelsHidden not
+	]

@@ -3,4 +3,4 @@ initializeSubMorphs
 	
 	self 
 		addMorph: self nameMorph;
-		addMorphBack: self implementationMorph.
+		addMorphBack: self implementationMorph

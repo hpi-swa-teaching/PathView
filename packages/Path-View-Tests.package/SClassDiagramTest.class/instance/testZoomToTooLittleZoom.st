@@ -1,8 +1,8 @@
-zooming
+testZooming
 testZoomToTooLittleZoom
 	
 	| zoomLevel scrollPane referenceScale |
-	zoomLevel := SClassDiagram minZoomLevel - 0.1.
+	zoomLevel := SClassDiagram zoomMin - 0.1.
 	scrollPane := SScrollPane forMorph: instance.
 	referenceScale := scrollPane scroller scale.
 	instance zoomTo: zoomLevel.
