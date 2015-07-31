@@ -1,3 +1,5 @@
+I am an Implementation Morph, which means I am a wrapper for several State Morphs showing Instance Variables, Class Variables and Implemented Methods.
+
 The Path Tools Framework is released under the MIT License (MIT).
 
 Copyright (c) 2009 Michael Perscheid, Software Architecture Group, 

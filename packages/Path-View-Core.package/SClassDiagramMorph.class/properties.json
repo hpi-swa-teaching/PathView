@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		"klass" ],
+		"klass",
+		"diagramNeedsExtension" ],
 	"name" : "SClassDiagramMorph",
 	"pools" : [
 		 ],

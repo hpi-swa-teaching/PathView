@@ -12,4 +12,5 @@ initialize
 		layoutPolicy: TableLayout new;
 		listDirection: #topToBottom;
 		
+		initializeExtensionUpdating;
 		initializeSubMorphs.
