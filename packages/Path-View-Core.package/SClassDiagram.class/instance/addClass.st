@@ -31,5 +31,5 @@ addClass
 			) execute.
 		newName := Smalltalk at: newName asSymbol. ].  
 	
-	(SClassMorph on: newName) openInHand.
+	(SClassMorph on: newName) openInHand
 	

@@ -1,4 +1,4 @@
 toolbar-actions
 addNote
 
-	SNoteMorph new openInHand.
+	SNoteMorph new openInHand

@@ -1,4 +1,4 @@
 toolbar-actions
 openPreferences
 
-	PreferenceBrowser open selectedCategory: #'Path View'.
+	PreferenceBrowser open selectedCategory: #'Path View'

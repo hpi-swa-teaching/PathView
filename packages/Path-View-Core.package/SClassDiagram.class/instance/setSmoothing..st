@@ -8,4 +8,4 @@ setSmoothing: aNumber
 	minimap ifNotNil: [ minimap smoothing: 2 * aNumber ].
 	self
 		changed: #canSmoothUp;
-		changed: #canSmoothDown.
+		changed: #canSmoothDown
