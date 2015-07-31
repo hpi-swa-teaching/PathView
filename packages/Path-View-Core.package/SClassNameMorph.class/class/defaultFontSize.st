@@ -1,4 +1,4 @@
 constants
 defaultFontSize 
 
-	^ 16
+	^ 15

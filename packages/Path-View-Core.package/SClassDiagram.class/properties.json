@@ -3,10 +3,10 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		"GridModulusX",
-		"GridModulusY",
 		"DebugOpenRandomMethods",
-		"DebugShowSubgraphs" ],
+		"DebugShowSubgraphs",
+		"GridModulusX",
+		"GridModulusY" ],
 	"commentStamp" : "SM 6/21/2015 22:18:01.424",
 	"instvars" : [
 		"multiWindowState",

@@ -9,5 +9,5 @@ testDefaultZoomingWithClassMorphOnDiagram
 	font := textStyle fontOfPointSize: SClassNameMorph defaultFontSize.
 	
 	self 
-		assert: [ self getActualFontSize = font pointSize ] 
+		assert: [ self getActualFontSize = font height ] 
 		description: 'Font size of class morph should equal calculated font size from zoom level'

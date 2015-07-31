@@ -1,6 +1,6 @@
 updating
 updateScrollPane 
-	"after the extend of the diagram changed, the scrollbars have to be adapted"
+	"after extent of the diagram has changed, the scrollbars have to be adapted"
 
 	self hasScrollPane ifTrue: [
 		self scrollPane 

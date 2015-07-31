@@ -7,7 +7,7 @@ toolbarButtons
 		('File' #fileMenu #alwaysEnabled)
 		('Add class' #addClass #alwaysEnabled)
 		('Add note' #addNote #alwaysEnabled)
-		('Layout' #layoutGraph #alwaysEnabled)
+		('Truncate' #truncateDiagram #alwaysEnabled)
 		('Preferences' #openPreferences #alwaysEnabled)
 		('Toggle lablels' #toggleLabels #alwaysEnabled)
 		('Toggle grid' #griddingOnOff #alwaysEnabled)

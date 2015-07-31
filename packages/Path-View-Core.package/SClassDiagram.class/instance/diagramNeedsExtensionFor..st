@@ -1,4 +1,4 @@
-resizing
+geometry
 diagramNeedsExtensionFor: aMorph
 	"check if the changed morph is outside the diagram bounds"
 	| mergedArea |
