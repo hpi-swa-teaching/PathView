@@ -3,10 +3,10 @@ refactorClassVariable: classVarRefactoringClass instanceVariable: instanceVarRef
 	
 	| refactoringClass |
 	refactoringClass :=
-		self type == #class
+		self variableType == #class
 			ifTrue: [ classVarRefactoringClass ]
 			ifFalse: [ 
-		self type == #instance
+		self variableType == #instance
 			ifTrue: [ instanceVarRefactoringClass ]
 			ifFalse: [ ^ self ] ].
 	SRefactoring execute:

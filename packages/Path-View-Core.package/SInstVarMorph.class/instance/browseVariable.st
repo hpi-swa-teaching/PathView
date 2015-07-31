@@ -1,4 +1,4 @@
 event handling
 browseVariable
 
-	self getClass browse.
+	self ensureAndGetClass ifNotNilDo: [ :class | class browse]

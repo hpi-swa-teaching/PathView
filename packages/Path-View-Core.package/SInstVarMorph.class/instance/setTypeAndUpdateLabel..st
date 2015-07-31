@@ -1,6 +1,6 @@
 accessing
 setTypeAndUpdateLabel: aSymbol
 
-	self type: aSymbol.
-	isTypeSet := true.
+	self variableType: aSymbol.
+	self isTypeSet: true.
 	self updateLabel

@@ -3,16 +3,16 @@ deleteVariable
 
 	| refactoring |
 	
-	(UIManager default confirm: 'Really delete ', variableName, '?') ifFalse: [^self].
+	(UIManager default confirm: 'Really delete ', self variableName, '?') ifFalse: [ ^ self ].
 
 	self flag: #TODO.
 	"FIX: sometimes the diagram will not update... classModifiedEvent is not triggered"
-	type = #instance ifTrue: [
+	self variableType = #instance ifTrue: [
 				 refactoring := RBRemoveInstanceVariableRefactoring 
-								remove: variableName
-								from: klass.
+								remove: self variableName
+								from: self klass.
 	] ifFalse: [ refactoring := RBRemoveClassVariableRefactoring
-								variable: variableName
-								class: klass ].
+								variable: self variableName
+								class: self klass ].
 
-	SRefactoring execute: refactoring.
+	SRefactoring execute: refactoring

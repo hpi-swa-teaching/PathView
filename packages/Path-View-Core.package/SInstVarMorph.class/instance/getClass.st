@@ -1,7 +1,10 @@
 menu actions
 getClass
-	
-	isTypeSet ifFalse: [
-		self setTypeAndUpdateLabel: self getClassFromTypeHarvestOrAskFor].
+	"If type is not set try to get Type from Type-Harvester, this can be nil. If not set the result, so it gets displayed."
 
-	^ type 
+	^ self isTypeSet
+		ifFalse: [ self getClassFromTypeHarvest
+			ifNotNilDo: [ :type | 
+				self setTypeAndUpdateLabel: type.
+				type]]
+		ifTrue: [self variableType ]

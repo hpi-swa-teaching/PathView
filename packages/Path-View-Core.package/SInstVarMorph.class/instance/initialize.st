@@ -2,4 +2,4 @@ layout and labels
 initialize
 
 	super initialize.
-	isTypeSet := false
+	self isTypeSet: false

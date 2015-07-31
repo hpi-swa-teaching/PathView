@@ -1,11 +1,10 @@
 initialization
 newDiagram
 
-	self 
+	self
 		saveState;
 		removeAllMorphs;
-		savedName: nil.
-	currentState := nil.
-	self 
+		savedName: nil;
+		currentState: nil;
 		saveState;
 		dirty: false
