@@ -24,7 +24,7 @@ Metacello new
 	baseline: 'PathView';
 	githubUser: 'HPI-SWA-Teaching'
 	project: 'SWT15-Project-09'
-	commitish: 'presentation-release'
+	commitish: 'final-release'
 	path: 'packages'
 }
 do: [ :baseline | baseline get ];
