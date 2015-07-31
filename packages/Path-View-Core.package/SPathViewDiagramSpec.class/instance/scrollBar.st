@@ -10,9 +10,9 @@ scrollBar
 			maximum: SClassDiagram zoomMax;
 			singleStep: SClassDiagram zoomStep;
 			currentValue: self viewAreaMorph zoomLevel.
-		self 
+		self
 			connect: scrollBar
 			signal: #valueChanged:
 			to: self viewAreaMorph
-			selector: #zoomTo:. 
+			selector: #zoomTo:.
 		scrollBar ]

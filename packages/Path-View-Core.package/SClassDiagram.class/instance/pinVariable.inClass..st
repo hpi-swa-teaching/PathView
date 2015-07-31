@@ -3,4 +3,4 @@ pinVariable: aSymbol inClass: aClass
 	
 	self
 		morphForClass: aClass
-		do: [ :morph | morph pinVariable: aClass -> aSymbol ].
+		do: [ :morph | morph pinVariable: aClass -> aSymbol ]

@@ -8,4 +8,4 @@ layoutStep
 	totalEnergy := self applyForces / classMorphs size.
 	self moveNodes.
 	(layoutingLocked not and: [ totalEnergy < self class minimalKineticEnergy ])
-		ifTrue: [ self stopLayouting ].
+		ifTrue: [ self stopLayouting ]

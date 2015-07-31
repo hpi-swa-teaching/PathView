@@ -1,4 +1,4 @@
 arrows
 arrowTypes
 	
-	^#( noArrow bigOpenArrow )
+	^#( noArrow openArrow )

@@ -3,4 +3,4 @@ deleteDebugSubmorphs
 	
 	self submorphs
 		select: [ :morph | morph isKindOf: SDebugRectangleMorph ]
-		thenDo: #delete.
+		thenDo: #delete

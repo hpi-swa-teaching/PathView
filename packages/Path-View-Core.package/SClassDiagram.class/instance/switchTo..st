@@ -3,4 +3,4 @@ switchTo: aString
 
 	self
 		saveState;
-		restoreFrom: aString.
+		restoreFrom: aString

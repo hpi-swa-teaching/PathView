@@ -3,4 +3,4 @@ addClasses: aCollectionOfClasses
 	
 	self
 		openClassMorphs: aCollectionOfClasses at: self center;
-		arrangeAssociations: classMorphs.
+		arrangeAssociations: classMorphs

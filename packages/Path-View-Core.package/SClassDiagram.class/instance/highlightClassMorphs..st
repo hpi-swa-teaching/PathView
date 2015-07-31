@@ -9,4 +9,4 @@ highlightClassMorphs: aClass
 		(lastClass notNil and: [ classMorph klass ~= lastClass ])
 			ifTrue: [ color := self lighterHighlightColorFor: color inClass: aClass ].
 		lastClass := classMorph klass.
-		classMorph highlight: color ].
+		classMorph highlight: color ]

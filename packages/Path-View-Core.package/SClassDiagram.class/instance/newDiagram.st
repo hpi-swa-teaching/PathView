@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 newDiagram
 
 	self
@@ -7,4 +7,4 @@ newDiagram
 		savedName: nil;
 		currentState: nil;
 		saveState;
-		dirty: false.
+		dirty: false

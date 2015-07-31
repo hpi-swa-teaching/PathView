@@ -3,4 +3,4 @@ pinAllVariablesInClass: aClass
 	
 	self
 		morphForClass: aClass
-		do: [ :morph | morph pinAllVariables ].
+		do: [ :morph | morph pinAllVariables ]

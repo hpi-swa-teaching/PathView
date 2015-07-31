@@ -4,4 +4,4 @@ expandAndToggleLabels
 	All morphs, entries and subentries has first to be expanded (initialized), to ensure that pinned methods stay visible after toggleLabels."
 	
 	classMorphs do: #expandMorphs.
-	self toggleLabels.
+	self toggleLabels

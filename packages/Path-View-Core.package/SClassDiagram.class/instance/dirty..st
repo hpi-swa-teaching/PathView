@@ -9,4 +9,4 @@ dirty: aBoolean
 		changed: #hasChanged;
 		changed: #hasSubmorphs;
 		changed: #windowLabel;
-		changed: #isSaved.
+		changed: #isSaved

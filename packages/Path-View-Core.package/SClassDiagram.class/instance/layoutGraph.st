@@ -18,4 +18,4 @@ layoutGraph
 		ifTrue: [
 			SGraph setCurrentGraph: graph. 	"(Enable debugging the layout algorithms)"
 			graph applyDebugLayout ]
-		ifFalse: [ graph applyLayout ].
+		ifFalse: [ graph applyLayout ]

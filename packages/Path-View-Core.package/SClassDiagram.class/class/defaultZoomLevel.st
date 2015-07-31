@@ -1,4 +1,5 @@
 constants
 defaultZoomLevel
-	
-	^ 10
+	"This is the initial scale of the scrollPane"
+
+	^ 1
