@@ -5,4 +5,4 @@ arrangeAssociations: collectionOfClassMorphs
 		classMorphs := collectionOfClassMorphs copyWithout: aMorph.
 		aMorph
 			openAssociationConnectionsWithAll: classMorphs;
-			openInheritanceConnectionsWithAll: classMorphs ].
+			openInheritanceConnectionsWithAll: classMorphs ]

@@ -8,4 +8,4 @@ openSaved: aString
 		classes do: [:klass | klass perform: aString asSymbol asMutator with: self]].
 	self dirty: false.
 	currentState := nil.
-	self saveState.
+	self saveState

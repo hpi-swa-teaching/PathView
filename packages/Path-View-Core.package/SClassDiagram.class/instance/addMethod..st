@@ -5,4 +5,4 @@ addMethod: anAssociation
 	
 	^ self
 		morphForClass: anAssociation key
-		do: [ :morph | morph openMethod: anAssociation ].
+		do: [ :morph | morph openMethod: anAssociation ]

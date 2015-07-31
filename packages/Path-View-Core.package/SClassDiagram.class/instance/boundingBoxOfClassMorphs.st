@@ -7,4 +7,4 @@ boundingBoxOfClassMorphs
 	^ self classMorphs 
 		inject: emptyRectangle 
 		into: [ :rectangle :each |
-			rectangle quickMerge: each fullBounds ].
+			rectangle quickMerge: each fullBounds ]

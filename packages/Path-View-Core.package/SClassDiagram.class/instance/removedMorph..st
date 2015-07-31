@@ -7,4 +7,4 @@ removedMorph: aMorph
 	aMorph removeDependent: self.
 	self
 		contentChangedBecauseOf: aMorph;
-		changed: #morphRemoved.
+		changed: #morphRemoved

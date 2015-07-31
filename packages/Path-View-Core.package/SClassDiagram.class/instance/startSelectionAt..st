@@ -3,4 +3,4 @@ startSelectionAt: position
 	
 	selectionMorph ifNotNil:  
 		[ selectionMorph initializeAt: position.
-		self addMorph: selectionMorph ].
+		self addMorph: selectionMorph ]

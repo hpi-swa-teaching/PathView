@@ -4,4 +4,4 @@ lockLayouting
 	layoutingLocked := true.
 	self
 		changed: #isLayoutUnlocked;
-		startLayouting.
+		startLayouting
