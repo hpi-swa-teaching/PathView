@@ -8,4 +8,4 @@ startLayouting
 			ifFalse: [ layoutProcess := true. self startStepping ]. "See isLayoutRunning"
 		self
 			changed: #isLayoutRunning;
-			changed: #isLayoutNotRunning ].
+			changed: #isLayoutNotRunning ]

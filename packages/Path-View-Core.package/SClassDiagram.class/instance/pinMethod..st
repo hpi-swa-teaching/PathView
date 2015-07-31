@@ -3,4 +3,4 @@ pinMethod: association
 	
 	self
 		morphForMethod: association
-		do: #pin.
+		do: #pin

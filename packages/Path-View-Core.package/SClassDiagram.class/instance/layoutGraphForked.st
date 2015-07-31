@@ -5,4 +5,4 @@ layoutGraphForked
 	
 	[ (Delay forMilliseconds: 300) wait.
 	self layoutGraph ]
-		fork.
+		fork

@@ -1,5 +1,6 @@
 menu-actions
 save
+
 	| oldSavedName |
 	oldSavedName := savedName.
 
@@ -18,4 +19,4 @@ save
 		ifFalse: [
 			self remove;
 				privateSave;
-				dirty: false ].
+				dirty: false ]

@@ -1,5 +1,6 @@
 menu-actions
 fileMenu
+
 	| choices entry |
 	choices := (savedStates associations collect: [:association | 
 		association key -> association value first -> [self switchTo: association key]]),
@@ -23,4 +24,4 @@ fileMenu
 		values: (choices collect: #value)
 		lines: {savedStates keys size}
 		title: ''.
-	entry value.
+	entry value

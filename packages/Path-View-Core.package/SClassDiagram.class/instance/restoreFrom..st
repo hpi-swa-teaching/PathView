@@ -6,4 +6,4 @@ restoreFrom: aString
 		addAllMorphs: (((savedStates at: aString) last) reject: #isNil).
 	currentState := aString.
 	self savedName: (aString copyUpToLast: $#).
-	self dirty: false.
+	self dirty: false

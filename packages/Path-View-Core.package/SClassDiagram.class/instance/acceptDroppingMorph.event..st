@@ -21,4 +21,4 @@ acceptDroppingMorph: aMorph event: anEvent
 
 	newMorph isClassMorph & (isNewMorph | aMorph isClassMorph not) ifTrue: [
 		newMorph showLabels: labelsHidden not.
-		newMorph optionallyOpenConnectors ].
+		newMorph optionallyOpenConnectors ]

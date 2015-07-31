@@ -1,4 +1,4 @@
 highlighting
 removeHighlights
 	
-	classMorphs do: [ :morph | morph removeHighlight ].
+	classMorphs do: [ :morph | morph removeHighlight ]

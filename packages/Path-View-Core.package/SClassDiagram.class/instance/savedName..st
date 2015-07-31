@@ -1,4 +1,4 @@
 accessing
 savedName: aString
 
-	savedName := aString.
+	savedName := aString

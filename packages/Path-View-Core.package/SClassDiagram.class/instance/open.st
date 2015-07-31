@@ -9,4 +9,4 @@ open
 								labels: (projectViews collect: [:s | s asText addAttribute: TextEmphasis struckOut]), otherViews
 								values: projectViews, otherViews
 								lines: {projectViews size})
-									ifNil: [^ self]).
+									ifNil: [^ self])

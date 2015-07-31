@@ -18,4 +18,4 @@ stopLayouting
 	self
 		changed: #isLayoutRunning;
 		changed: #isLayoutNotRunning;
-		changed: #isLayoutUnlocked.
+		changed: #isLayoutUnlocked

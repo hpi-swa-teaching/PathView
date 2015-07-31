@@ -5,4 +5,4 @@ minimap: anSMiniMap
 	super minimap: anSMiniMap.
 	minimap scalingFactor: self class defaultMinimapScale.
 	minimap hideByDefault: true. "Hide by default to address performance-issue."
-	self initializeSmoothing.
+	self initializeSmoothing

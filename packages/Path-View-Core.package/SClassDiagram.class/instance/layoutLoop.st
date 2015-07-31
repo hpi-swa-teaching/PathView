@@ -8,4 +8,4 @@ layoutLoop
 		self layoutStep.
 		self layoutStepTime ~= 0 ifTrue: [ (Delay forMilliseconds: self layoutStepTime) wait ]
 	]
-	repeat.
+	repeat

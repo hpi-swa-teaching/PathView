@@ -10,4 +10,4 @@ addedMorph: aMorph
 		aMorph focus ].
 	self
 		contentChangedBecauseOf: aMorph;
-		changed: #morphAdded.
+		changed: #morphAdded

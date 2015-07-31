@@ -20,4 +20,4 @@ initialize
 	self changed: #hasSubmorphs. "This deactivates 'Save as PNG' button."
 	savedStates := Dictionary new.
 	self saveState.
-	openMutex := Mutex new.
+	openMutex := Mutex new
