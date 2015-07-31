@@ -4,6 +4,10 @@
 	"instance" : {
 		"expectedFailures" : "tfel 5/17/2011 15:46:25.872",
 		"setUp" : "tfel 4/30/2011 14:16:59.558",
+		"testDiagramNeedsExtension" : "SM 7/13/2015 12:07:44.072",
+		"testExtendDiagram" : "SM 7/13/2015 12:13:06.493",
+		"testHasDiagramParent" : "SM 7/13/2015 11:23:55.17",
+		"testHasNoDiagramParent" : "SM 7/13/2015 11:24:50.179",
 		"testOpenCloseAncestors" : "mp 4/30/2013 16:43:49.154",
 		"testOpenDirectAssociations" : "mp 3/26/2013 11:49:53.606",
 		"testShouldAllowChangingTheSuperclass" : "tfel 5/13/2011 15:49:42.945",

@@ -1,0 +1,4 @@
+accessing
+instanceBehaviorMorph
+
+	^ instanceBehaviorMorph

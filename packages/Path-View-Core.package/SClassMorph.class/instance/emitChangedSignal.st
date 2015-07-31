@@ -1,0 +1,4 @@
+accessing
+emitChangedSignal 
+
+	self emit

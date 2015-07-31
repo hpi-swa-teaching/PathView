@@ -2,4 +2,6 @@ initialization
 initialize
 
 	super initialize.
-	self initializeSystemChangeListening
+	self
+		initializeSystemChangeListening;
+		diagramNeedsExtension: false

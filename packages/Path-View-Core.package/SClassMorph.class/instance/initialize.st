@@ -1,6 +1,6 @@
 initialization
 initialize
-	
+
 	super initialize.
 	self
 		borderWidth: 0;
@@ -12,4 +12,5 @@ initialize
 		layoutPolicy: TableLayout new;
 		listDirection: #topToBottom;
 		showLabel: false;
+		initializeExtensionUpdating;
 		initializeSubMorphs.

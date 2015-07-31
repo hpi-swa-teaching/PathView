@@ -6,9 +6,13 @@
 		"systemEventHandler" : "sp 6/4/2012 16:19:13.189" },
 	"instance" : {
 		"accept:" : "ag 7/2/2012 11:34:35.424",
+		"classBehaviorMorph" : "SM 7/13/2015 11:54:12.035",
 		"classModified:" : "sp 6/4/2012 16:47:55.873",
+		"classStateMorph" : "SM 7/13/2015 11:54:12.055",
 		"createEntries" : "ag 3/30/2012 11:18:07.338",
 		"initializeLabel" : "ag 9/22/2011 15:19:44.297",
+		"instanceBehaviorMorph" : "SM 7/13/2015 11:53:53.428",
+		"instanceStateMorph" : "SM 7/13/2015 11:54:12.046",
 		"methodMorphFor:" : "ag 3/30/2012 11:33:00.311",
 		"showLabels:" : "ag 12/10/2011 16:34:54.674",
 		"toggleExpansion" : "ag 12/9/2011 13:13:00.447",
