@@ -7,4 +7,4 @@ initializeScrollBars
 
 	scroller := SScroller new color: Color transparent.
 	scroller offset: 0 @ 0.
-	self addMorph: scroller.
+	self addMorph: scroller
