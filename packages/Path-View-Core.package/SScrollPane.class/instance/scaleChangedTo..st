@@ -4,4 +4,4 @@ scaleChangedTo: newScale
 	
 	newScale = 1
 		ifTrue: [ self showScrollBars; setScrollDeltas ]
-		ifFalse: [ self hideScrollBars ].
+		ifFalse: [ self hideScrollBars ]

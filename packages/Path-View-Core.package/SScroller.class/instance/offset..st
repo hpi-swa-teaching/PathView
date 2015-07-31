@@ -10,4 +10,4 @@ offset: aPoint
 	Somehow the mini-map affects the repaint-performance of this Scroller-morph, even though it is not even a submorph of this scroller morph!"
 	super offset: aPoint.
 	
-	offsetChangeBlock ifNotNil: [ offsetChangeBlock value: oldOffset value: self offset ].
+	offsetChangeBlock ifNotNil: [ offsetChangeBlock value: oldOffset value: self offset ]

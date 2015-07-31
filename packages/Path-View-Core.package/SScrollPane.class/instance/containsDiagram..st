@@ -1,4 +1,4 @@
 accessing
 containsDiagram: aBool
 
-	containsDiagram := aBool.
+	containsDiagram := aBool

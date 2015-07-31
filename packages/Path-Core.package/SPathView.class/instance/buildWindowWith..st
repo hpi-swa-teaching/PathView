@@ -14,4 +14,4 @@ buildWindowWith: aBuilder
 											viewAreaMorph: self classDiagramMorph.
 	self windowSpec children addAll: { pathViewSpec }.
 	self buildButtonsWith: aBuilder.
-	super buildWith: aBuilder.
+	super buildWith: aBuilder

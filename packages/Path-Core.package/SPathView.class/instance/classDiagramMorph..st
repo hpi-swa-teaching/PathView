@@ -1,4 +1,4 @@
 building
 classDiagramMorph: aClassDiagramMorph
 	
-	classDiagramMorph := aClassDiagramMorph.
+	classDiagramMorph := aClassDiagramMorph
