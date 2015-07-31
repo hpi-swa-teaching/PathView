@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testShouldNotBecomePinnedIfDragged
 	
 	self mock: #openInHand of: Morph toReturn: [:i | i] during: [

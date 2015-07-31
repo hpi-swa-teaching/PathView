@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testShouldBeConvertibleToAnAssociationArrowThatHasTheCorrectOwner
 	| associationArrow |
 	self mock: #openInHand of: Morph toReturn: [:i | i] during: [
