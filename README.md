@@ -1,4 +1,4 @@
-SWT15-Project-09 [![Build Status](https://travis-ci.org/HPI-SWA-Teaching/SWT15-Project-09.svg)](https://travis-ci.org/HPI-SWA-Teaching/SWT15-Project-09)
+PathView [![Build Status](https://travis-ci.org/HPI-SWA-Teaching/PathView.svg)](https://travis-ci.org/HPI-SWA-Teaching/PathView)
 ===================
 
 Install in 4.6 and use a cloned repository with filetree
@@ -23,7 +23,7 @@ Install in 4.6 and pull code directly from github
 Metacello new
 	baseline: 'PathView';
 	githubUser: 'HPI-SWA-Teaching'
-	project: 'SWT15-Project-09'
+	project: 'PathView'
 	commitish: 'final-release'
 	path: 'packages'
 }
