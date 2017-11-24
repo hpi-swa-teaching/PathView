@@ -1,4 +1,4 @@
-PathView [![Build Status](https://travis-ci.org/HPI-SWA-Teaching/PathView.svg)](https://travis-ci.org/HPI-SWA-Teaching/PathView)
+PathView [![Build Status](https://travis-ci.org/hpi-swa-teaching/PathView.svg)](https://travis-ci.org/hpi-swa-teaching/PathView)
 ===================
 
 Install in 4.6 and use a cloned repository with filetree
@@ -22,7 +22,7 @@ Install in 4.6 and pull code directly from github
 {
 Metacello new
 	baseline: 'PathView';
-	githubUser: 'HPI-SWA-Teaching'
+	githubUser: 'hpi-swa-teaching'
 	project: 'PathView'
 	commitish: 'final-release'
 	path: 'packages'
