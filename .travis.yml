@@ -2,5 +2,10 @@ language: smalltalk
 sudo: false 
 
 smalltalk:
+ - Squeak-5.2
  - Squeak-4.5
  - Squeak-4.6
+
+matrix:
+ allow_failures:
+  - smalltalk: Squeak-5.2
