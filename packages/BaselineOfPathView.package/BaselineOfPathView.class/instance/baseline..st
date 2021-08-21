@@ -16,7 +16,7 @@ baseline: spec
 			package: 'SSpec' with: [ spec requires: #('SwaUtil' 'MethodWrappers'); repository: self class swaUtilities ];
 			baseline: 'Connectors' with: [ spec repository: self class ownRepository ];
 			configuration: 'RefactoringBrowser' with: [ spec repository: self class metacello ];
-			baseline: 'MorphicUITestingFramework' with: [ spec repository: self class morphicUITestingFramework ].
+			baseline: 'MorphicTestingFramework' with: [ spec repository: self class morphicTestingFramework ].
 
 		"path tools packages"
 		spec
@@ -25,7 +25,7 @@ baseline: spec
 				requires: #('Connectors' 'RefactoringBrowser' 'Path-Core' 'SwaMC' 'SSpec')
 				"postLoadDoIt: #postLoadConnectorsArrows" ];
 
-			package: 'Path-View-Tests' with: [ spec requires: #('Path-View-Core' 'MorphicUITestingFramework') ].
+			package: 'Path-View-Tests' with: [ spec requires: #('Path-View-Core' 'MorphicTestingFramework') ].
 
 		spec
 			group: 'default' with: #('Path-View-Core');
