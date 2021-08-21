@@ -16,7 +16,7 @@ baseline: spec
 			package: 'SSpec' with: [ spec requires: #('SwaUtil' 'MethodWrappers'); repository: self class swaUtilities ];
 			baseline: 'Connectors' with: [ spec repository: self class ownRepository ];
 			configuration: 'RefactoringBrowser' with: [ spec repository: self class metacello ];
-			baseline: 'MorphicUITestingFramework' with: [ spec repository: self class morphicUITestingFramework; className: 'BaselineOfProject12' ].
+			baseline: 'MorphicUITestingFramework' with: [ spec repository: self class morphicUITestingFramework ].
 
 		"path tools packages"
 		spec
